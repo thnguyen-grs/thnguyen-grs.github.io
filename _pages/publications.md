@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href=**{{author.googlescholar}}**>my Google Scholar profile</a>.</u>
+{% endif %}
+
 {% include base_path %}
 
-<!--{% if author.googlescholar %}
-  You can also find my articles on <u><a href=**{{author.googlescholar}}**>my Google Scholar profile</a>.</u>
-{% endif %}-->
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Preprints
 1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image** (submitted) \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\]<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156" />
