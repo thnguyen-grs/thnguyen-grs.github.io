@@ -21,9 +21,11 @@ Alma mater:
 - IMT Atlantique Bretagne-Pays de la Loire Afficher l'image d'origine (M.Eng., M.Sc.)
 - Ho Chi Minh City University of Technology Afficher l'image d'origine (B.Eng.)
 
+##asa
+------
 Office: Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
-Email address:
+#Email address:
 thanh[dot]nguyen[at]imt-atlantique[dot]fr 
 thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
