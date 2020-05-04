@@ -22,7 +22,7 @@ Work experience
 * Mar.-Sep. 2016: Engineering Intern/IT Developer
   * at **Orange France** (Direction Strategy Innovation), Orange Village, Île-de-France, France
   * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper.**
-  * Supervisors: Ionel Tothezan, Christian Le Blainvaux, Cathérine Lemarquis (Orange)
+  * Supervisors: Ionel Tothezan, Christian Le Blainvaux and Cathérine Lemarquis (Orange)
 
 * Mar.-Sep. 2015: Engineering Intern
   * at **ECA Robotics**, Brest, France
