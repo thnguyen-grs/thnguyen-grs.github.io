@@ -19,17 +19,17 @@ Education
 
 Work experience
 ======
-* Mar.-Sep. 2016: Engineering Intern/IT Developer
+* Mar. - Sep. 2016: Engineering Intern/IT Developer
   * at **Orange France** (Direction Strategy Innovation), Orange Village, Île-de-France, France
   * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper.**
   * Supervisors: Ionel Tothezan, Christian Le Blainvaux and Cathérine Lemarquis (Orange)
 
-* Mar.-Sep. 2015: Engineering Intern
+* Mar. - Sep. 2015: Engineering Intern
   * at **ECA Robotics**, Brest, France
   * **Sonar mosaic registration for Autonomous Underwater Vehicle.**
   * Supervisor: Sébastien Tauvry (ECA)
 
-* Sep. 2014-Mar. 2015: Engineering Intern/Student Researcher
+* Sep. 2014 - Mar. 2015: Engineering Intern/Student Researcher
   * at **Thales Underwater Systems**, Brest, France
   * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar.**
   * Supervisor: Myriam Chabah (Thales)
