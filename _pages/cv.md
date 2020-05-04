@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Telecommunications, Ho Chi Minh City University of Technology, Vietnam National University - Ho Chi Minh City, 2014
+* M.Sc. in Image Processing, Telecom Bretagne in cohabilitation with University of Rennes 1, 2016
+* M.Eng. Telecom Bretagne, 2016
+* Ph.D. in Geomatics, Université Laval, 2020 (expected)
+* Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar.-Sep. 2016: Engineering Intern/IT Developer
+  * Orange France (Direction Strategy Innovation), Orange Village, Arcueil, Île-de-France
+  * Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper.
+  * Supervisors: Ionel Tothezan, Christian Le Blainvaux, Cathérine Lemarquis (Orange)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar.-Sep. 2015: Engineering Intern
+  * ECA Robotics (ECA Group), Brest
+  * Sonar mosaic registration for Autonomous Underwater Vehicle.
+  * Supervisor: Sébastien Tauvry (ECA)
+
+* Sep. 2014-Mar. 2015: Engineering Intern/Student Researcher
+  * Thales Underwater Systems, Brest
+  * Study of performance improvement in bathymetry by using interferometric multi-baseline sonar.
+  * Supervisor: Myriam Chabah (Thales)
+ 
   
-Skills
+Domain of Expetise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Earth Observation Information processing and Data fusion
+* Image processing and Computer vision
+* Computer science, Robotics
 
 Publications
 ======
@@ -54,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
