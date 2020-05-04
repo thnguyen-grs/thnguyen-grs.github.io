@@ -24,12 +24,18 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
 
-<p style="color:red"><b>Open to job opportunities from September 2020
+<p style="color:red"><b>Open to job opportunities from September 2020<br>
 <i>Preferences:</i></b></p>
 - <p style="color:red">Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher </p>
 - <p style="color:red">Job locations: Canada · Europe · United States </p>
 - <p style="color:red">Job types: Full-time</p>
 
+<p style="color:red"><b>Open to job opportunities from September 2020<br>
+<i>Preferences:</i></b>
+- Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher
+- Job locations: Canada · Europe · United States
+- Job types: Full-time
+</p>
 
 ## **Work timeline/News:**
 ### 2020
