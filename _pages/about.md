@@ -11,11 +11,11 @@ redirect_from:
 # Thanh Huy Nguyen
 
 ## Current position: 
-Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Afficher l'image d'origine" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
 ### **Alma mater:**
-- IMT Atlantique Bretagne-Pays de la Loire <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (M.Eng., M.Sc.)
-- Ho Chi Minh City University of Technology <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.)
+- IMT Atlantique Bretagne-Pays de la Loire <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (M.Eng., M.Sc.)
+- Ho Chi Minh City University of Technology <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.)
 
 **Office:** Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
@@ -74,38 +74,37 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 - May 31<sup>st</sup>, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
 - Began an 8-month working period at Université Laval.
 - May 2018: received the Scholarship of success (Bourse de réussite) from FFGG/Université Laval for completing the doctorate exams.
-- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - April 17<sup>th</sup> - 18<sup>th</sup>, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
 
 ### 2017
 - September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation (student poster competition) at MTS/IEEE OCEANS 2017 conference in Anchorage, Alaska Afficher l'image d'origine
 - Began an 8-month working period at IMT Atlantique.
-- Travel:  Afficher l'image d'origine → Afficher l'image d'origine
-June 2017: got selected as a finalist for the IEEE OES Student Poster Competition at MTS/IEEE OCEANS 2017 Anchorage
-June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  Afficher l'image d'origine
-May 2017: completed required PhD classes at Université Laval.
-March 2017: back to France for a week for the Graduation Ceremony (Telecom Bretagne Promo 2016).
-January 2017: began working at Université Laval.
+- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- June 2017: got selected as a finalist for the IEEE OES Student Poster Competition at MTS/IEEE OCEANS 2017 Anchorage
+- June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  Afficher l'image d'origine
+- May 2017: completed required PhD classes at Université Laval.
+- March 2017: back to France for a week for the Graduation Ceremony (Telecom Bretagne Promo 2016).
+- January 2017: began working at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - From January 1<sup>st</sup>, 2017: École Telecom Bretagne and école Mines Nantes united to become IMT Atlantique Bretagne-Pays de la Loire (more in here).
 
-### 2016
-October 2016: began working as a PhD student at Telecom Bretagne and Université Laval.
-September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note)
-March 2016: began working as an intern/developer at Orange France DTSI/DSI, Arcueil, Île-de-France.
-October 19th-22nd, 2015: poster presentation (student poster competition) at MTS/IEEE OCEANS 2015 conference in Washington DC Afficher l'image d'origine
-October 2015: began the last year of my M.Eng. programme at Telecom Bretagne, as well as the "Master Recherche" in co-habilitation with Université de Rennes 1.
-September 2015: finished the internship at ECA Robotics (Brest).
-July 2015: got selected as a finalist for the IEEE OES Student Poster Competition at MTS/IEEE OCEANS 2015 Washington DC
-July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a poster presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
-March 2015: began working as an intern at ECA Robotics (Brest).
-March 2015: finished the intership at Thales Underwater Systems.
-September 2014: began working as an intern at Thales Underwater Systems (Brest).
+### 2016 and before
+- October 2016: began working as a PhD student at Telecom Bretagne and Université Laval.
+- September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note)
+- March 2016: began working as an intern/developer at Orange France DTSI/DSI, Arcueil, Île-de-France.
+- October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation (student poster competition) at MTS/IEEE OCEANS 2015 conference in Washington DC Afficher l'image d'origine
+- October 2015: began the last year of my M.Eng. programme at Telecom Bretagne, as well as the "Master Recherche" in co-habilitation with Université de Rennes 1.
+- September 2015: finished the internship at ECA Robotics (Brest).
+- July 2015: got selected as a finalist for the IEEE OES Student Poster Competition at MTS/IEEE OCEANS 2015 Washington DC
+- July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a poster presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
+- March 2015: began working as an intern at ECA Robotics (Brest).
+- March 2015: finished the intership at Thales Underwater Systems.
+- September 2014: began working as an intern at Thales Underwater Systems (Brest).
 Twice received Congratulations from the Academic Council (Jury des études) of Telecom Bretagne.
-August 2013: began the M.Eng. programme (by a second year admission) at Telecom Bretagne.
-Travel: Afficher l'image d'origine → Afficher l'image d'origine
-
-September 2009: began studying undergrad at PFIEV, HCMC University of Technology.
+- August 2013: began the M.Eng. programme (by a second year admission) at Telecom Bretagne.
+- Travel: <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- September 2009: began studying undergrad at PFIEV, HCMC University of Technology.
 
 
 A data-driven personal website
