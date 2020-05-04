@@ -41,7 +41,7 @@ Domains of Expertise
 * Image processing and Computer vision
 * Computer science, Robotics
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
