@@ -25,7 +25,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 
 <p style="color:red"><b>Open to job opportunities from September 2020</b></p>
-***<p style="color:red"><b><i>Preferences:</i></b></p>
+<p style="color:red"><b><i>Preferences:</i></b></p>
 - <p style="color:red">Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher </p>
 - <p style="color:red">Job locations: Canada · Europe · United States </p>
 - <p style="color:red">Job types: Full-time</p>
