@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href=**{{author.googlescholar}}**>my Google Scholar profile</a>.</u>
 {% endif %}
@@ -13,14 +14,14 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
 
 ## Preprints
 1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image** (submitted) \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\]
 <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156" /></p>
 
 ## Refereed Journals
-1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, to appear in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing \[[arXiv](https://arxiv.org/abs/1909.13817)\]
+1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, to appear in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing \[[arXiv](https://arxiv.org/abs/1909.13817)\]<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778" />
 
 ## Conference Papers
 1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data**, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W16, 181–188.<span style="color:orange;">orange text</span><br>
