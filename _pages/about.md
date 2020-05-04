@@ -24,25 +24,24 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
 
-### **<p style="color:red">Open to job opportunities from September 2020</p>**
-
-***Preferences:***
+<p style="color:red" font-weight="bold">Open to job opportunities from September 2020</p>
+***<p style="color:red" font-weight="bold">Preferences:</p>***
 - <p style="color:red">Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher </p>
-- Job locations: Canada · Europe · United States 
-- Job types: Full-time
+- <p style="color:red">Job locations: Canada · Europe · United States </p>
+- <p style="color:red">Job types: Full-time</p>
 
 
 ## **Work timeline/News:**
 ### 2020
-- May 4<sup>th</sup> - 8<sup>th</sup> 2020: will be attending the IEEE ICASSP 2020 (virtual) conference.
+- May 4<sup>th</sup> - 8<sup>th</sup> 2020: attending the IEEE ICASSP 2020 virtual conference.
 - April 26<sup>th</sup>: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
 - April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing**. The preprint version can be found in [Publication page](https://sites.google.com/site/nthuy190991/publications). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
 - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student.
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://sites.google.com/site/nthuy190991/publications).
-- Working-from-home since March 12th for social distancing. Looking for new ideas on a new research article. Topics-of-interest include: (i) Data fusion (w.r.t. Quality control), (ii) Building roof plane segmentation for LoD2 building modelling, (iii) Combination of ACM and DNN under a semi-/self-supervised paradigm.
+- Working-from-home since March 12<sup>th</sup> for social distancing. Looking for new ideas on a new research article. Topics-of-interest include: (i) Data fusion (w.r.t. Quality control), (ii) Building roof plane segmentation for LoD2 building modelling, (iii) Combination of ACM and DNN under a semi-/self-supervised paradigm.
 - March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France.
 - February 2020: the journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is currently under revision (second round).
-- January 2020: journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS).
+- January 2020: **journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**.
 
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR data and optical image.
