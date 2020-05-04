@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About.me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,18 +17,21 @@ Current position:
 Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Afficher l'image d'origine" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
 **Alma mater:**
-- IMT Atlantique Bretagne-Pays de la Loire Afficher l'image d'origine (M.Eng., M.Sc.)
-- Ho Chi Minh City University of Technology Afficher l'image d'origine (B.Eng.)
+- IMT Atlantique Bretagne-Pays de la Loire <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (M.Eng., M.Sc.)
+- Ho Chi Minh City University of Technology <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.)
 
 **Office:** Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
 **Email address:**
-- thanh[dot]nguyen[at]imt-atlantique[dot]fr 
-- thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
+
+thanh[dot]nguyen[at]imt-atlantique[dot]fr 
+
+thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
 **Open to job opportunities from September 2020**
+
 ***Preferences:***
-- Job titles: Engineer · Research And Development Engineer · Research Engineer · Postdoctoral Researcher 
+- Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher 
 - Job locations: Canada · Europe · United States 
 - Job types: Full-time
 
