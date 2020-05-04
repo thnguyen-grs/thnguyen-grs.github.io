@@ -19,9 +19,9 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 **Office:** Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
-**Email address:**
-- thanh[dot]nguyen[at]imt-atlantique[dot]fr 
-- thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
+**Email address:**<br>
+thanh[dot]nguyen[at]imt-atlantique[dot]fr <br>
+thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
 
 <p style="color:red"><b>Open to job opportunities from September 2020<br>
@@ -31,10 +31,10 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - <p style="color:red">Job types: Full-time</p>
 
 <p style="color:red"><b>Open to job opportunities from September 2020<br>
-<i>Preferences:</i></b>
-- Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher
-- Job locations: Canada · Europe · United States
-- Job types: Full-time
+<i>Preferences:</i></b><br>
+- Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher<br>
+- Job locations: Canada · Europe · United States<br>
+- Job types: Full-time<br>
 </p>
 
 ## **Work timeline/News:**
@@ -56,7 +56,6 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
   - A research proposal will be prepared.
 - Began an 7-month working period at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
-- Travel: ![altFr](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png) ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
 - September 18<sup>th</sup> - September 20<sup>th</sup>, 2019: **poster presentation at ISPRS [PIA19+MRSS19 conference](http://www.pf.bgu.tum.de/isprs/pia19/index.html)** at Technische Universitaet Muenchen (TUM) <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - July 28<sup>th</sup> - August 2<sup>nd</sup>, 2019: **oral presentation at IEEE IGARSS 2019 conference** at Pacifico Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
@@ -69,7 +68,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for PhD students, Rennes.
 February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme [LEFE](http://www.insu.cnrs.fr/lefe) and [PNTS](http://www.insu.cnrs.fr/pnts) from CNRS/INSU.
 - Began a 9-month working period at IMT Atlantique from January 2019.
-- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
 ### 2018
 - November 19th, 2018: attended Journée SIG Université Laval.
@@ -78,19 +77,19 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 - May 31<sup>st</sup>, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
 - Began an 8-month working period at Université Laval.
 - May 2018: received the Scholarship of success (Bourse de réussite) from FFGG/Université Laval for completing the doctorate exams.
-- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
+- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - April 17<sup>th</sup> - 18<sup>th</sup>, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
 
 ### 2017
 - September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation at MTS/IEEE OCEANS 2017 conference at Dena’ina Civic and Convention Center, Anchorage, Alaska <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - Began an 8-month working period at IMT Atlantique.
-- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 2017: got selected as a **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
 - June 2017: paper **"Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference** in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - May 2017: completed the PhD courseworks at Université Laval.
 - March 2017: back to France for a week for the Graduation Ceremony (Telecom Bretagne Promo 2016).
 - January 2017: began working at Université Laval.
-- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
+- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - From January 1<sup>st</sup>, 2017: École Telecom Bretagne and école Mines Nantes united to become IMT Atlantique Bretagne-Pays de la Loire.
 
 ### 2016 and before
@@ -107,7 +106,7 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 - September 2014: began working as an intern at Thales Underwater Systems (Brest).
 Twice received Congratulations from the Academic Council (Jury des études) of Telecom Bretagne.
 - August 2013: began the M.Eng. programme (by a second year admission) at Telecom Bretagne.
-- Travel: <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- Travel: <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - September 2009: began studying undergrad at PFIEV, HCMC University of Technology.
 
 
