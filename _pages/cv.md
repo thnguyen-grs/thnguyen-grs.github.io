@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Telecommunications, Ho Chi Minh City University of Technology, Vietnam National University - Ho Chi Minh City, 2014
+* B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014
 * M.Sc. in Image Processing, Telecom Bretagne in cohabilitation with University of Rennes 1, 2016
 * M.Eng. Telecom Bretagne, 2016
 * Ph.D. in Geomatics, Université Laval, 2020 (expected)
@@ -20,22 +20,22 @@ Education
 Work experience
 ======
 * Mar.-Sep. 2016: Engineering Intern/IT Developer
-  * Orange France (Direction Strategy Innovation), Orange Village, Arcueil, Île-de-France
-  * Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper.
+  * at **Orange France** (Direction Strategy Innovation), Orange Village, Île-de-France, France
+  * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper.**
   * Supervisors: Ionel Tothezan, Christian Le Blainvaux, Cathérine Lemarquis (Orange)
 
 * Mar.-Sep. 2015: Engineering Intern
-  * ECA Robotics (ECA Group), Brest
-  * Sonar mosaic registration for Autonomous Underwater Vehicle.
+  * at **ECA Robotics**, Brest, France
+  * **Sonar mosaic registration for Autonomous Underwater Vehicle.**
   * Supervisor: Sébastien Tauvry (ECA)
 
 * Sep. 2014-Mar. 2015: Engineering Intern/Student Researcher
-  * Thales Underwater Systems, Brest
-  * Study of performance improvement in bathymetry by using interferometric multi-baseline sonar.
+  * at **Thales Underwater Systems**, Brest, France
+  * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar.**
   * Supervisor: Myriam Chabah (Thales)
  
   
-Domain of Expetise
+Domains of Expertise
 ======
 * Earth Observation Information processing and Data fusion
 * Image processing and Computer vision

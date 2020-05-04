@@ -100,5 +100,6 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 Twice received Congratulations from the Academic Council (Jury des études) of Telecom Bretagne.
 - August 2013: began the M.Eng. programme (by a second year admission) at Telecom Bretagne.
 - Travel: <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- May 2013: Got accepted for studying abroad at Telecom Bretagne, Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">, under a grant **Telecom Scholarship of Excellence**, Telecom Foundation (Institut Mines-Telecom).
 - September 2009: began studying undergrad at PFIEV, HCMC University of Technology.
 
