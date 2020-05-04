@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: **Publications**
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,7 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## Preprints
-1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image** (submitted) \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\]<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156" />
+1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image** (submitted) \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\]
+<p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156" /></p>
 
 ## Refereed Journals
 1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, to appear in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing \[[arXiv](https://arxiv.org/abs/1909.13817)\]
