@@ -26,8 +26,8 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - thanh[dot]nguyen[at]imt-atlantique[dot]fr 
 - thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
-** Open to job opportunities from September 2020 **
-Preferences:
+**Open to job opportunities from September 2020**
+***Preferences:***
 - Job titles: Engineer · Research And Development Engineer · Research Engineer · Postdoctoral Researcher 
 - Job locations: Canada · Europe · United States 
 - Job types: Full-time
