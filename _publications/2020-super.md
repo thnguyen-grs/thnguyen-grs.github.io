@@ -1,7 +1,7 @@
 ---
 title: "Super-Resolution-based Snake Model—An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-super
 excerpt: ''
 date: 2020-12-31
 venue: 'Remote Sensing (submitted)'

@@ -2,7 +2,7 @@
 title: "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2020-10-01
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 paperurl: 'https://arxiv.org/abs/1909.13817'
