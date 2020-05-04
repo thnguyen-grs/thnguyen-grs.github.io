@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!--{% if author.googlescholar %}
   You can also find my articles on <u><a href=**{{author.googlescholar}}**>my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %}-->
 
 ## Refereed Journals
 1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image** (submitted) \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\]
@@ -21,12 +21,10 @@ DOI: 10.5194/isprs-archives-XLII-2-W16-181-2019 \[[proceeding](https://www.int-a
 2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.
 DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/document/8898612)\] [slide](https://www.dropbox.com/s/s8tv51iewezzfks/TH1.R10.4.pdf?dl=0)\] \[[arXiv](https://arxiv.org/abs/1904.03668)  \[[Github (for full-scale color figures)](https://github.com/nthuy190991/igarss2019)\]
 
-3. T. H. Nguyen, D. Gueriot, J.-M. Le Caillec, C. Sintes and S. Daniel, **Heterogeneous Data Registration for 3D Underwater Scene Reconstruction,** OCEANS 2017 - MTS/IEEE Anchorage, Anchorage, Alaska, 2017, pp. 1-6. \[[proceeding](https://ieeexplore.ieee.org/document/8232327) \[[preprint](https://www.researchgate.net/publication/320016469_Heterogeneous_Data_Registration_for_3D_Underwater_Scene_Reconstruction)\] \[[poster](https://www.dropbox.com/s/srdo0j02q2o1gz5/poster.pdf?dl=0)\]<br>
-<p style="color:red"><b>Finalist of Student Poster Competition</b></p>
+3. T. H. Nguyen, D. Gueriot, J.-M. Le Caillec, C. Sintes and S. Daniel, **Heterogeneous Data Registration for 3D Underwater Scene Reconstruction,** OCEANS 2017 - MTS/IEEE Anchorage, Anchorage, Alaska, 2017, pp. 1-6. \[[proceeding](https://ieeexplore.ieee.org/document/8232327) \[[preprint](https://www.researchgate.net/publication/320016469_Heterogeneous_Data_Registration_for_3D_Underwater_Scene_Reconstruction)\] \[[poster](https://www.dropbox.com/s/srdo0j02q2o1gz5/poster.pdf?dl=0)\]<br><p style="color:red"><b>Finalist of Student Poster Competition</b></p>
 
 4. T. H. Nguyen, M. Chabah and C. Sintes, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
-DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/) \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br>
-<p style="color:red"><b>Finalist of Student Poster Competition</b></p>
+DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/) \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><p style="color:red"><b>Finalist of Student Poster Competition</b></p>
  	 
  	 
 ## Other communications
