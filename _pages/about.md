@@ -10,7 +10,7 @@ redirect_from:
 
 Thanh Huy Nguyen
 ======
-born in Vietnam Afficher l'image d'origine
+born in Vietnam <td style="width:195px;height:211px"><a href="https://sites.google.com/site/nthuy190991/home/AAEAAQAAAAAAAAJtAAAAJDU2ZjI5YmQ1LTVhMzMtNGRkMC05NjE2LWY1YTA2ZTMzNTFjNw.jpg?attredirects=0" imageanchor="1"><img border="0" src="https://sites.google.com/site/nthuy190991/home/AAEAAQAAAAAAAAJtAAAAJDU2ZjI5YmQ1LTVhMzMtNGRkMC05NjE2LWY1YTA2ZTMzNTFjNw.jpg" style="width:181px"></a></td>
 
 Current position: 
 ------
@@ -21,9 +21,7 @@ Alma mater:
 - IMT Atlantique Bretagne-Pays de la Loire Afficher l'image d'origine (M.Eng., M.Sc.)
 - Ho Chi Minh City University of Technology Afficher l'image d'origine (B.Eng.)
 
-##asa
-------
-Office: Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
+**Office:** Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
 #Email address:
 thanh[dot]nguyen[at]imt-atlantique[dot]fr 
@@ -35,6 +33,10 @@ Preferences:
 - Job titles: Engineer · Research And Development Engineer · Research Engineer · Postdoctoral Researcher 
 - Job locations: Canada · Europe · United States 
 - Job types: Full-time
+
+
+
+
 
 A data-driven personal website
 ======
