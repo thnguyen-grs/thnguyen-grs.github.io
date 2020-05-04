@@ -23,16 +23,16 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 thanh[dot]nguyen[at]imt-atlantique[dot]fr 
 
-<p style="color:red">thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca</p>
+thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
-```
+<p style="color:red">
 ### **Open to job opportunities from September 2020**
 
 ***Preferences:***
 - Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher 
 - Job locations: Canada · Europe · United States 
 - Job types: Full-time
-```
+</p>
 
 ## **Work timeline/News:**
 
@@ -79,7 +79,7 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 - April 17<sup>th</sup> - 18<sup>th</sup>, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
 
 ### 2017
-- September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation (student poster competition) at MTS/IEEE OCEANS 2017 conference in Anchorage, Alaska <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
+- September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation at MTS/IEEE OCEANS 2017 conference at Dena’ina Civic and Convention Center, Anchorage, Alaska <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - Began an 8-month working period at IMT Atlantique.
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 2017: got selected as a **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
@@ -94,10 +94,10 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 - October 2016: began working as a PhD student at Telecom Bretagne and Université Laval.
 - September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note)
 - March 2016: began working as an intern/developer at Orange France DTSI/DSI, Arcueil, Île-de-France.
-- October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation (student poster competition) at MTS/IEEE OCEANS 2015 conference in Washington DC <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
+- October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation at MTS/IEEE OCEANS 2015 conference at Gaylord National Resort & Convention Center, Washington D.C. <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - October 2015: began the last year of my M.Eng. programme at Telecom Bretagne, as well as the "Master Recherche" in co-habilitation with Université de Rennes 1.
 - September 2015: finished the internship at ECA Robotics (Brest).
-- July 2015: got selected as a **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2015 Washington DC.
+- July 2015: got selected as a **finalist for the IEEE OES Student Poster Competition (SPC)** at MTS/IEEE OCEANS 2015 Washington DC.
 - July 2015: **paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a presentation at MTS/IEEE OCEANS 2015 conference** in Washington DC.
 - March 2015: began working as an intern at ECA Robotics (Brest).
 - March 2015: finished the intership at Thales Underwater Systems.
