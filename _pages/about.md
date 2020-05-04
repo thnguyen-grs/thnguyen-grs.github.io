@@ -26,17 +26,84 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 thanh[dot]nguyen[at]imt-atlantique[dot]fr 
 
-thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
+<p style="color:red">thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca</p>
 
+<p style="color:red">
 **Open to job opportunities from September 2020**
 
 ***Preferences:***
 - Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher 
 - Job locations: Canada · Europe · United States 
 - Job types: Full-time
+</p>
 
 
+**Work timeline/News:**
+======
+- April 26th: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
+- April 2020: journal paper "Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing. The preprint version can be found in Publication page. The results are made publicly at my Github page.
+- April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student.
+- April 2020: the journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS. The preprint version can be found in Publication page.
+Working-from-home since March 12th for social distancing. Looking for new ideas on a new research article. Topics-of-interest include: (i) Data fusion (w.r.t. Quality control), (ii) Building roof plane segmentation for LoD2 building modelling, (iii) Combination of ACM and DNN under a semi-/self-supervised paradigm.
+- March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France.
+- February 2020: the journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is currently under revision (second round).
+- January 2020: journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS).
 
+
+- November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR data and optical image.
+- Since October 2019: started working on a side project—participating in the R2Sonic Multispectral Water Column Challenge with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Some small updates:
+The challenges have been extended until spring 2021 due to COVID-19. 
+We hired a undergrad student to help us, but after two months it didn't work out. 
+A research proposal will be prepared.
+- Began an 7-month working period at Université Laval.
+- Travel: Afficher l'image d'origine → Afficher l'image d'origine
+- <p style="color:blue">Best Poster Award at PIA19+MRSS19 conference</p>
+- September 18th-September 20th, 2019: poster presentation at PIA19+MRSS19 conference at Technische Universitaet Muenchen (TUM) Afficher l'image d'origine 
+- July 28th-August 2nd, 2019: oral presentation at IEEE IGARSS 2019 conference at Pacifico Yokohama Afficher l'image d'origine 
+- June 2019: paper "Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" is accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019 in Munich Afficher l'image d'origine 
+- April/May 2019: started writing a journal manuscript focusing on the registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, for the full study including the IGARSS paper.
+- April 2019: granted the IGARSS Travel Grant from IEEE GRSS (Geoscience and Remote Sensing Society) supporting my attendance at the IGARSS 2019 in Yokohama.
+- April 2019: paper "Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference in Yokohama  Afficher l'image d'origine 
+- March 29th, 2019: gave an oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
+- March 14th, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer (link).
+- February 11th-13th, 2019: participated in a 3-day training programme on pedagogy and teaching activities for PhD students, Rennes.
+February 6th, 2019: attended an one-day workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme LEFE (Les Enveloppes Fluides et l’Environnement) and PNTS (programme national de télédétection spatiale).
+Began a 9-month working period at IMT Atlantique from January 2019.
+Travel:  Afficher l'image d'origine → Afficher l'image d'origine
+November 19th, 2018: attended Journée SIG Université Laval.
+June 2018: abstract accepted for an oral presentation at OCEANS 2018 in Charleston, but my supervisor advised me to put it aside to concentrate on more important tasks.
+June 13th, 2018: poster presentation at the Symposium of the Centre for Research in Geomatics (CRG), Université Laval (link).
+May 31st, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
+Began an 8-month working period at Université Laval.
+May 2018: received the Scholarship of success (Bourse de réussite) from FFGG/Université Laval for completing the doctorate exams.
+Travel: Afficher l'image d'origine → Afficher l'image d'origine
+April 17th-18th, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
+September 18th - 21st, 2017: poster presentation (student poster competition) at MTS/IEEE OCEANS 2017 conference in Anchorage, Alaska Afficher l'image d'origine
+Began an 8-month working period at IMT Atlantique.
+Travel:  Afficher l'image d'origine → Afficher l'image d'origine
+June 2017: got selected as a finalist for the IEEE OES Student Poster Competition at MTS/IEEE OCEANS 2017 Anchorage
+June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  Afficher l'image d'origine
+May 2017: completed required PhD classes at Université Laval.
+March 2017: back to France for a week for the Graduation Ceremony (Telecom Bretagne Promo 2016).
+January 2017: began working at Université Laval.
+Travel: Afficher l'image d'origine → Afficher l'image d'origine
+From January 1st, 2017: École Telecom Bretagne and école Mines Nantes united to become IMT Atlantique Bretagne-Pays de la Loire (more in here).
+October 2016: began working as a PhD student at Telecom Bretagne and Université Laval.
+September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note)
+March 2016: began working as an intern/developer at Orange France DTSI/DSI, Arcueil, Île-de-France.
+October 19th-22nd, 2015: poster presentation (student poster competition) at MTS/IEEE OCEANS 2015 conference in Washington DC Afficher l'image d'origine
+October 2015: began the last year of my M.Eng. programme at Telecom Bretagne, as well as the "Master Recherche" in co-habilitation with Université de Rennes 1.
+September 2015: finished the internship at ECA Robotics (Brest).
+July 2015: got selected as a finalist for the IEEE OES Student Poster Competition at MTS/IEEE OCEANS 2015 Washington DC
+July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a poster presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
+March 2015: began working as an intern at ECA Robotics (Brest).
+March 2015: finished the intership at Thales Underwater Systems.
+September 2014: began working as an intern at Thales Underwater Systems (Brest).
+Twice received Congratulations from the Academic Council (Jury des études) of Telecom Bretagne.
+August 2013: began the M.Eng. programme (by a second year admission) at Telecom Bretagne.
+Travel: Afficher l'image d'origine → Afficher l'image d'origine
+
+September 2009: began studying undergrad at PFIEV, HCMC University of Technology.
 
 
 A data-driven personal website
