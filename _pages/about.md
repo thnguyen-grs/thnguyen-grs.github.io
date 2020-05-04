@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Thanh Huy Nguyen
-======
+# Thanh Huy Nguyen
 born in Vietnam <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20">
 
-Current position: 
-------
+## Current position: 
 Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Afficher l'image d'origine" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
-**Alma mater:**
+### **Alma mater:**
 - IMT Atlantique Bretagne-Pays de la Loire <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (M.Eng., M.Sc.)
 - Ho Chi Minh City University of Technology <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.) ![alt-text](https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg)
 
@@ -28,7 +26,7 @@ thanh[dot]nguyen[at]imt-atlantique[dot]fr
 
 <p style="color:red">thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca</p>
 
-**Open to job opportunities from September 2020**
+### **Open to job opportunities from September 2020**
 
 ***Preferences:***
 - Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher 
@@ -36,9 +34,8 @@ thanh[dot]nguyen[at]imt-atlantique[dot]fr
 - Job types: Full-time
 
 
-**Work timeline/News:**
-======
-- April 26th: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
+# **Work timeline/News:**
+- April 26<sup>th</sup>: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
 - April 2020: journal paper "Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing. The preprint version can be found in Publication page. The results are made publicly at my Github page.
 - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student.
 - April 2020: the journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS. The preprint version can be found in Publication page.
