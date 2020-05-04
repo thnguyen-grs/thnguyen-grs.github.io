@@ -34,7 +34,7 @@ Work experience
   * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar.**
   * Supervisor: Myriam Chabah (Thales)
  
-  
+
 Domains of Expertise
 ======
 * Earth Observation Information processing and Data fusion
@@ -43,11 +43,22 @@ Domains of Expertise
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Scholarships and Awards
+======
+- **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany.
+- **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^1]
+- **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^1]
+- **2013-2016** Three times received Congratulations from Academic Council of TELECOM Bretagne.
+- **2013** Telecom Scholarship for Excellence, Telecom Foundation, Mines-Telecom Institute, France.
+- **2012** Lawrence S. Ting Scholarship for students with excellent academic achievements. 
+- **2009-2013** Six times received the Academic Excellence Scholarship of HCMC University of Technology.
+
+[^1]: all expenses were covered by the US Office of Naval Research ([ONR](https://www.onr.navy.mil)).
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -57,5 +68,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
