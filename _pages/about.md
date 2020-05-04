@@ -24,8 +24,8 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
 
-<p style="color:red" font-weight="bold">Open to job opportunities from September 2020</p>
-***<p style="color:red" font-weight="bold">Preferences:</p>***
+<p style="color:red"><b>Open to job opportunities from September 2020</b></p>
+***<p style="color:red"><b><i>Preferences:</i></b></p>
 - <p style="color:red">Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher </p>
 - <p style="color:red">Job locations: Canada · Europe · United States </p>
 - <p style="color:red">Job types: Full-time</p>
@@ -40,7 +40,6 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://sites.google.com/site/nthuy190991/publications).
 - Working-from-home since March 12<sup>th</sup> for social distancing. Looking for new ideas on a new research article. Topics-of-interest include: (i) Data fusion (w.r.t. Quality control), (ii) Building roof plane segmentation for LoD2 building modelling, (iii) Combination of ACM and DNN under a semi-/self-supervised paradigm.
 - March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France.
-- February 2020: the journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is currently under revision (second round).
 - January 2020: **journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**.
 
 ### 2019
@@ -50,7 +49,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
   - We hired a undergrad student to help us, but after two months it didn't work out. 
   - A research proposal will be prepared.
 - Began an 7-month working period at Université Laval.
-- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
+- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> →⟶➔ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
 - September 18<sup>th</sup> - September 20<sup>th</sup>, 2019: **poster presentation at ISPRS [PIA19+MRSS19 conference](http://www.pf.bgu.tum.de/isprs/pia19/index.html)** at Technische Universitaet Muenchen (TUM) <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" style="background-color:transparent;color:rgb(0,0,0);font-family:trebuchet ms,sans-serif;font-size:medium" width="20">
 - July 28<sup>th</sup> - August 2<sup>nd</sup>, 2019: **oral presentation at IEEE IGARSS 2019 conference** at Pacifico Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
