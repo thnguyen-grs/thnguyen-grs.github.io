@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 # Thanh Huy Nguyen
-born in Vietnam <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20">
 
 ## Current position: 
 Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Afficher l'image d'origine" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
 ### **Alma mater:**
 - IMT Atlantique Bretagne-Pays de la Loire <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (M.Eng., M.Sc.)
-- Ho Chi Minh City University of Technology <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.) ![alt-text](https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg)
+- Ho Chi Minh City University of Technology <img alt="Afficher l'image d'origine" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.)
 
 **Office:** Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
@@ -34,7 +33,9 @@ thanh[dot]nguyen[at]imt-atlantique[dot]fr
 - Job types: Full-time
 
 
-# **Work timeline/News:**
+## **Work timeline/News:**
+
+### 2020
 - April 26<sup>th</sup>: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
 - April 2020: journal paper "Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing. The preprint version can be found in Publication page. The results are made publicly at my Github page.
 - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student.
@@ -44,38 +45,42 @@ Working-from-home since March 12th for social distancing. Looking for new ideas 
 - February 2020: the journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is currently under revision (second round).
 - January 2020: journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS).
 
-
+### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR data and optical image.
 - Since October 2019: started working on a side project—participating in the R2Sonic Multispectral Water Column Challenge with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Some small updates:
-The challenges have been extended until spring 2021 due to COVID-19. 
-We hired a undergrad student to help us, but after two months it didn't work out. 
-A research proposal will be prepared.
++ The challenges have been extended until spring 2021 due to COVID-19. 
++ We hired a undergrad student to help us, but after two months it didn't work out. 
++ A research proposal will be prepared.
 - Began an 7-month working period at Université Laval.
 - Travel: Afficher l'image d'origine → Afficher l'image d'origine
 - <p style="color:blue">Best Poster Award at PIA19+MRSS19 conference</p>
-- September 18th-September 20th, 2019: poster presentation at PIA19+MRSS19 conference at Technische Universitaet Muenchen (TUM) Afficher l'image d'origine 
-- July 28th-August 2nd, 2019: oral presentation at IEEE IGARSS 2019 conference at Pacifico Yokohama Afficher l'image d'origine 
+- September 18<sup>th</sup>-September 20<sup>th</sup>, 2019: poster presentation at PIA19+MRSS19 conference at Technische Universitaet Muenchen (TUM) Afficher l'image d'origine 
+- July 28<sup>th</sup>-August 2<sup>nd</sup>, 2019: oral presentation at IEEE IGARSS 2019 conference at Pacifico Yokohama Afficher l'image d'origine 
 - June 2019: paper "Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" is accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019 in Munich Afficher l'image d'origine 
 - April/May 2019: started writing a journal manuscript focusing on the registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, for the full study including the IGARSS paper.
 - April 2019: granted the IGARSS Travel Grant from IEEE GRSS (Geoscience and Remote Sensing Society) supporting my attendance at the IGARSS 2019 in Yokohama.
 - April 2019: paper "Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference in Yokohama  Afficher l'image d'origine 
-- March 29th, 2019: gave an oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
-- March 14th, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer (link).
-- February 11th-13th, 2019: participated in a 3-day training programme on pedagogy and teaching activities for PhD students, Rennes.
-February 6th, 2019: attended an one-day workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme LEFE (Les Enveloppes Fluides et l’Environnement) and PNTS (programme national de télédétection spatiale).
-Began a 9-month working period at IMT Atlantique from January 2019.
-Travel:  Afficher l'image d'origine → Afficher l'image d'origine
-November 19th, 2018: attended Journée SIG Université Laval.
-June 2018: abstract accepted for an oral presentation at OCEANS 2018 in Charleston, but my supervisor advised me to put it aside to concentrate on more important tasks.
-June 13th, 2018: poster presentation at the Symposium of the Centre for Research in Geomatics (CRG), Université Laval (link).
-May 31st, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
-Began an 8-month working period at Université Laval.
-May 2018: received the Scholarship of success (Bourse de réussite) from FFGG/Université Laval for completing the doctorate exams.
-Travel: Afficher l'image d'origine → Afficher l'image d'origine
-April 17th-18th, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
-September 18th - 21st, 2017: poster presentation (student poster competition) at MTS/IEEE OCEANS 2017 conference in Anchorage, Alaska Afficher l'image d'origine
-Began an 8-month working period at IMT Atlantique.
-Travel:  Afficher l'image d'origine → Afficher l'image d'origine
+- March 29<sup>th</sup>, 2019: gave an oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
+- March 14<sup>th</sup>, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer (link).
+- February 11<sup>th</sup>-13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for PhD students, Rennes.
+February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme LEFE (Les Enveloppes Fluides et l’Environnement) and PNTS (programme national de télédétection spatiale).
+- Began a 9-month working period at IMT Atlantique from January 2019.
+- Travel:  Afficher l'image d'origine → Afficher l'image d'origine
+
+### 2018
+- November 19th, 2018: attended Journée SIG Université Laval.
+- June 2018: abstract accepted for an oral presentation at OCEANS 2018 in Charleston, but my supervisor advised me to put it aside to concentrate on more important tasks.
+- June 13<sup>th</sup>, 2018: poster presentation at the Symposium of the Centre for Research in Geomatics (CRG), Université Laval (link).
+- May 31<sup>st</sup>, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
+- Began an 8-month working period at Université Laval.
+- May 2018: received the Scholarship of success (Bourse de réussite) from FFGG/Université Laval for completing the doctorate exams.
+- Travel: Afficher l'image d'origine → Afficher l'image d'origine
+- April 17<sup>th</sup> - 18<sup>th</sup>, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
+
+### 2017
+- September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation (student poster competition) at MTS/IEEE OCEANS 2017 conference in Anchorage, Alaska Afficher l'image d'origine
+- Began an 8-month working period at IMT Atlantique.
+- Travel:  Afficher l'image d'origine → Afficher l'image d'origine
 June 2017: got selected as a finalist for the IEEE OES Student Poster Competition at MTS/IEEE OCEANS 2017 Anchorage
 June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  Afficher l'image d'origine
 May 2017: completed required PhD classes at Université Laval.
