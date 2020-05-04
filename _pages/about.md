@@ -48,11 +48,11 @@ Working-from-home since March 12th for social distancing. Looking for new ideas 
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR data and optical image.
 - Since October 2019: started working on a side project—participating in the R2Sonic Multispectral Water Column Challenge with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Some small updates:
-+ The challenges have been extended until spring 2021 due to COVID-19. 
-+ We hired a undergrad student to help us, but after two months it didn't work out. 
-+ A research proposal will be prepared.
+⋅⋅+ The challenges have been extended until spring 2021 due to COVID-19. 
+⋅⋅+ We hired a undergrad student to help us, but after two months it didn't work out. 
+⋅⋅+ A research proposal will be prepared.
 - Began an 7-month working period at Université Laval.
-- Travel: Afficher l'image d'origine → Afficher l'image d'origine
+- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - <p style="color:blue">Best Poster Award at PIA19+MRSS19 conference</p>
 - September 18<sup>th</sup>-September 20<sup>th</sup>, 2019: poster presentation at PIA19+MRSS19 conference at Technische Universitaet Muenchen (TUM) Afficher l'image d'origine 
 - July 28<sup>th</sup>-August 2<sup>nd</sup>, 2019: oral presentation at IEEE IGARSS 2019 conference at Pacifico Yokohama Afficher l'image d'origine 
@@ -65,7 +65,7 @@ Working-from-home since March 12th for social distancing. Looking for new ideas 
 - February 11<sup>th</sup>-13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for PhD students, Rennes.
 February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme LEFE (Les Enveloppes Fluides et l’Environnement) and PNTS (programme national de télédétection spatiale).
 - Began a 9-month working period at IMT Atlantique from January 2019.
-- Travel:  Afficher l'image d'origine → Afficher l'image d'origine
+- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
 ### 2018
 - November 19th, 2018: attended Journée SIG Université Laval.
@@ -74,7 +74,7 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 - May 31<sup>st</sup>, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
 - Began an 8-month working period at Université Laval.
 - May 2018: received the Scholarship of success (Bourse de réussite) from FFGG/Université Laval for completing the doctorate exams.
-- Travel: Afficher l'image d'origine → Afficher l'image d'origine
+- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - April 17<sup>th</sup> - 18<sup>th</sup>, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
 
 ### 2017
@@ -86,8 +86,10 @@ June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Recons
 May 2017: completed required PhD classes at Université Laval.
 March 2017: back to France for a week for the Graduation Ceremony (Telecom Bretagne Promo 2016).
 January 2017: began working at Université Laval.
-Travel: Afficher l'image d'origine → Afficher l'image d'origine
-From January 1st, 2017: École Telecom Bretagne and école Mines Nantes united to become IMT Atlantique Bretagne-Pays de la Loire (more in here).
+- Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
+- From January 1<sup>st</sup>, 2017: École Telecom Bretagne and école Mines Nantes united to become IMT Atlantique Bretagne-Pays de la Loire (more in here).
+
+### 2016
 October 2016: began working as a PhD student at Telecom Bretagne and Université Laval.
 September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note)
 March 2016: began working as an intern/developer at Orange France DTSI/DSI, Arcueil, Île-de-France.
