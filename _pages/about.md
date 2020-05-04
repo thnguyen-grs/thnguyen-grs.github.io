@@ -25,13 +25,14 @@ thanh[dot]nguyen[at]imt-atlantique[dot]fr
 
 <p style="color:red">thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca</p>
 
+```
 ### **Open to job opportunities from September 2020**
 
 ***Preferences:***
 - Job titles: Engineer · R&D Engineer · Research Engineer · Postdoctoral Researcher 
 - Job locations: Canada · Europe · United States 
 - Job types: Full-time
-
+```
 
 ## **Work timeline/News:**
 
@@ -40,7 +41,7 @@ thanh[dot]nguyen[at]imt-atlantique[dot]fr
 - April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing**. The preprint version can be found in [Publication page](https://sites.google.com/site/nthuy190991/publications). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
 - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student.
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://sites.google.com/site/nthuy190991/publications).
-Working-from-home since March 12th for social distancing. Looking for new ideas on a new research article. Topics-of-interest include: (i) Data fusion (w.r.t. Quality control), (ii) Building roof plane segmentation for LoD2 building modelling, (iii) Combination of ACM and DNN under a semi-/self-supervised paradigm.
+- Working-from-home since March 12th for social distancing. Looking for new ideas on a new research article. Topics-of-interest include: (i) Data fusion (w.r.t. Quality control), (ii) Building roof plane segmentation for LoD2 building modelling, (iii) Combination of ACM and DNN under a semi-/self-supervised paradigm.
 - March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France.
 - February 2020: the journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is currently under revision (second round).
 - January 2020: journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS).
@@ -48,9 +49,9 @@ Working-from-home since March 12th for social distancing. Looking for new ideas 
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR data and optical image.
 - Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Some small updates:
- - The challenges have been extended until spring 2021 due to COVID-19. 
- - We hired a undergrad student to help us, but after two months it didn't work out. 
- - A research proposal will be prepared.
+  - The challenges have been extended until spring 2021 due to COVID-19. 
+  - We hired a undergrad student to help us, but after two months it didn't work out. 
+  - A research proposal will be prepared.
 - Began an 7-month working period at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
@@ -83,7 +84,7 @@ February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-A
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> → <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 2017: got selected as a **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
 - June 2017: paper **"Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference** in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
-- May 2017: completed required PhD classes at Université Laval.
+- May 2017: completed the PhD courseworks at Université Laval.
 - March 2017: back to France for a week for the Graduation Ceremony (Telecom Bretagne Promo 2016).
 - January 2017: began working at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> → <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
