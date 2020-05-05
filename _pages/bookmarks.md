@@ -7,7 +7,30 @@ redirect_from:
   - /stuffs
 ---
 
-Things that I bookmarked in every aspects of life, sometimes just for fun:
+## Github pages related to my research[^a]:
+- [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
+- [Microsoft US Building Footprints](https://github.com/Microsoft/USBuildingFootprints)
+- [Tensorflow VGG](https://github.com/machrisaa/tensorflow-vgg)
+- [Deep Structured Active Contours](https://github.com/dmarcosg/DSAC)
+- [Generic U-Net Tensorflow implementation for image segmentation](https://github.com/jakeret/tf_unet)
+- [Geoseg - a package for building segmentation and outline extraction](https://github.com/huster-wgm/geoseg)
+- [Depth estimation by Time-of-Flight cameras](https://github.com/RobVisLab/tofmark)
+- [Fast iterative shrinkage-thresholding algorithm (FISTA)](https://github.com/tiepvupsu/FISTA)
+- [Line Segment Detector (LSD) for OpenCV and Matlab](https://github.com/primetang/LSD-OpenCV-MATLAB)
+- [PyTorch YOLO v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)
+- [Window Segmentation and Shape Approximation From 2D Facade Image](https://github.com/summerlimes/facade-model)
+- [KITTI Seg](https://github.com/MarvinTeichmann/KittiSeg)
+- [Unsupervised Microvascular Image Segmentation (UMIS) Using an Active Contours Mimicking Neural Network](https://github.com/shirgur/UMIS)
+- [Detectron2 (FAIR)](https://github.com/facebookresearch/detectron2) 
+- [PointNet](https://github.com/charlesq34/pointnet)
+- [Morphological Snakes](https://github.com/pmneila/morphsnakes)
+- [Aligning and Updating Cadaster Maps with RS Images](https://github.com/Lydorn/mapalignment)
+- [Locally Linear Transforming](https://github.com/jiayi-ma/LLT)
+- [SpaceNet6 All weather building extraction baseline (by CosmiQ)](https://github.com/CosmiQ/CosmiQ_SN6_Baseline)
+
+[^a]: Many thanks to all the researchers for their invaluable scientific contributions.
+
+## Things that I bookmarked in every aspects of life, sometimes just for fun:
 - Meaning of my first name Huy in Mandarin ([輝](https://en.wiktionary.org/wiki/%E8%BC%9D))
 - [What is it that nobody tells you about having children? by Elena Ledoux](http://qr.ae/TUTqGe)
 - [How is the life of a male without marriage? by Anonymous ](http://qr.ae/TUTqGH)
