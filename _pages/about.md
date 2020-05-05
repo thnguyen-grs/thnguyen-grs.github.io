@@ -10,6 +10,8 @@ redirect_from:
 
 # Thanh Huy Nguyen
 
+test
+
 ## Current position: 
 Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
