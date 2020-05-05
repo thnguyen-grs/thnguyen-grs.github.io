@@ -9,46 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014
 * M.Sc. in Image Processing, Telecom Bretagne in cohabilitation with University of Rennes 1, 2016
 * M.Eng. Telecom Bretagne, 2016
 * Ph.D. in Geomatics, Université Laval, 2020 (expected)
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020 (expected)
 
-Work experience
-======
-* Mar. - Sep. 2016: Engineering Intern/IT Developer
-  * at **Orange France** (Direction Strategy Innovation), Orange Village, Île-de-France, France
-  * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper.**
+## Work experience
+* Mar. - Sep. 2016: Engineering Intern at **Orange France**, Île-de-France, France 
+  * Team: Direction Strategy-Innovation, DTSI/DSI
+  * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper**
   * Supervisors: Ionel Tothezan, Christian Le Blainvaux and Cathérine Lemarquis (Orange)
 
-* Mar. - Sep. 2015: Engineering Intern
-  * at **ECA Robotics**, Brest, France
-  * **Sonar mosaic registration for Autonomous Underwater Vehicle.**
+* Mar. - Sep. 2015: Engineering Intern at **ECA Robotics**, Brest, France
+  * **Sonar mosaic registration for Autonomous Underwater Vehicle**
   * Supervisor: Sébastien Tauvry (ECA)
 
-* Sep. 2014 - Mar. 2015: Engineering Intern/Student Researcher
-  * at **Thales Underwater Systems**, Brest, France
-  * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar.**
+* Sep. 2014 - Mar. 2015: Intern/Student Researcher at **Thales Underwater Systems**, Brest, France
+  * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar**
   * Supervisor: Myriam Chabah (Thales)
  
 
-Domains of Expertise
-======
+## Domains of Expertise
 * Earth Observation Information processing and Data fusion
 * Image processing and Computer vision
 * Computer science, Robotics
 
-Selected Publications
-======
+## Selected Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Scholarships and Awards
-======
+## Scholarships and Awards
 - **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany.
 - **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^1]
 - **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^1]
