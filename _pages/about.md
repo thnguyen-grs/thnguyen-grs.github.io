@@ -30,7 +30,7 @@ thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 - Job types: Full-time<br>
 </p>
 
-## Work timeline/News:
+## **Work timeline/News:**
 ### 2020
 - May 4<sup>th</sup> - 8<sup>th</sup> 2020: attending the IEEE ICASSP 2020 virtual conference.
 - April 26<sup>th</sup>: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
