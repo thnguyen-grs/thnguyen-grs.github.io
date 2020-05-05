@@ -7,7 +7,10 @@ redirect_from:
   - /stuffs
 ---
 
-## Github pages related to my research[^a]:
+## Github pages related to my research (or interesting ones):
+(Many thanks to all the researchers for their invaluable scientific contributions.)
+
+- [Awesome Remote Sensing Papers](https://github.com/sacridini/awesome-remote-sensing-papers)
 - [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
 - [Microsoft US Building Footprints](https://github.com/Microsoft/USBuildingFootprints)
 - [Tensorflow VGG](https://github.com/machrisaa/tensorflow-vgg)
@@ -28,7 +31,6 @@ redirect_from:
 - [Locally Linear Transforming](https://github.com/jiayi-ma/LLT)
 - [SpaceNet6 All weather building extraction baseline (by CosmiQ)](https://github.com/CosmiQ/CosmiQ_SN6_Baseline)
 
-[^a]: Many thanks to all the researchers for their invaluable scientific contributions.
 
 ## Things that I bookmarked in every aspects of life, sometimes just for fun:
 - Meaning of my first name Huy in Mandarin ([輝](https://en.wiktionary.org/wiki/%E8%BC%9D))
