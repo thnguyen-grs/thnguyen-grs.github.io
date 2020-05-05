@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction"
+title: "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes"
 collection: publications
 permalink: /publication/2018-heterogeneous
 excerpt: ''
