@@ -1,7 +1,7 @@
 ---
 title: "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes"
 collection: publications
-permalink: /publication/2018-heterogeneous
+permalink: /publication/2020-heterogeneous
 excerpt: ''
 date: 2020-10-01
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
