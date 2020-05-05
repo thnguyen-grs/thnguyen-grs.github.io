@@ -32,9 +32,8 @@ redirect_from:
  
 
 ## Domains of Expertise
-* Earth Observation Information processing and Data fusion
+* Earth Observation, Information processing and Data fusion
 * Image processing and Computer vision
-* Computer science, Robotics
 
 ## Selected Publications
   <ul>{% for post in site.publications reversed %}
