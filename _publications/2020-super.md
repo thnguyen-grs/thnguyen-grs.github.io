@@ -3,7 +3,7 @@ title: "Super-Resolution-based Snake Model—An Unsupervised Method for Large-Sc
 collection: publications
 permalink: /publication/2020-super
 excerpt: ''
-date: 2020-01-01
+date: 2020-10-01
 venue: 'Remote Sensing (submitted)'
 paperurl: 'https://arxiv.org/abs/2004.08522'
 citation: 'T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès, and J.-M. Le Caillec. (2020). &quot;Super-Resolution-based Snake Model—An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image.&quot; <i>arXiv preprint arXiv:2004.08522</i>. X(x).'
