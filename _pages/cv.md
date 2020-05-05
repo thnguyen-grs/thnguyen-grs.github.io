@@ -49,7 +49,7 @@ redirect_from:
 - **2012** Lawrence S. Ting Scholarship for VN students with excellent academic achievements. 
 - **2009-2013** Six times received the Academic Excellence Scholarship of HCMC University of Technology.
 
-[^a]: All expenses were covered by the US Office of Naval Research ([ONR](https://www.onr.navy.mil)).
+[^a]: All expenses were covered by the US [Office of Naval Research](https://www.onr.navy.mil).
 
 
 
