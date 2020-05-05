@@ -23,5 +23,8 @@ main:
 
   - title: "Bookmarks"
     url: /bookmarks/
+
+  - title: "Travel"
+    url: /travel/
   # - title: "Guide"
   #   url: /markdown/
