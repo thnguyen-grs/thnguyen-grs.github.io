@@ -1,11 +1,11 @@
 ---
-title: "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes"
+title: "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction"
 collection: publications
 permalink: /publication/2018-heterogeneous
 excerpt: ''
-date: 2021-10-01
-venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
-paperurl: 'https://arxiv.org/abs/1909.13817'
+date: 2018-09-22
+venue: 'Proc. MTS/IEEE OCEANS'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8232327'
 citation: 'T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès, and J.-M. Le Caillec. (2020). &quot;Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes.&quot; <i>IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.</i>. X(x).'
 ---
 
