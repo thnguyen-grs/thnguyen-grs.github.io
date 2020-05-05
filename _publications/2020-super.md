@@ -10,7 +10,7 @@ citation: 'T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès, and J.-M. Le Caille
 ---
 title: "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes"
 collection: publications
-permalink: /publication/2020-coarse
+permalink: /publication/2020-super
 excerpt: ''
 date: 2020-01-01
 venue: 'IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.'
