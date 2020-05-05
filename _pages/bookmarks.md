@@ -7,12 +7,9 @@ redirect_from:
   - /stuffs
 ---
 
-<div><b style="background-color:transparent"><font color="#000000" face="trebuchet ms, sans-serif" size="3">Some worth-bookmarkeds (in every aspects of life, sometimes just for fun):</font></b></div>
-<div>
-<hr>
-<div>
+Things that I bookmarked in every aspects of life, sometimes just for fun:
 
-<ul><li><font face="trebuchet ms, sans-serif" size="3">Meaning of my first name Huy in Mandarin </font><span style="font-family:trebuchet ms,sans-serif;font-size:small">(</span><span style="font-family:trebuchet ms,sans-serif;color:rgb(0,0,0)"><a href="https://en.wiktionary.org/wiki/%E8%BC%9D">輝</a>)</span></li>
+<ul><li><font face="trebuchet ms, sans-serif" size="3">Meaning of my first name Huy in Mandarin </font><span style="font-family:trebuchet ms,sans-serif;font-size:small"></span><span style="font-family:trebuchet ms,sans-serif;color:rgb(0,0,0)"><a href="https://en.wiktionary.org/wiki/%E8%BC%9D">(輝)</a></span></li>
 <li><font face="trebuchet ms, sans-serif" size="3" style="white-space:pre-wrap;background-color:rgb(245,248,250)"><a href="http://qr.ae/TUTqGe" style="white-space:pre-wrap;background-color:rgb(245,248,250)">What is it that nobody tells you about having children? by Elena Ledoux</a></font></li>
 <li><a href="http://qr.ae/TUTqGH"><font face="trebuchet ms, sans-serif" size="3">How is the life of a male without marriage? by Anonymous&nbsp;</font></a></li>
 <li><font face="trebuchet ms, sans-serif" size="3"><a href="http://qr.ae/TUTqGO">What does it feel like to get stuck in a PhD? What is the next course of action after realizing it’s going nowhere? Did anyone change their thesis due to stagnation of productive research? by Maya Kaiser&nbsp;</a></font></li>
