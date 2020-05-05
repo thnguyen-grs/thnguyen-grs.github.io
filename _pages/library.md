@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Library"
+title: "Recommended library"
 permalink: /library/
 author_profile: true
 ---
 
-# Recommended library
-
+<!-- # Recommended library-->
+ 
 ## Computer vision: 
 - Hartley, R. and Zisserman, A., 2003. Multiple view geometry in computer vision. Cambridge University press.
 - Szeliski, R., 2010. Computer vision: algorithms and applications. Springer Science & Business Media.
