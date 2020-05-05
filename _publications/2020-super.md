@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-01-01
 venue: 'IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.'
 paperurl: 'https://arxiv.org/abs/1909.13817'
-citation: 'T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès, and J.-M. Le Caillec. (2020). &quot;Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes.&quot; <i>IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.</i>. X(x).'
+citation: 'T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès, and J.-M. Le Caillec. (2020). &quot;Super-Resolution-based Snake Model—An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image.&quot; <i>IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.</i>. X(x).'
 ---
 
 
