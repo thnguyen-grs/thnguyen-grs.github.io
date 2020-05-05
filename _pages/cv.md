@@ -42,14 +42,14 @@ redirect_from:
   
 ## Scholarships and Awards
 - **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany.
-- **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^1]
-- **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^1]
+- **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^a]
+- **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^a]
 - **2013-2016** Three times received Congratulations from Academic Council of TELECOM Bretagne.
 - **2013** Telecom Scholarship for Excellence, Telecom Foundation, Mines-Telecom Institute, France.
 - **2012** Lawrence S. Ting Scholarship for VN students with excellent academic achievements. 
 - **2009-2013** Six times received the Academic Excellence Scholarship of HCMC University of Technology.
 
-[^1]: All expenses were covered by the US Office of Naval Research ([ONR](https://www.onr.navy.mil)).
+[^a]: All expenses were covered by the US Office of Naval Research ([ONR](https://www.onr.navy.mil)).
 
 
 
