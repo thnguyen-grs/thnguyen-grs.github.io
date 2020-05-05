@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014
-* M.Sc. in Image Processing, Telecom Bretagne in cohabilitation with University of Rennes 1, 2016
-* M.Eng. Telecom Bretagne, 2016
-* Ph.D. in Geomatics, Université Laval, 2020 (expected)
-* Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020 (expected)
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Mar. - Sep. 2016: Engineering Intern/IT Developer
-  * at **Orange France** (Direction Strategy Innovation), Orange Village, Île-de-France, France
-  * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper.**
-  * Supervisors: Ionel Tothezan, Christian Le Blainvaux and Cathérine Lemarquis (Orange)
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* Mar. - Sep. 2015: Engineering Intern
-  * at **ECA Robotics**, Brest, France
-  * **Sonar mosaic registration for Autonomous Underwater Vehicle.**
-  * Supervisor: Sébastien Tauvry (ECA)
-
-* Sep. 2014 - Mar. 2015: Engineering Intern/Student Researcher
-  * at **Thales Underwater Systems**, Brest, France
-  * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar.**
-  * Supervisor: Myriam Chabah (Thales)
- 
-
-Domains of Expertise
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
 ======
-* Earth Observation Information processing and Data fusion
-* Image processing and Computer vision
-* Computer science, Robotics
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-Selected Publications
+Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Scholarships and Awards
-======
-- **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany.
-- **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^*]
-- **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^*]
-- **2013-2016** Three times received Congratulations from Academic Council of TELECOM Bretagne.
-- **2013** Telecom Scholarship for Excellence, Telecom Foundation, Mines-Telecom Institute, France.
-- **2012** Lawrence S. Ting Scholarship for VN students with excellent academic achievements. 
-- **2009-2013** Six times received the Academic Excellence Scholarship of HCMC University of Technology.
-
-[^*]: All expenses were covered by the US Office of Naval Research ([ONR](https://www.onr.navy.mil)).
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -68,5 +52,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
