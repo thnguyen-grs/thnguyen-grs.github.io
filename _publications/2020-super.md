@@ -1,5 +1,5 @@
 ---
-title: "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes"
+title: "Super-Resolution-based Snake Model—An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"
 collection: publications
 permalink: /publication/2020-super
 excerpt: ''
