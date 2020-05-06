@@ -46,18 +46,20 @@ author_profile: true
 - Goodfellow, I., Bengio, Y., Courville, A. and Bengio, Y., 2016. **Deep learning** (Vol. 1). Cambridge: MIT press. \[[link](http://www.deeplearningbook.org/)\]
 - [Scikit-learn website](http://scikit-learn.org/)
 
-## Probability and Stochastic Processes: 
-- Papoulis, A. and Pillai, S.U., 2002. **Probability, random variables, and stochastic processes**. Tata McGraw-Hill Education.
-
-## Probabilistic robotics:
-- Thrun, S., Burgard, W. and Fox, D., 2005. **Probabilistic robotics**. MIT press.
-
-## Remote sensing principle and applications:
+## Photogrammetry and other Remote Sensing principle, and applications:
+- Kraus, K., 2011. **Photogrammetry: geometry from images and laser scans**. Walter de Gruyter.
+Vancouver.
 - Tupin, F., Inglada, J. and Mercier, G., 2014. **Image Processing Techniques for Remote Sensing**. Remote Sensing Imagery, pp.123-154.
 - Tempfli, K., Huurneman, G., Bakker, W., Janssen, L.L., Feringa, W.F., Gieske, A.S.M., Grabmaier, K.A., Hecker, C.A., Horn, J.A., Kerle, N. and van der Meer, F.D., 2009. **Principles of remote sensing: an introductory textbook**. ITC.
 - Caloz, R. and Collet, C., 2001. **Précis de télédétection, Volume 3, Traitements numériques d'images de télédétection**. Presses de l'Université du Québec. (in French)
 - Provencher, L. and Dubois, J.M.M., 2007. **Précis de télédétection. Volume 4, Méthodes de photointerprétation et d'interprétation d'image**. Presses de l'Université du Québec. (in French)
 - Formation en ligne en Géomatique, École Nationale des Sciences Géographiques. \[[link](http://cours-fad-public.ensg.eu/course)\]
+
+## Probability and Stochastic Processes: 
+- Papoulis, A. and Pillai, S.U., 2002. **Probability, random variables, and stochastic processes**. Tata McGraw-Hill Education.
+
+## Probabilistic robotics/SLAM:
+- Thrun, S., Burgard, W. and Fox, D., 2005. **Probabilistic robotics**. MIT press.
 
 ## Underwater principle and applications: 
 - Lurton, X., 2002. **An introduction to underwater acoustics: principles and applications**. Springer Science & Business Media.
