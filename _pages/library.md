@@ -61,6 +61,6 @@ Vancouver.
 
 ## Underwater acoustics: 
 - Lurton, X., 2002. **An introduction to underwater acoustics: principles and applications**. Springer Science & Business Media.
-- Blondel, P., 2010. **The handbook of sidescan sonar**. Springer Science & Business Media. (particularly side-scan sonar)
+- Blondel, P., 2010. **The handbook of sidescan sonar**. Springer Science & Business Media.
 - Legris, M., 2011. **Systèmes sonars de bathymétrie et d’imagerie**. Support de cours ENSIETA, 2, pp.2011-2012. (in French)
 - Debese, N., 2013. **Bathymétrie-Sondeurs, Traitement des données Modèles numériques de terrain**-Cours Exercices Corrigés (p. 408). Ellipses. (in French)
