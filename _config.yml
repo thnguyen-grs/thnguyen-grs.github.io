@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "About.me"
+  name             : "[About.me]"
   avatar           : "huy.png"
   bio              : "Researcher in Geomatics and Remote Sensing"
   location         : "Quebec, Canada"
-  employer         :
+  employer         : "Université Laval"
   googlescholar    : "https://scholar.google.com/citations?user=bdKxx8kAAAAJ&hl=en"
   email            : "thanh[dot]nguyen[at]imt-atlantique[dot]fr"
   researchgate     : "https://www.researchgate.net/profile/Thanh_Huy_Nguyen"
