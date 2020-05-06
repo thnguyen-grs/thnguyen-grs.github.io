@@ -6,26 +6,14 @@ author_profile: true
 ---
 
 <!-- # Recommended library-->
- 
+
+## 2D and 3D Image Registration:
+- Goshtasby, A.A., 2005. **2-D and 3-D image registration: for medical, remote sensing, and industrial applications**. John Wiley & Sons.
+
 ## Computer vision: 
 - Hartley, R. and Zisserman, A., 2003. **Multiple view geometry in computer vision**. Cambridge University press.
 - Szeliski, R., 2010. **Computer vision: algorithms and applications**. Springer Science & Business Media.
 - Goshtasby, A.A., 2012. **Image registration: Principles, tools and methods**. Springer Science & Business Media.
-
-## Pattern recognition and Machine intelligence:
-- Bishop, C.M., 2007. **Pattern Recognition and Machine Learning**. Springer Science & Business Media.
-- Duda, R.O., Hart, P.E. and Stork, D.G., 2012. **Pattern classification**. John Wiley & Sons.
-- Géron, A., 2019. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems**. O'Reilly Media.
-- Goodfellow, I., Bengio, Y., Courville, A. and Bengio, Y., 2016. **Deep learning** (Vol. 1). Cambridge: MIT press. \[[link](http://www.deeplearningbook.org/)\]
-- [Scikit-learn website](http://scikit-learn.org/)
-
-## Optimization:
-- Boyd, S.P. and Vandenberghe, L., 2004. **Convex optimization**. Cambridge university press. \[[link](http://stanford.edu/~boyd/cvxbook/)\]
-- Bierlaire, M., 2015, **Optimization : principles and algorithms**. Luasanne : EPFL Press.
-- Culioli, J.C., 2012. **Introduction à l'optimisation**. Ellipses. (in French)
-
-## 2D and 3D Image Registration:
-- Goshtasby, A.A., 2005. **2-D and 3-D image registration: for medical, remote sensing, and industrial applications**. John Wiley & Sons.
 
 ## Data fusion:
 - Mitchell, H.B., 2007. **Multi-sensor data fusion: an introduction**. Springer Science & Business Media.
@@ -43,7 +31,20 @@ author_profile: true
 
 ## LiDAR principle and applications:
 - Renslow, M.S. ed., 2012. **Manual of airborne topographic LiDAR**. American Society for Photogrammetry Remote Sensing.
+- Shan, J. and Toth, C.K. ed., 2018. **Topographic laser ranging and scanning: principles and processing**. CRC press.
 - LiDAR tutorials by Remote Sensing Applications Center, U.S. Forest Service \[[link](https://www.fs.fed.us/eng/rsac/lidar_training/)\]
+
+## Optimization:
+- Boyd, S.P. and Vandenberghe, L., 2004. **Convex optimization**. Cambridge university press. \[[link](http://stanford.edu/~boyd/cvxbook/)\]
+- Bierlaire, M., 2015, **Optimization : principles and algorithms**. Luasanne : EPFL Press.
+- Culioli, J.C., 2012. **Introduction à l'optimisation**. Ellipses. (in French)
+
+## Pattern recognition and Machine intelligence:
+- Bishop, C.M., 2007. **Pattern Recognition and Machine Learning**. Springer Science & Business Media.
+- Duda, R.O., Hart, P.E. and Stork, D.G., 2012. **Pattern classification**. John Wiley & Sons.
+- Géron, A., 2019. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems**. O'Reilly Media.
+- Goodfellow, I., Bengio, Y., Courville, A. and Bengio, Y., 2016. **Deep learning** (Vol. 1). Cambridge: MIT press. \[[link](http://www.deeplearningbook.org/)\]
+- [Scikit-learn website](http://scikit-learn.org/)
 
 ## Probability and Stochastic Processes: 
 - Papoulis, A. and Pillai, S.U., 2002. **Probability, random variables, and stochastic processes**. Tata McGraw-Hill Education.
