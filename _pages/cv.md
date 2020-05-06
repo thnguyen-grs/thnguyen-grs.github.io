@@ -17,6 +17,11 @@ redirect_from:
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020 (expected)
 
 ## Work experience
+* Oct. 2016 - Aug. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
+  * **Methodology of multimodal data fusion in Remote Sensing**
+  * **Large-scale building delineation in the context of flood risk anticipation**
+  * Supervisors: Prof. Sylvie Daniel (Université Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique)
+
 * Mar. - Sep. 2016: Engineering Intern at **Orange France**, Île-de-France, France 
   * Team: Direction Strategy-Innovation, DTSI/DSI
   * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper**
@@ -28,7 +33,7 @@ redirect_from:
 
 * Sep. 2014 - Mar. 2015: Intern/Student Researcher at **Thales Underwater Systems**, Brest, France
   * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar**
-  * Supervisor: Myriam Chabah (Thales)
+  * Supervisor: Dr. Myriam Chabah (Thales)
  
 
 ## Domains of Expertise
