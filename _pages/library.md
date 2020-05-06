@@ -7,13 +7,11 @@ author_profile: true
 
 <!-- # Recommended library-->
 
-## 2D and 3D Image Registration:
-- Goshtasby, A.A., 2005. **2-D and 3-D image registration: for medical, remote sensing, and industrial applications**. John Wiley & Sons.
-
 ## Computer vision: 
 - Hartley, R. and Zisserman, A., 2003. **Multiple view geometry in computer vision**. Cambridge University press.
 - Szeliski, R., 2010. **Computer vision: algorithms and applications**. Springer Science & Business Media.
 - Goshtasby, A.A., 2012. **Image registration: Principles, tools and methods**. Springer Science & Business Media.
+- Goshtasby, A.A., 2005. **2-D and 3-D image registration: for medical, remote sensing, and industrial applications**. John Wiley & Sons.
 
 ## Data fusion:
 - Mitchell, H.B., 2007. **Multi-sensor data fusion: an introduction**. Springer Science & Business Media.
@@ -46,7 +44,7 @@ author_profile: true
 - Goodfellow, I., Bengio, Y., Courville, A. and Bengio, Y., 2016. **Deep learning** (Vol. 1). Cambridge: MIT press. \[[link](http://www.deeplearningbook.org/)\]
 - [Scikit-learn website](http://scikit-learn.org/)
 
-## Photogrammetry and other Remote Sensing principle, and applications:
+## Photogrammetry and Remote Sensing:
 - Kraus, K., 2011. **Photogrammetry: geometry from images and laser scans**. Walter de Gruyter.
 Vancouver.
 - Tupin, F., Inglada, J. and Mercier, G., 2014. **Image Processing Techniques for Remote Sensing**. Remote Sensing Imagery, pp.123-154.
@@ -61,7 +59,7 @@ Vancouver.
 ## Probabilistic robotics/SLAM:
 - Thrun, S., Burgard, W. and Fox, D., 2005. **Probabilistic robotics**. MIT press.
 
-## Underwater principle and applications: 
+## Underwater acoustics: 
 - Lurton, X., 2002. **An introduction to underwater acoustics: principles and applications**. Springer Science & Business Media.
 - Blondel, P., 2010. **The handbook of sidescan sonar**. Springer Science & Business Media. (particularly side-scan sonar)
 - Legris, M., 2011. **Systèmes sonars de bathymétrie et d’imagerie**. Support de cours ENSIETA, 2, pp.2011-2012. (in French)
