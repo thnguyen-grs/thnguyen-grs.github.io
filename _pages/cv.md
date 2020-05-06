@@ -12,27 +12,27 @@ redirect_from:
 ## Education
 * B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014
 * M.Sc. in Image Processing, Telecom Bretagne in cohabilitation with University of Rennes 1, 2016
-* M.Eng. Telecom Bretagne, 2016
+* M.Eng. in Information Processing Systems, Telecom Bretagne, 2016
 * Ph.D. in Geomatics, Université Laval, 2020 (expected)
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020 (expected)
 
 ## Work experience
 * Oct. 2016 - Aug. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
-  * **Methodology of multimodal data fusion in Remote Sensing**
-  * **Large-scale building delineation in the context of flood risk anticipation**
+  * Methodology of multimodal data fusion in Remote Sensing
+  * Large-scale building delineation in the context of flood risk anticipation
   * Supervisors: Prof. [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel) (Université Laval), Prof. [Jean-Marc Le Caillec](https://www.labsticc.fr/fr/directory/334-le-caillec-jean-marc.htm) (IMT Atlantique)
 
 * Mar. - Sep. 2016: Engineering Intern at **Orange France**, Île-de-France, France 
   * Team: Direction Strategy-Innovation, DTSI/DSI
-  * **Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper**
+  * Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper
   * Supervisors: [Cathérine Lemarquis](https://www.linkedin.com/in/catherine-lemarquis-63470344/), Ionel Tothezan, and [Christian Le Blainvaux](https://www.linkedin.com/in/christian-le-blainvaux-4498b81/)  (Orange)
 
 * Mar. - Sep. 2015: Engineering Intern at **ECA Robotics**, Brest, France
-  * **Sonar mosaic registration for Autonomous Underwater Vehicle**
+  * Sonar mosaic registration for Autonomous Underwater Vehicle
   * Supervisor: [Sébastien Tauvry](https://www.linkedin.com/in/marinedataprocessing/) (ECA)
 
 * Sep. 2014 - Mar. 2015: Intern/Student Researcher at **Thales Underwater Systems**, Brest, France
-  * **Study of performance improvement in bathymetry by using interferometric multi-baseline sonar**
+  * Study of performance improvement in bathymetry by using interferometric multi-baseline sonar
   * Supervisor: Dr. Myriam Chabah (Thales)
  
 
