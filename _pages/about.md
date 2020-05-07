@@ -20,8 +20,8 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 **Office:** Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
 **Email address:**<br>
-thanh[dot]nguyen[at]imt-atlantique[dot]fr <br>
-thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
+<span>thanh[dot]nguyen[at]imt-atlantique[dot]fr <br>
+<span>thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca
 
 <p style="color:red"><b>Open to job opportunities from September 2020<br>
 <i>Preferences:</i></b><br>
