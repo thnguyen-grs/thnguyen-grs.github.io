@@ -32,6 +32,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 ## Work timeline/News:
 ### 2020
+- May 2020: the journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"** is currently under minor revision. 
 - May 4<sup>th</sup> - 8<sup>th</sup> 2020: attending the IEEE ICASSP 2020 virtual conference.
 - April 26<sup>th</sup>: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
 - April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
