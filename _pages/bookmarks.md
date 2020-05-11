@@ -85,4 +85,5 @@ redirect_from:
 - [How the Pandemic Will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/?linkId=85439737)
 - Some nostalgic SNES video games I used to watch/play when I was little ([Biker Mice From Mars](https://www.youtube.com/watch?v=C_-RLtfSEi4), [Battletoads & Double Dragon](https://www.youtube.com/watch?v=ofTWPtv8X5c), [SD Gundam puzzle](https://www.youtube.com/watch?v=aiwrqFwEFtA"), [Metal Warriors 2](https://www.youtube.com/watch?v=VNQ6Qf7krKI), [Ganbare Goemon 2](https://www.youtube.com/watch?v=ob648xBCMEw))
 - [Forget Chess—the Real Challenge Is Teaching AI to Play D&D](https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/)
+- [When Photogrammetry Meets Lidar: Towards the Airborne Hybrid Era](https://www.gim-international.com/content/article/when-photogrammetry-meets-lidar-towards-the-airborne-hybrid-era)
 
