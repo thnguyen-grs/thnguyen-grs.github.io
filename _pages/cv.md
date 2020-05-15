@@ -19,7 +19,7 @@ redirect_from:
 ## Work experience
 * Oct. 2016 - Aug. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
   * Methodology of multimodal data fusion in Remote Sensing
-  * Large-scale building delineation in the context of flood risk anticipation
+  * Large-scale building delineation for flood risk anticipation and assessment
   * Supervisors: Prof. [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel) (Université Laval), Prof. [Jean-Marc Le Caillec](https://www.labsticc.fr/fr/directory/334-le-caillec-jean-marc.htm) (IMT Atlantique)
 
 * Mar. - Sep. 2016: Engineering Intern at **Orange France**, Île-de-France, France 
