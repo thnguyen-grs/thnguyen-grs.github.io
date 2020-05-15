@@ -19,7 +19,7 @@ redirect_from:
 ## Work experience
 * Oct. 2016 - Aug. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
   * Methodology of multimodal data fusion in Remote Sensing
-  * Large-scale building delineation for flood risk anticipation and assessment
+  * Large-scale building delineation for flood risk anticipation and assessment (projet [ORACLE-2](https://crdig.ulaval.ca/portfolio/methodes-et-outils-geomatiques-pour-la-production-dun-portrait-du-risque-lie-aux-inondations-et-danticipation-de-ces-dernieres/))
   * Supervisors: Prof. [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel) (Université Laval), Prof. [Jean-Marc Le Caillec](https://www.labsticc.fr/fr/directory/334-le-caillec-jean-marc.htm) (IMT Atlantique)
 
 * Mar. - Sep. 2016: Engineering Intern at **Orange France**, Île-de-France, France 
@@ -31,7 +31,7 @@ redirect_from:
   * Sonar mosaic registration for Autonomous Underwater Vehicle
   * Supervisor: [Sébastien Tauvry](https://www.linkedin.com/in/marinedataprocessing/) (ECA)
 
-* Sep. 2014 - Mar. 2015: Intern/Student Researcher at **Thales Underwater Systems**, Brest, France
+* Sep. 2014 - Mar. 2015: Engineering Intern at **Thales Underwater Systems**, Brest, France
   * Study of performance improvement in bathymetry by using interferometric multi-baseline sonar
   * Supervisor: Dr. Myriam Chabah (Thales)
  
@@ -46,16 +46,16 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Scholarships and Awards
-- **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany.
+- **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany
 - **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^a]
 - **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^a]
-- **2013-2016** Three times received Congratulations from Academic Council of TELECOM Bretagne.
-- **2013** Telecom Scholarship for Excellence, Telecom Foundation, Mines-Telecom Institute, France.
-- **2012** Lawrence S. Ting Scholarship for VN students with excellent academic achievements. 
-- **2009-2013** Six times received the Academic Excellence Scholarship of HCMC University of Technology.
+- **2013-2016** Three times received Congratulations from Academic Council of TELECOM Bretagne
+- **2013** Telecom Scholarship for Excellence, Telecom Foundation, Mines-Telecom Institute, France [^b]
+- **2012** Lawrence S. Ting Scholarship for VN students with excellent academic achievements 
+- **2009-2013** Six times received the Academic Excellence Scholarship of HCMC University of Technology
 
 [^a]: All expenses were covered by the US [Office of Naval Research](https://www.onr.navy.mil).
-
+[^b]: 10,000 &euro;
 
 
 <!-- Talks
