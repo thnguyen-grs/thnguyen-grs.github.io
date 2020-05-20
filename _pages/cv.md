@@ -47,7 +47,9 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Scholarships and Awards
+- **2020** Success Scholarships from Faculté de Foresterie, de Géographie et de Géomatique (FFGG, Université Laval)
 - **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany
+- **2018** Success Scholarship from Faculté de Foresterie, de Géographie et de Géomatique (FFGG, Université Laval)
 - **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^a]
 - **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^a]
 - **2013-2016** Three times received Congratulations from Academic Council of TELECOM Bretagne
