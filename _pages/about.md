@@ -32,10 +32,10 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 ## Work timeline/News:
 ### 2020
-- May 2020: the journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"** is currently under minor revision. 
+- May 2020: the journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"** is accepted for publication. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
 - May 4<sup>th</sup> - 8<sup>th</sup> 2020: attending the IEEE ICASSP 2020 virtual conference.
 - April 26<sup>th</sup>: attended the AI4Earth workshop of the IEEE ICLR2020 virtual conference.
-- April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
+- April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing**.
 - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student.
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France.
