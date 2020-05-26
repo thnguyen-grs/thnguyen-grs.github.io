@@ -27,7 +27,7 @@ author_profile: true
 DOI: 10.3390/rs12111702
 \[[Link](https://www.mdpi.com/2072-4292/12/11/1702)\] \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\] 
 
-2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, to appear in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IF=3.392) <br>
+2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IF=3.392) <br>
 DOI: 10.1109/JSTARS.2020.2987305
 \[[arXiv](https://arxiv.org/abs/1909.13817)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
@@ -37,7 +37,7 @@ DOI: 10.1109/JSTARS.2020.2987305
 DOI: 10.5194/isprs-archives-XLII-2-W16-181-2019 \[[proceeding](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W16/181/2019/isprs-archives-XLII-2-W16-181-2019.pdf)\] \[[arXiv](https://arxiv.org/abs/1907.06206)\] \[[poster](https://www.dropbox.com/s/l8xr08ksu2io0ho/poster.pdf?dl=0)\] \[[Github](https://github.com/nthuy190991/polygonization_PIA2019)\] <br><span style="color:blue;"><b>Best poster award at PIA19+MRSS19</b></span>
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63598711" data-doi="10.5194/isprs-archives-xlii-2-w16-181-2019"></div></p> -->
 
-2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.
+2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.<br>
 DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/document/8898612)\] \[[slide](https://www.dropbox.com/s/s8tv51iewezzfks/TH1.R10.4.pdf?dl=0)\] \[[arXiv](https://arxiv.org/abs/1904.03668)\] \[[Github (for full-scale color figures)](https://github.com/nthuy190991/igarss2019)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1109/IGARSS.2019.8898612"></div></p> -->
 
