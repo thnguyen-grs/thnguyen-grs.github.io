@@ -27,7 +27,7 @@ author_profile: true
 DOI: 10.3390/rs12111702
 \[[Publication](https://www.mdpi.com/2072-4292/12/11/1702)\] \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\] 
 
-2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IF=3.392) <br>
+2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IF=3.392, CiteScore=4.03) <br>
 DOI: 10.1109/JSTARS.2020.2987305
 \[[arXiv](https://arxiv.org/abs/1909.13817)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
