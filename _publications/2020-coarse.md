@@ -13,4 +13,4 @@ citation: 'T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès, and J.-M. Le Caille
 
 **Keywords:** airborne LiDAR, optical imagery, aerial imagery, satellite imagery, registration, heterogeneous sensors, coarse-to-fine, building extraction, super-resolution, mutual information, urban scenes.
 
-The preprint can be downloaded from [arXiv](https://arxiv.org/abs/1909.13817).
+The article can be downloaded from [IEEEXplore](https://ieeexplore.ieee.org/document/9103265) or [arXiv](https://arxiv.org/abs/1909.13817).
