@@ -86,6 +86,7 @@ redirect_from:
 - Some nostalgic SNES video games I used to watch/play when I was little ([Biker Mice From Mars](https://www.youtube.com/watch?v=C_-RLtfSEi4), [Battletoads & Double Dragon](https://www.youtube.com/watch?v=ofTWPtv8X5c), [SD Gundam puzzle](https://www.youtube.com/watch?v=aiwrqFwEFtA"), [Metal Warriors 2](https://www.youtube.com/watch?v=VNQ6Qf7krKI), [Ganbare Goemon 2](https://www.youtube.com/watch?v=ob648xBCMEw))
 - [Forget Chess—the Real Challenge Is Teaching AI to Play D&D](https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/)
 - [When Photogrammetry Meets Lidar: Towards the Airborne Hybrid Era](https://www.gim-international.com/content/article/when-photogrammetry-meets-lidar-towards-the-airborne-hybrid-era)
+- [CNN Explainer - Learn Convolutional Neural Network in your browser](https://poloclub.github.io/cnn-explainer/)
 - [Peer Review Fatigue](https://pacojariego.me/2018/09/23/peer-review-fatigue/)
 - [PS5 Unreal Engine 5 Tech Demo](https://www.youtube.com/watch?v=d8B1LNrBpqc)
-
+- [How Vietnam managed to keep its coronavirus death toll at zero (CNN)](https://www.cnn.com/2020/05/29/asia/coronavirus-vietnam-intl-hnk/index.html)
