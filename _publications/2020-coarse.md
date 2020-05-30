@@ -5,7 +5,7 @@ permalink: /publication/2020-coarse
 excerpt: ''
 date: 2020-04-05
 venue: 'IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.'
-paperurl: 'https://arxiv.org/abs/1909.13817'
+paperurl: 'https://ieeexplore.ieee.org/document/9103265'
 citation: 'T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès, and J.-M. Le Caillec. (2020). &quot;Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes.&quot; <i>IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.</i>. X(x). DOI: 10.1109/JSTARS.2020.2987305'
 ---
 
