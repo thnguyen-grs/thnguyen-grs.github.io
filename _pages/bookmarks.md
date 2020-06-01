@@ -7,7 +7,7 @@ redirect_from:
   - /stuffs
 ---
 
-## Github pages related to my research (or interesting ones):
+## Github/project pages related to my research (or interesting ones):
 (Many thanks to all the researchers for their invaluable scientific contributions.)
 
 - [Awesome Remote Sensing Papers](https://github.com/sacridini/awesome-remote-sensing-papers)
@@ -31,6 +31,7 @@ redirect_from:
 - [Locally Linear Transforming](https://github.com/jiayi-ma/LLT)
 - [SpaceNet6 All weather building extraction baseline (by CosmiQ)](https://github.com/CosmiQ/CosmiQ_SN6_Baseline)
 - [COLMAP - Structure-from-Motion and Multi-View Stereo](https://github.com/colmap/colmap)
+- [Cesium OSM Buildings - Global 3D buildings with rich metadata](https://cesium.com/content/cesium-osm-buildings/)
 
 
 ## Things that I bookmarked in every aspects of life, sometimes just for fun:
