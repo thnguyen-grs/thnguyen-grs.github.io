@@ -32,6 +32,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 ## Work timeline/News:
 ### 2020
+- June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive comparison of Building Extraction methods.
 - May 2020: the two journal papers are now available online:
   - Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image, in *Remote Sensing* ([Link](https://www.mdpi.com/2072-4292/12/11/1702))
   - Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, in the *IEEE JSTARS* \([Link](https://ieeexplore.ieee.org/document/9103265)\)
