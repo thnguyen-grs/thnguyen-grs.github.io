@@ -10,8 +10,17 @@ author_profile: true
 ## Computer vision: 
 - Hartley, R. and Zisserman, A., 2003. **Multiple view geometry in computer vision**. Cambridge University press.
 - Szeliski, R., 2010. **Computer vision: algorithms and applications**. Springer Science & Business Media.
+- Forsyth, D., 2012. **Computer Vision, A Modern Approach**. Prentice Hall Professional Technical Reference.
 - Goshtasby, A.A., 2012. **Image registration: Principles, tools and methods**. Springer Science & Business Media.
 - Goshtasby, A.A., 2005. **2-D and 3-D image registration: for medical, remote sensing, and industrial applications**. John Wiley & Sons.
+
+## Photogrammetry and Remote Sensing:
+- Kraus, K., 2011. **Photogrammetry: geometry from images and laser scans**. Walter de Gruyter. Vancouver.
+- Tupin, F., Inglada, J. and Mercier, G., 2014. **Image Processing Techniques for Remote Sensing**. Remote Sensing Imagery, pp.123-154.
+- Tempfli, K., Huurneman, G., Bakker, W., Janssen, L.L., Feringa, W.F., Gieske, A.S.M., Grabmaier, K.A., Hecker, C.A., Horn, J.A., Kerle, N. and van der Meer, F.D., 2009. **Principles of remote sensing: an introductory textbook**. ITC.
+- Caloz, R. and Collet, C., 2001. **Précis de télédétection, Volume 3, Traitements numériques d'images de télédétection**. Presses de l'Université du Québec. (in French)
+- Provencher, L. and Dubois, J.M.M., 2007. **Précis de télédétection. Volume 4, Méthodes de photointerprétation et d'interprétation d'image**. Presses de l'Université du Québec. (in French)
+<!-- - Formation en ligne en Géomatique, École Nationale des Sciences Géographiques. \[[link](http://cours-fad-public.ensg.eu/course)\] -->
 
 ## Data fusion:
 - Mitchell, H.B., 2007. **Multi-sensor data fusion: an introduction**. Springer Science & Business Media.
@@ -19,17 +28,18 @@ author_profile: true
 
 ## Facial recognition (both open-source and commercial cloud-based service):
 - OpenCV documentation \[[link](https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html)\]
-- Tutorial by Philipp Wagner \[[link](https://www.bytefish.de/pdf/facerec_python.pdf)\]
+<!-- - Tutorial by Philipp Wagner \[[link](https://www.bytefish.de/pdf/facerec_python.pdf)\]-->
 - Microsoft Face API documentation \[[link](https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/python)\]
 - Face recognition webpage \[[link](http://www.face-rec.org/)\] and databases \[[link](http://www.face-rec.org/databases/)\]
 
-## Geospatial data and GIS:
+
+<!-- ## Geospatial data and GIS:
 - Goodchild, M.F., 2010. **Fundamentals of spatial data quality** (Vol. 662). John Wiley & Sons.
-- van Oosterom, P., Zlatanova, S., Penninga, F. and Fendel, E. eds., 2008. **Advances in 3D geoinformation systems**. Springer.
+- van Oosterom, P., Zlatanova, S., Penninga, F. and Fendel, E. eds., 2008. **Advances  in 3D geoinformation systems**. Springer.-->
 
 ## LiDAR principle and applications:
-- Renslow, M.S. ed., 2012. **Manual of airborne topographic LiDAR**. American Society for Photogrammetry Remote Sensing.
 - Shan, J. and Toth, C.K. ed., 2018. **Topographic laser ranging and scanning: principles and processing**. CRC press.
+- Renslow, M.S. ed., 2012. **Manual of airborne topographic LiDAR**. American Society for Photogrammetry Remote Sensing.
 - LiDAR tutorials by Remote Sensing Applications Center, U.S. Forest Service \[[link](https://www.fs.fed.us/eng/rsac/lidar_training/)\]
 
 ## Optimization:
@@ -44,14 +54,7 @@ author_profile: true
 - Goodfellow, I., Bengio, Y., Courville, A. and Bengio, Y., 2016. **Deep learning** (Vol. 1). Cambridge: MIT press. \[[link](http://www.deeplearningbook.org/)\]
 - [Scikit-learn website](http://scikit-learn.org/)
 
-## Photogrammetry and Remote Sensing:
-- Kraus, K., 2011. **Photogrammetry: geometry from images and laser scans**. Walter de Gruyter.
-Vancouver.
-- Tupin, F., Inglada, J. and Mercier, G., 2014. **Image Processing Techniques for Remote Sensing**. Remote Sensing Imagery, pp.123-154.
-- Tempfli, K., Huurneman, G., Bakker, W., Janssen, L.L., Feringa, W.F., Gieske, A.S.M., Grabmaier, K.A., Hecker, C.A., Horn, J.A., Kerle, N. and van der Meer, F.D., 2009. **Principles of remote sensing: an introductory textbook**. ITC.
-- Caloz, R. and Collet, C., 2001. **Précis de télédétection, Volume 3, Traitements numériques d'images de télédétection**. Presses de l'Université du Québec. (in French)
-- Provencher, L. and Dubois, J.M.M., 2007. **Précis de télédétection. Volume 4, Méthodes de photointerprétation et d'interprétation d'image**. Presses de l'Université du Québec. (in French)
-- Formation en ligne en Géomatique, École Nationale des Sciences Géographiques. \[[link](http://cours-fad-public.ensg.eu/course)\]
+
 
 ## Probability and Stochastic Processes: 
 - Papoulis, A. and Pillai, S.U., 2002. **Probability, random variables, and stochastic processes**. Tata McGraw-Hill Education.
