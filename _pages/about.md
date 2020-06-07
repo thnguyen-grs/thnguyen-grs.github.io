@@ -32,7 +32,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 ## Work timeline/News:
 ### 2020
-- June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive comparison of Building Extraction methods.
+- June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.
 - May 2020: the two journal papers are now available online:
   - Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image, in *Remote Sensing* ([Link](https://www.mdpi.com/2072-4292/12/11/1702))
   - Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, in the *IEEE JSTARS* \([Link](https://ieeexplore.ieee.org/document/9103265)\)
@@ -47,7 +47,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - January 2020: **journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**.
 
 ### 2019
-- November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR data and optical image.
+- November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR Data and Optical Image.
 - Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Some small updates:
   - The challenges have been extended until spring 2021 due to COVID-19. 
   - We hired a undergrad student to help us, but after two months it didn't work out. 
