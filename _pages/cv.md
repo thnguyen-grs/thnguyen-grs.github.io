@@ -26,7 +26,7 @@ redirect_from:
   * Team: Direction Strategy-Innovation, DTSI/DSI
   * Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper
   * Supervisors: [Cathérine Lemarquis](https://www.linkedin.com/in/catherine-lemarquis-63470344/), Ionel Tothezan, and [Christian Le Blainvaux](https://www.linkedin.com/in/christian-le-blainvaux-4498b81/)  (Orange)
-  * Master's defense jury: Prof. [Valérie Burdin](https://www.researchgate.net/profile/Valerie_Burdin), Prof. [François Rousseau](https://www.researchgate.net/profile/Francois_Rousseau2), Dr. [Didier Guériot](https://www.researchgate.net/profile/Didier_Gueriot) (IMT Atlantique). Note: 17.5/20 (top).
+  * Master's defense jury: Prof. [Valérie Burdin](https://www.researchgate.net/profile/Valerie_Burdin), Prof. [François Rousseau](https://www.researchgate.net/profile/Francois_Rousseau2), Dr. [Didier Guériot](https://www.researchgate.net/profile/Didier_Gueriot) (IMT Atlantique). Grade: 17.5/20 (highest).
 
 * Mar. - Sep. 2015: Engineering Intern at **ECA Robotics**, Brest, France
   * Sonar mosaic registration for Autonomous Underwater Vehicle
