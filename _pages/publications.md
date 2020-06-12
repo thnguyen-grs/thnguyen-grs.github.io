@@ -18,32 +18,32 @@ author_profile: true
 
 <!--
 ## Under revision
-1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image** (submitted) \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\]
+1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image** (submitted) \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\]
 -->
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
-1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, 2020, 12(11), 1702. (IF=4.118, CiteScore=4.89) <br>
+1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, 2020, 12(11), 1702. (IF=4.118, CiteScore=4.89) <br>
 DOI: 10.3390/rs12111702
 \[[Publication](https://www.mdpi.com/2072-4292/12/11/1702)\] \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\] 
 
-2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Coarse-to- Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (Early access) (IF=3.392, CiteScore=4.03) <br>
+2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Coarse-to- Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (Early access) (IF=3.392, CiteScore=4.03) <br>
 DOI: 10.1109/JSTARS.2020.2987305
 \[[Publication](https://ieeexplore.ieee.org/document/9103265)\] \[[arXiv](https://arxiv.org/abs/1909.13817)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
 
 ## Conference Papers
-1. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data**, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W16, 181–188.<br>
+1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data**, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W16, 181–188.<br>
 DOI: 10.5194/isprs-archives-XLII-2-W16-181-2019 \[[proceeding](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W16/181/2019/isprs-archives-XLII-2-W16-181-2019.pdf)\] \[[arXiv](https://arxiv.org/abs/1907.06206)\] \[[poster](https://www.dropbox.com/s/l8xr08ksu2io0ho/poster.pdf?dl=0)\] \[[Github](https://github.com/nthuy190991/polygonization_PIA2019)\] <br><span style="color:blue;"><b>Best poster award at PIA19+MRSS19</b></span>
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63598711" data-doi="10.5194/isprs-archives-xlii-2-w16-181-2019"></div></p> -->
 
-2. T. H. Nguyen, S. Daniel, D. Gueriot, C. Sintes and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.<br>
+2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.<br>
 DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/document/8898612)\] \[[slide](https://www.dropbox.com/s/s8tv51iewezzfks/TH1.R10.4.pdf?dl=0)\] \[[arXiv](https://arxiv.org/abs/1904.03668)\] \[[Github (for full-scale color figures)](https://github.com/nthuy190991/igarss2019)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1109/IGARSS.2019.8898612"></div></p> -->
 
-3. T. H. Nguyen, D. Gueriot, J.-M. Le Caillec, C. Sintes and S. Daniel, **Heterogeneous Data Registration for 3D Underwater Scene Reconstruction,** OCEANS 2017 - MTS/IEEE Anchorage, Anchorage, Alaska, 2017, pp. 1-6. \[[proceeding](https://ieeexplore.ieee.org/document/8232327)\] \[[preprint](https://www.researchgate.net/publication/320016469_Heterogeneous_Data_Registration_for_3D_Underwater_Scene_Reconstruction)\] \[[poster](https://www.dropbox.com/s/srdo0j02q2o1gz5/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
+3. T. H. Nguyen, D. Guériot, J.-M. Le Caillec, C. Sintès and S. Daniel, **Heterogeneous Data Registration for 3D Underwater Scene Reconstruction,** OCEANS 2017 - MTS/IEEE Anchorage, Anchorage, Alaska, 2017, pp. 1-6. \[[proceeding](https://ieeexplore.ieee.org/document/8232327)\] \[[preprint](https://www.researchgate.net/publication/320016469_Heterogeneous_Data_Registration_for_3D_Underwater_Scene_Reconstruction)\] \[[poster](https://www.dropbox.com/s/srdo0j02q2o1gz5/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
 
-4. T. H. Nguyen, M. Chabah and C. Sintes, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
+4. T. H. Nguyen, M. Chabah and C. Sintès, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Other communications
