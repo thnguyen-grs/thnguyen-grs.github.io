@@ -33,10 +33,10 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - May-June 2020: become a Reviewer for:
-  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
-  - [Artificial Intelligence (AI)](https://www.mdpi.com/journal/ai) published by MDPI.
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  - [Artificial Intelligence (AI)](https://www.mdpi.com/journal/ai) published by MDPI (new journal)
 - June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.
--  2020: the two journal papers are now available online:
+- May 2020: the two journal papers have been published and are now available online:
   - Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image, in *Remote Sensing* ([Link](https://www.mdpi.com/2072-4292/12/11/1702))
   - Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, in the *IEEE JSTARS* \([Link](https://ieeexplore.ieee.org/document/9103265)\)
 - May 2020: the journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been accepted for publication in the Remote Sensing MDPI**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
