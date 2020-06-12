@@ -50,3 +50,8 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 1. *Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses* (talk), T. H. Nguyen, LabSTICC/CID/PRASYS séminaire, ENSTA (Brest), March 2019
 
 2. *Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche* (poster),  T. H. Nguyen, Colloque CRG, Université Laval (Quebec City), June 2018
+
+## Reviewer activities
+Reviewer for the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, and the Artificial Intelligence (AI) published by MDPI (new journal)
+
+**Keywords:** Remote sensing, LiDAR, Optical imagery, Sonar, Data registration, Multimodal, Building extraction.
