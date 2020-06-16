@@ -92,3 +92,4 @@ redirect_from:
 - [PS5 Unreal Engine 5 Tech Demo](https://www.youtube.com/watch?v=d8B1LNrBpqc)
 - [How Vietnam managed to keep its coronavirus death toll at zero (CNN)](https://www.cnn.com/2020/05/29/asia/coronavirus-vietnam-intl-hnk/index.html)
 - [How to write a good review? - CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be)
+- [Facial Recognition: Last Week Tonight with John Oliver (HBO)](https://t.co/vbepBdZJG8?amp=1)
