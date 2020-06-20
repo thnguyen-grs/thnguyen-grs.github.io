@@ -17,6 +17,7 @@ redirect_from:
 - [Deep Structured Active Contours](https://github.com/dmarcosg/DSAC)
 - [Generic U-Net Tensorflow implementation for image segmentation](https://github.com/jakeret/tf_unet)
 - [Geoseg - a package for building segmentation and outline extraction](https://github.com/huster-wgm/geoseg)
+- [Mask R-CNN](https://github.com/matterport/Mask_RCNN)
 - [Depth estimation by Time-of-Flight cameras](https://github.com/RobVisLab/tofmark)
 - [Fast iterative shrinkage-thresholding algorithm (FISTA)](https://github.com/tiepvupsu/FISTA)
 - [Line Segment Detector (LSD) for OpenCV and Matlab](https://github.com/primetang/LSD-OpenCV-MATLAB)
@@ -32,10 +33,12 @@ redirect_from:
 - [SpaceNet6 All weather building extraction baseline (by CosmiQ)](https://github.com/CosmiQ/CosmiQ_SN6_Baseline)
 - [COLMAP - Structure-from-Motion and Multi-View Stereo](https://github.com/colmap/colmap)
 - [Cesium OSM Buildings - Global 3D buildings with rich metadata](https://cesium.com/content/cesium-osm-buildings/)
+- [Random3DCity - Synthetic CityGML data and procedural modelling engine (by Filip Biljecki)](https://filipbiljecki.com/code/Random3Dcity.html)
+- [Restoring 3D buildings from aerial LiDAR with help of AI (ERSI)](https://www.esri.com/arcgis-blog/products/product/3d-gis/restoring-3d-buildings-from-aerial-lidar-with-help-of-ai/)
+- [Reconstructing 3D buildings from aerial LiDAR with AI: details (ERSI)](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
 
 
 ## Things that I bookmarked in every aspects of life, sometimes just for fun:
-- [Random3DCity - Synthetic CityGML data and procedural modelling engine (by Filip Biljecki)](https://filipbiljecki.com/code/Random3Dcity.html)
 - [Facial Recognition: Last Week Tonight with John Oliver (HBO)](https://t.co/vbepBdZJG8?amp=1)
 - [How to write a good review? - CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be)
 - [How Vietnam managed to keep its coronavirus death toll at zero (CNN)](https://www.cnn.com/2020/05/29/asia/coronavirus-vietnam-intl-hnk/index.html)
