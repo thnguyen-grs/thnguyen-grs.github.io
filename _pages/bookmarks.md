@@ -34,8 +34,7 @@ redirect_from:
 - [COLMAP - Structure-from-Motion and Multi-View Stereo](https://github.com/colmap/colmap)
 - [Cesium OSM Buildings - Global 3D buildings with rich metadata](https://cesium.com/content/cesium-osm-buildings/)
 - [Random3DCity - Synthetic CityGML data and procedural modelling engine (by Filip Biljecki)](https://filipbiljecki.com/code/Random3Dcity.html)
-- [Restoring 3D buildings from aerial LiDAR with help of AI (ERSI)](https://www.esri.com/arcgis-blog/products/product/3d-gis/restoring-3d-buildings-from-aerial-lidar-with-help-of-ai/)
-- [Reconstructing 3D buildings from aerial LiDAR with AI: details (ERSI)](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
+- Restoring 3D buildings from aerial LiDAR with help of AI [(ERSI)](https://www.esri.com/arcgis-blog/products/product/3d-gis/restoring-3d-buildings-from-aerial-lidar-with-help-of-ai/) [Medium](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
 
 
 ## Things that I bookmarked in every aspects of life, sometimes just for fun:
