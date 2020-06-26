@@ -38,6 +38,7 @@ redirect_from:
 
 
 ## Things that I bookmarked in every aspects of life, sometimes just for fun:
+- [Apple Silicon - Let's Talk (Dave Lee)](https://www.youtube.com/watch?v=q2KjrPT8u8c&t=315s)
 - [Facial Recognition: Last Week Tonight with John Oliver (HBO)](https://t.co/vbepBdZJG8?amp=1)
 - [How to write a good review? - CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be)
 - [How Vietnam managed to keep its coronavirus death toll at zero (CNN)](https://www.cnn.com/2020/05/29/asia/coronavirus-vietnam-intl-hnk/index.html)
