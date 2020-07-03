@@ -41,7 +41,7 @@ redirect_from:
 * Earth Observation, Information processing and Data fusion
 * Image processing and Computer vision
 
-## Selected Publications
+## Selected Publications (see full list [here](thnguyen-grs.github.io/publications/))
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
