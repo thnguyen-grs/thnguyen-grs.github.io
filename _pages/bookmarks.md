@@ -37,7 +37,8 @@ redirect_from:
 - Reconstructing 3D buildings from aerial LiDAR with help of AI [ERSI](https://www.esri.com/arcgis-blog/products/product/3d-gis/restoring-3d-buildings-from-aerial-lidar-with-help-of-ai/) [Medium](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
 
 
-## Things that I bookmarked in every aspects of life, sometimes just for fun:
+## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- [Claire Balding meets Sir Alex Ferguson](https://www.youtube.com/watch?v=FognyQZ_PPQ)
 - [Apple Silicon - Let's Talk (Dave Lee)](https://www.youtube.com/watch?v=q2KjrPT8u8c&t=315s)
 - [Facial Recognition: Last Week Tonight with John Oliver (HBO)](https://t.co/vbepBdZJG8?amp=1)
 - [How to write a good review? - CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be)
