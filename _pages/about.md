@@ -33,6 +33,8 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - October 2020: will be joining [CNES](https://cnes.fr/en/) and [Cerfacs](https://cerfacs.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
+- September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: volunteer and attendance at [IEEE IGARSS 2020](https://igarss2020.org).
+- August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendance at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
 - August 2020: will soon finish my thesis manuscript.
 <!-- - May-June 2020: become a Reviewer for:
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
