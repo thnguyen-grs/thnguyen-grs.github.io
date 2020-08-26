@@ -36,9 +36,11 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: volunteer and attendance at [IEEE IGARSS 2020](https://igarss2020.org).
 - August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendance at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
 - August 2020: will soon finish my thesis manuscript.
+
 <!-- - May-June 2020: become a Reviewer for:
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   - [Artificial Intelligence (AI)](https://www.mdpi.com/journal/ai) published by MDPI (new journal) -->
+  
 - June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.
 - May 2020: the two journal papers have been published and are now available online:
   - Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image, in *Remote Sensing* ([Link](https://www.mdpi.com/2072-4292/12/11/1702))
