@@ -35,7 +35,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - October 2020: will be joining [CNES](https://cnes.fr/en/) and [Cerfacs](https://cerfacs.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: volunteer and attendance at [IEEE IGARSS 2020](https://igarss2020.org).
 - August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendance at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
-- August 2020: will soon finish my thesis manuscript.
+<!-- - August 2020: will soon finish my thesis manuscript.-->
 - June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.
 - May 2020: the two journal papers have been published and are now available online:
   - Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image, in *Remote Sensing* ([Link](https://www.mdpi.com/2072-4292/12/11/1702))
@@ -44,17 +44,18 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - May 4<sup>th</sup> - 8<sup>th</sup> 2020: attending the [IEEE ICASSP 2020](https://2020.ieeeicassp.org) virtual conference.
 - April 26<sup>th</sup>: attended the [AI4Earth workshop](https://ai4earthscience.github.io/iclr-2020-workshop/) of the IEEE ICLR2020 virtual conference.
 - April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"** has been submitted to the MDPI Remote Sensing.
-- April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student.
+<!-- - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student. -->
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
-- March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France.
+<!-- - March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France. -->
 - January 2020: **journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**.
 
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR Data and Optical Image.
-- Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Some small updates:
-  - The challenges have been extended until spring 2021 due to COVID-19. 
+- Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Update: the challenges have been extended until spring 2021 due to COVID-19. 
+<!-- 
   - We hired a undergrad student to help us, but after two months it didn't work out. 
   - A research proposal will be prepared.
+   -->
 - Began an 7-month working period at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
