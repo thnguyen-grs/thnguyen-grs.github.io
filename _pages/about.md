@@ -53,7 +53,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR Data and Optical Image.
 - Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Update (April 2020): the contests have been extended until spring 2021 due to COVID-19, and the project has been put in stand-by for the moment. 
-- Began an 7-month working period at Université Laval.
+- Began an 11-month working period at Université Laval. 
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
 - September 18<sup>th</sup> - September 20<sup>th</sup>, 2019: **poster presentation at ISPRS [PIA19+MRSS19 conference](http://www.pf.bgu.tum.de/isprs/pia19/index.html)** at Technische Universitaet Muenchen (TUM) <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
