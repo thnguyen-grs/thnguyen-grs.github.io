@@ -34,16 +34,16 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ### 2020
 - October/November 2020: will be joining [CNES](https://cnes.fr/en/) and [Cerfacs](https://cerfacs.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
 - September 2020: PhD thesis submission/deposit. Expected defense: november 2020.
-- September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendance and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
-- August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendance at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
+- September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
+- August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendee at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
 <!-- - August 2020: will soon finish my thesis manuscript.-->
 - June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.
 - May 2020: the two journal papers have been published and are now available online:
   - Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image, in *Remote Sensing* ([Link](https://www.mdpi.com/2072-4292/12/11/1702))
   - Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, in the *IEEE JSTARS* \([Link](https://ieeexplore.ieee.org/document/9103265)\)
 - May 2020: the journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been accepted for publication in the Remote Sensing MDPI**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
-- May 4<sup>th</sup> - 8<sup>th</sup> 2020: attending the [IEEE ICASSP 2020](https://2020.ieeeicassp.org) virtual conference.
-- April 26<sup>th</sup>: attended the [AI4Earth workshop](https://ai4earthscience.github.io/iclr-2020-workshop/) of the IEEE ICLR2020 virtual conference.
+- May 4<sup>th</sup> - 8<sup>th</sup> 2020: attendee at the [IEEE ICASSP 2020](https://2020.ieeeicassp.org) virtual conference.
+- April 26<sup>th</sup>: attendee at the [AI4Earth workshop](https://ai4earthscience.github.io/iclr-2020-workshop/) of the IEEE ICLR2020 virtual conference.
 - April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"** has been submitted to the MDPI Remote Sensing.
 <!-- - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student. -->
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
@@ -65,7 +65,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - March 29<sup>th</sup>, 2019: gave an oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
 - March 14<sup>th</sup>, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer ([link](https://www.campus-mondial-de-la-mer.fr/Agenda-Rencontres-collaboratives-pour-le-traitement-et-l%E2%80%99analyse-des-images-marines-2608-3291-0-0.html)).
 - February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for PhD students, Rennes.
-February 6<sup>th</sup>, 2019: attended an one-day workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme [LEFE](http://www.insu.cnrs.fr/lefe) and [PNTS](http://www.insu.cnrs.fr/pnts) from CNRS/INSU.
+February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme [LEFE](http://www.insu.cnrs.fr/lefe) and [PNTS](http://www.insu.cnrs.fr/pnts) from CNRS/INSU.
 - Began a 9-month working period at IMT Atlantique from January 2019.
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
