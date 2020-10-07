@@ -33,7 +33,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - October/November 2020: will be joining [CNES](https://cnes.fr/en/) and [Cerfacs](https://cerfacs.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
-- September 2020: PhD thesis submission/deposit. Expected defense: november 2020.
+- September 2020: Ph.D. thesis submission/deposit. Expected defense: november 2020.
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
 - August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendee at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
 <!-- - August 2020: will soon finish my thesis manuscript.-->
@@ -47,7 +47,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"** has been submitted to the MDPI Remote Sensing.
 <!-- - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student. -->
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
-<!-- - March 2020: started writing my doctoral dissertation. The PhD defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France. -->
+<!-- - March 2020: started writing my doctoral dissertation. The Ph.D. defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France. -->
 - January 2020: **journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**.
 
 ### 2019
@@ -64,7 +64,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - April 2019: paper **"Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference** in Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
 - March 29<sup>th</sup>, 2019: gave an oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
 - March 14<sup>th</sup>, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer ([link](https://www.campus-mondial-de-la-mer.fr/Agenda-Rencontres-collaboratives-pour-le-traitement-et-l%E2%80%99analyse-des-images-marines-2608-3291-0-0.html)).
-- February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for PhD students, Rennes.
+- February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for Ph.D. students, Rennes.
 February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme [LEFE](http://www.insu.cnrs.fr/lefe) and [PNTS](http://www.insu.cnrs.fr/pnts) from CNRS/INSU.
 - Began a 9-month working period at IMT Atlantique from January 2019.
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
@@ -85,23 +85,23 @@ February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmos
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 2017: got selected as a **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
 - June 2017: paper **"Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference** in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
-- May 2017: completed the PhD courseworks at Université Laval.
+- May 2017: completed the Ph.D. courseworks at Université Laval.
 - January 2017: began working at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - From January 1<sup>st</sup>, 2017: Two graduate schools Telecom Bretagne and Mines Nantes were merged to become IMT Atlantique Bretagne-Pays de la Loire.
 
 ### 2016 and before
-- October 2016: began working as a PhD student at Telecom Bretagne and Université Laval.
+- October 2016: began working as a Ph.D. student at Telecom Bretagne and Université Laval.
 - September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note).
 - March 2016 - September 2016: graduate internship at Orange France DTSI/DSI, Arcueil, Île-de-France.
 - October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation at MTS/IEEE OCEANS 2015 conference at Gaylord National Resort & Convention Center, Washington D.C. <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
-- October 2015: began the last year of my M.Eng. programme at Telecom Bretagne, as well as the "Master Recherche" in co-habilitation with Université de Rennes 1.
-- July 2015: got selected as a **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2015 Washington DC.
+- October 2015: enrolled for M.Sc. at Telecom Bretagne (in parallel with the final year of my M.Eng.).
+- July 2015: **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2015 Washington DC.
 - July 2015: **paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a presentation at MTS/IEEE OCEANS 2015 conference** in Washington DC.
 - March 2015 - September 2015: internship at ECA Robotics (Brest).
 - September 2014 - March 2015: internship at Thales Underwater Systems (Brest).
 Twice received Congratulations from the Academic Council (Jury des études) of Telecom Bretagne.
-- August 2013: began the M.Eng. programm et Telecom Bretagne, Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">, grant: **Telecom Scholarship of Excellence** funded by Telecom Foundation (Institut Mines-Telecom).
+- August 2013: began the M.Eng. programm et Telecom Bretagne, Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">. Grant: **Telecom Scholarship of Excellence** funded by Telecom Foundation (Institut Mines-Telecom).
 - Travel: <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - September 2009 - August 2013: undergrad student at HCMC University of Technology, program PFIEV. Major in Electronic Engineering and Telecommunications.
 
