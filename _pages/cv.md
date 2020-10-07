@@ -29,11 +29,11 @@ redirect_from:
   * Master's defense jury: Prof. [Valérie Burdin](https://www.researchgate.net/profile/Valerie_Burdin), Prof. [François Rousseau](https://www.researchgate.net/profile/Francois_Rousseau2), Dr. [Didier Guériot](https://www.researchgate.net/profile/Didier_Gueriot) (IMT Atlantique). Grade: 17.5/20 (highest).
 
 * Mar. - Sep. 2015: Engineering Intern at **ECA Robotics**, Brest, France
-  * Sonar mosaic registration for Autonomous Underwater Vehicle
+  * Project: Sonar mosaic registration for Autonomous Underwater Vehicle
   * Supervisor: [Sébastien Tauvry](https://www.linkedin.com/in/marinedataprocessing/) (ECA)
 
 * Sep. 2014 - Mar. 2015: Engineering Intern at **Thales Underwater Systems**, Brest, France
-  * Study of performance improvement in bathymetry by using interferometric multi-baseline sonar
+  * Project: Study of performance improvement in bathymetry by using interferometric multi-baseline sonar
   * Supervisor: Dr. Myriam Chabah (Thales)
  
 
