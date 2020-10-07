@@ -18,13 +18,13 @@ redirect_from:
 
 ## Work experience
 * Oct. 2016 - Aug. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
-  * Methodology of multimodal data fusion in Remote Sensing
-  * Large-scale building delineation for flood risk anticipation and assessment (projet [ORACLE-2](https://crdig.ulaval.ca/portfolio/methodes-et-outils-geomatiques-pour-la-production-dun-portrait-du-risque-lie-aux-inondations-et-danticipation-de-ces-dernieres/))
+  * Project: Methodology of multimodal data fusion in remote sensing
+  * Project: Large-scale building delineation for flood risk anticipation and assessment (projet [ORACLE-2](https://crdig.ulaval.ca/portfolio/methodes-et-outils-geomatiques-pour-la-production-dun-portrait-du-risque-lie-aux-inondations-et-danticipation-de-ces-dernieres/))
   * Supervisors: Prof. [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel) (Université Laval), Prof. [Jean-Marc Le Caillec](https://www.labsticc.fr/fr/directory/334-le-caillec-jean-marc.htm) (IMT Atlantique)
 
 * Mar. - Sep. 2016: Engineering Intern at **Orange France**, Île-de-France, France 
   * Team: Direction Strategy-Innovation, DTSI/DSI
-  * Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper
+  * Project: Aplications of Machine Learning techniques in Facial Recognition and Developments of cognitive interactions of a robot NAO Pepper
   * Supervisors: [Cathérine Lemarquis](https://www.linkedin.com/in/catherine-lemarquis-63470344/), Ionel Tothezan, and [Christian Le Blainvaux](https://www.linkedin.com/in/christian-le-blainvaux-4498b81/)  (Orange)
   * Master's defense jury: Prof. [Valérie Burdin](https://www.researchgate.net/profile/Valerie_Burdin), Prof. [François Rousseau](https://www.researchgate.net/profile/Francois_Rousseau2), Dr. [Didier Guériot](https://www.researchgate.net/profile/Didier_Gueriot) (IMT Atlantique). Grade: 17.5/20 (highest).
 
