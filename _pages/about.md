@@ -44,11 +44,11 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - May 2020: the journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been accepted for publication in the Remote Sensing MDPI**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/). The results are made publicly at the [Github page](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction).
 - May 4<sup>th</sup> - 8<sup>th</sup> 2020: attendee at the [IEEE ICASSP 2020](https://2020.ieeeicassp.org) virtual conference.
 - April 26<sup>th</sup>: attendee at the [AI4Earth workshop](https://ai4earthscience.github.io/iclr-2020-workshop/) of the IEEE ICLR2020 virtual conference.
-- April 2020: journal paper **"Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image"** has been submitted to the MDPI Remote Sensing.
+- April 2020: journal paper "Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image" has been submitted to the MDPI Remote Sensing.
 <!-- - April 2020: Got some interesting preliminary results on the "Building roof plane segmentation". However, further potential development and publication may depend on my time or whether I can get some help from a grad student. -->
 - April 2020: the journal paper **"Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for publication in the IEEE JSTARS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 <!-- - March 2020: started writing my doctoral dissertation. The Ph.D. defense is planned for late September-early October 2020 at IMT Atlantique, Brest, France. -->
-- January 2020: **journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**.
+- January 2020: journal paper "Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS).
 
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR Data and Optical Image.
@@ -58,10 +58,10 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - **Best Poster Award at PIA19+MRSS19 conference**
 - September 18<sup>th</sup> - September 20<sup>th</sup>, 2019: **poster presentation at ISPRS [PIA19+MRSS19 conference](http://www.pf.bgu.tum.de/isprs/pia19/index.html)** at Technische Universitaet Muenchen (TUM) <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - July 28<sup>th</sup> - August 2<sup>nd</sup>, 2019: **oral presentation at IEEE IGARSS 2019 conference** at Pacifico Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
-- June 2019: paper **"Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" is accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019** in Munich <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
+- June 2019: paper "Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" is accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019 in Munich <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - April/May 2019: started writing a journal manuscript focusing on the registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, for the full study including the IGARSS paper.
 - April 2019: granted the IGARSS Travel Grant from IEEE GRSS (Geoscience and Remote Sensing Society) supporting my attendance at the IGARSS 2019 in Yokohama.
-- April 2019: paper **"Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference** in Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
+- April 2019: paper "Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference in Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
 - March 29<sup>th</sup>, 2019: gave an oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
 - March 14<sup>th</sup>, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer ([link](https://www.campus-mondial-de-la-mer.fr/Agenda-Rencontres-collaboratives-pour-le-traitement-et-l%E2%80%99analyse-des-images-marines-2608-3291-0-0.html)).
 - February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for Ph.D. students, Rennes.
@@ -83,12 +83,12 @@ February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmos
 - September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation at MTS/IEEE OCEANS 2017 conference at Dena’ina Civic and Convention Center, Anchorage, Alaska <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - Began an 8-month working period at IMT Atlantique.
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
-- June 2017: got selected as a **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
-- June 2017: paper **"Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference** in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
+- June 2017: **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
+- June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - May 2017: completed the Ph.D. courseworks at Université Laval.
 - January 2017: began working at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
-- From January 1<sup>st</sup>, 2017: Two graduate schools Telecom Bretagne and Mines Nantes were merged to become IMT Atlantique Bretagne-Pays de la Loire.
+- (Since January 1<sup>st</sup>, 2017: two graduate schools Telecom Bretagne and Mines Nantes were merged to become IMT Atlantique Bretagne-Pays de la Loire.)
 
 ### 2013-2016
 - October 2016: began working as a Ph.D. student at Telecom Bretagne and Université Laval.
@@ -101,7 +101,6 @@ February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmos
 - July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
 - March 2015 - September 2015: internship at ECA Robotics (Brest).
 - September 2014 - March 2015: internship at Thales Underwater Systems (Brest).
-Twice received Congratulations from the Academic Council (Jury des études) of Telecom Bretagne.
 - August 2013: began the M.Eng. programm et Telecom Bretagne, Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">. Grant: **Telecom Scholarship of Excellence** funded by Telecom Foundation (Institut Mines-Telecom).
 - Travel: <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
