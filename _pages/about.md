@@ -94,12 +94,12 @@ February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmos
 - October 2016: began working as a Ph.D. student at Telecom Bretagne and Université Laval.
 - September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note).
 - July 2016: completed the Pepper training program at SoftBank Robotics, Paris <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">.
-- March 2016 - September 2016: graduate internship at Orange France DTSI/DSI, Arcueil, Île-de-France.
+- March - September 2016: graduate internship at Orange France DTSI/DSI, Arcueil, Île-de-France.
 - October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation at MTS/IEEE OCEANS 2015 conference at Gaylord National Resort & Convention Center, Washington D.C. <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - October 2015: enrolled for M.Sc. program at Telecom Bretagne (in parallel with the final year of my M.Eng. program).
 - July 2015: **finalist in the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2015 Washington DC.
 - July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
-- March 2015 - September 2015: internship at ECA Robotics (Brest).
+- March - September 2015: internship at ECA Robotics (Brest).
 - September 2014 - March 2015: internship at Thales Underwater Systems (Brest).
 - August 2013: began the M.Eng. programm et Telecom Bretagne, Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">. Grant: **Telecom Scholarship of Excellence** funded by Telecom Foundation (Institut Mines-Telecom).
 - Travel: <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
