@@ -60,9 +60,9 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 - July 28<sup>th</sup> - August 2<sup>nd</sup>, 2019: **oral presentation at IEEE IGARSS 2019 conference** at Pacifico Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
 - June 2019: paper "Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" is accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019 in Munich <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - April/May 2019: started writing a journal manuscript focusing on the registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, for the full study including the IGARSS paper.
-- April 2019: granted the IGARSS Travel Grant from IEEE GRSS (Geoscience and Remote Sensing Society) supporting my attendance at the IGARSS 2019 in Yokohama.
+- April 2019: obtained the IEEE GRSS Travel Grant supporting my attendance at the IGARSS 2019 in Yokohama.
 - April 2019: paper "Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference in Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
-- March 29<sup>th</sup>, 2019: gave an oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
+- March 29<sup>th</sup>, 2019: oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
 - March 14<sup>th</sup>, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer ([link](https://www.campus-mondial-de-la-mer.fr/Agenda-Rencontres-collaboratives-pour-le-traitement-et-l%E2%80%99analyse-des-images-marines-2608-3291-0-0.html)).
 - February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for Ph.D. students, Rennes.
 February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme [LEFE](http://www.insu.cnrs.fr/lefe) and [PNTS](http://www.insu.cnrs.fr/pnts) from CNRS/INSU.
@@ -71,7 +71,7 @@ February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmos
 
 ### 2018
 - November 19th, 2018: attended Journée SIG Université Laval.
-- June 2018: got accepted for an oral presentation at MTS/IEEE OCEANS 2018 in Charleston, but my supervisor advised me to put it aside to concentrate on more important tasks.
+- June 2018: an oral presentation got accepted for MTS/IEEE OCEANS 2018 in Charleston, but my supervisor advised me to put it aside to concentrate on higher priority tasks.
 - June 13<sup>th</sup>, 2018: poster presentation at the Symposium of the Centre for Research in Geomatics (CRG), Université Laval ([link](https://mailchi.mp/e248aa287fb4/invitation-colloque-du-crg-1395401?e=b83d61b42e)).
 - May 31<sup>st</sup>, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
 - Began an 8-month working period at Université Laval.
