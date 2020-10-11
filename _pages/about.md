@@ -33,8 +33,8 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - December 2020: will be joining [CNES](https://cnes.fr/en/) and [Cerfacs](https://cerfacs.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
-- September 2020: Ph.D. thesis submission/deposit. Expected defense: December 4<sup>th</sup> 2020.
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
+- September 2020: Ph.D. thesis submission/deposit. Expected defense: December 4<sup>th</sup> 2020.
 - August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendee at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
 <!-- - August 2020: will soon finish my thesis manuscript.-->
 - June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.
