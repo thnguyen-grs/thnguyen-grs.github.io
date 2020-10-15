@@ -33,6 +33,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - December 2020: will be joining [CNES](https://cnes.fr/en/) and [Cerfacs](https://cerfacs.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
+- October 16<sup>th</sup> - December 10<sup>th</sup> 2020: attending the 2020 IEEE GRSS and ISPRS - Young Professionals & Student Consortium Summer School ([link](http://grss-isprs.dcc.ufmg.br)). 
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
 - September 2020: Ph.D. thesis submission/deposit. Expected defense: December 4<sup>th</sup> 2020.
 - August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendee at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
@@ -52,7 +53,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR Data and Optical Image.
-- Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Update (April 2020): the contests have been extended until spring 2021 due to COVID-19, and the project has been put in stand-by for the moment. 
+- Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Update 1 (April 2020): the contests have been extended until spring 2021 due to COVID-19. Update 2 (October 2020): this project is to be resumed next week (as a main project).
 - Began an 11-month working period at Université Laval. 
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
