@@ -17,7 +17,9 @@ redirect_from:
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020 (expected)
 
 ## Work experience
-* Oct. 2016 - Aug. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
+* Oct. - Nov. 2020: Associate Researcher at **Université Laval** (Canada)
+
+* Oct. 2016 - Sep. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
   * Project: Methodology of multimodal data fusion in remote sensing
   * Project: Large-scale building delineation for flood risk anticipation and assessment (projet [ORACLE-2](https://crdig.ulaval.ca/portfolio/methodes-et-outils-geomatiques-pour-la-production-dun-portrait-du-risque-lie-aux-inondations-et-danticipation-de-ces-dernieres/))
   * Supervisors: Prof. [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel) (Université Laval), Prof. [Jean-Marc Le Caillec](https://www.labsticc.fr/fr/directory/334-le-caillec-jean-marc.htm) (IMT Atlantique)
