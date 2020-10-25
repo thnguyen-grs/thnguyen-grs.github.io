@@ -18,6 +18,7 @@ redirect_from:
 
 ## Work experience
 * Oct. - Nov. 2020: Associate Researcher at **Université Laval** (Canada)
+  * Project: R2Sonic Multispectral Water Column Challenge focusing on the estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA.
 
 * Oct. 2016 - Sep. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
   * Project: Methodology of multimodal data fusion in remote sensing
