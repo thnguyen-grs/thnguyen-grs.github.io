@@ -36,7 +36,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - December 2020: will be joining [Cerfacs](https://cerfacs.fr/en/) and [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
-- October 19<sup>th</sup> - November 27<sup>th</sup>: working on the R2Sonic Challenges Project (theme: Suspended Sediments) under a short-term researcher contract.
+- October 19<sup>th</sup> - November 27<sup>th</sup>: working on the R2Sonic Challenges Project (theme: Suspended Sediments) under a short-term contract.
 - October 16<sup>th</sup> - December 10<sup>th</sup> 2020: attending the 2020 IEEE GRSS and ISPRS - Young Professionals & Student Consortium Summer School ([link](http://grss-isprs.dcc.ufmg.br)). 
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
 - September 2020: Ph.D. thesis submission/deposit. Expected defense: December 4<sup>th</sup> 2020.
