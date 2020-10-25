@@ -56,14 +56,14 @@ redirect_from:
 - **2019** Best Poster Award at the ISPRS PIA+MRSS Conference, Munich, Germany
 - **2018** Success Scholarship from Faculté de Foresterie, de Géographie et de Géomatique (FFGG, Université Laval)
 - **2017** Finalist in Student Poster Competition, MTS/IEEE OCEANS’17, Anchorage, AK, USA [^a]
-- **2016** Nominee of Telecom Bretagne in the competition “Best Internship Award”, Mines-Telecom Institute, France
+- **2016** Nominee of Telecom Bretagne in the “Best Internship Award” competition, Mines-Telecom Institute, France
 - **2015** Finalist in Student Poster Competition, MTS/IEEE OCEANS’15, Washington DC, USA [^a]
 - **2013-2016** Three times received Congratulations from Academic Council of TELECOM Bretagne
 - **2013** Telecom Scholarship for Excellence, Telecom Foundation, Mines-Telecom Institute, France [^b]
-- **2012** Lawrence S. Ting Scholarship for VN students with excellent academic achievements 
+- **2012** Lawrence S. Ting Scholarship for undergraduate students with excellent academic achievements 
 - **2009-2013** Six times received the Academic Excellence Scholarship of HCMC University of Technology
 
-[^a]: All expenses were covered by the US [Office of Naval Research](https://www.onr.navy.mil).
+[^a]: All expenses were sponsored by the US [Office of Naval Research](https://www.onr.navy.mil).
 [^b]: 10,000 &euro;
 
 
