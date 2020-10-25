@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 * B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014
-* M.Sc. in Image Processing, Telecom Bretagne in cohabilitation with University of Rennes 1, 2016
 * M.Eng. in Information Processing Systems, Telecom Bretagne, 2016
+* M.Sc. in Image Processing, Telecom Bretagne, 2016
 * Ph.D. in Geomatics, Université Laval, 2020 (expected)
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020 (expected)
 
@@ -23,7 +23,9 @@ redirect_from:
 * Oct. 2016 - Sep. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
   * Project: Methodology of multimodal data fusion in remote sensing
   * Project: Large-scale building delineation for flood risk anticipation and assessment (projet [ORACLE-2](https://crdig.ulaval.ca/portfolio/methodes-et-outils-geomatiques-pour-la-production-dun-portrait-du-risque-lie-aux-inondations-et-danticipation-de-ces-dernieres/))
+  * Thesis: A Versatile and Efficient Data Fusion Methodology for Heterogeneous Airborne LiDAR and Optical Imagery Data Acquired Under Unconstrained Conditions ([Abstract](http://www.theses.fr/s201678))
   * Supervisors: Prof. [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel) (Université Laval), Prof. [Jean-Marc Le Caillec](https://www.labsticc.fr/fr/directory/334-le-caillec-jean-marc.htm) (IMT Atlantique)
+  * PhD thesis defense jury: Prof. Emer. [Jean-Paul Haton](https://members.loria.fr/JPHaton/cv/) (Université de Lorraine), Prof. [Jocelyn Chanussot](http://jocelyn-chanussot.net) (Grenoble Institute of Technology), Prof. [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/) (Université Laval), Dr. [Frédéric Maussang](https://www.imt-atlantique.fr/en/person/frederic-maussang) (IMT Atlantique).
 
 * Mar. - Sep. 2016: Engineering Intern at **Orange France**, Île-de-France, France 
   * Team: Direction Strategy-Innovation, DTSI/DSI
