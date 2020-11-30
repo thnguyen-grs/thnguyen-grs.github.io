@@ -19,7 +19,7 @@ redirect_from:
 ## Work experience
 * Since Dec. 2020: Researcher at CERFACS
   * Project: Comparison study of high-resolution digital suface models (DSMs) with computational fluid dynamics (CFD) models simulated by [Telemac](https://www.opentelemac.org/index.php/presentation).
-  * Umbrella project: [FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) (Flood Detection, Assessment, and Monitoring System) partnered with CNES, Airbus, JPL.
+  * Umbrella project: [FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) (Flood Detection, Assessment, and Monitoring System) partnered with CNES, vorteX.io, Airbus, Jet Propulsion Laboratory (JPL).
 
 * Oct. - Nov. 2020: Research Assistant at **Université Laval** (Canada)
   * Project: R2Sonic Multispectral Water Column Challenge focusing on the estimation of suspended sediment concentration and grain size in Diamond Creek area, Colorado river, Arizona, USA.
