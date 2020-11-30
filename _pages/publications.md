@@ -52,6 +52,6 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 2. *Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche* (poster),  T. H. Nguyen, Colloque CRG, Université Laval (Quebec City), June 2018
 
 ## Peer-review activities
-Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), [Remote Sensing MDPI](https://www.mdpi.com/journal/remotesensing), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current), and [Artificial Intelligence MDPI](https://www.mdpi.com/journal/ai) (new journal)
+Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), [Remote Sensing MDPI](https://www.mdpi.com/journal/remotesensing), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current), and [Artificial Intelligence MDPI](https://www.mdpi.com/journal/ai).
 
 **Keywords:** Remote sensing, LiDAR, Optical imagery, Sonar, Data registration, Multimodal, Building extraction.
