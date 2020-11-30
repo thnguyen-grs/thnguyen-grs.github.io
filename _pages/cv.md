@@ -19,15 +19,15 @@ redirect_from:
 ## Work experience
 * Since Dec. 2020: Researcher at CERFACS
   * Project: Comparison study of high-resolution digital suface models (DSMs) with computational fluid dynamics (CFD) models simulated by [Telemac](https://www.opentelemac.org/index.php/presentation).
-  * Umbrella project: [FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) (Flood Detection and Mapping System) by CNES.
+  * Umbrella project: [FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) (Flood Detection, Assessment, and Monitoring System) partnered with CNES, Airbus, JPL.
 
-* Oct. - Nov. 2020: Associate Researcher at **Université Laval** (Canada)
+* Oct. - Nov. 2020: Research Assistant at **Université Laval** (Canada)
   * Project: R2Sonic Multispectral Water Column Challenge focusing on the estimation of suspended sediment concentration and grain size in Diamond Creek area, Colorado river, Arizona, USA.
 
 * Oct. 2016 - Sep. 2020: Doctoral Researcher at **Université Laval** (Canada) and **IMT Atlantique** (France)
   * Project: 
     * Multisensor data fusion for 3D mosaic construction of scenes (project MOSAIC3D)
-    * Large-scale building delineation for flood risk anticipation and assessment (projet [ORACLE-2](https://crdig.ulaval.ca/portfolio/methodes-et-outils-geomatiques-pour-la-production-dun-portrait-du-risque-lie-aux-inondations-et-danticipation-de-ces-dernieres/))
+    * Large-scale building delineation for flood risk anticipation and assessment (umbrella project [ORACLE-2](https://crdig.ulaval.ca/portfolio/methodes-et-outils-geomatiques-pour-la-production-dun-portrait-du-risque-lie-aux-inondations-et-danticipation-de-ces-dernieres/))
   * Thesis: A Versatile and Efficient Data Fusion Methodology for Heterogeneous Airborne LiDAR and Optical Imagery Data Acquired Under Unconstrained Conditions \[[Abstract](http://www.theses.fr/s201678)\] \[[Presentation]()\]
   * Supervisors: Prof. [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel) (Université Laval), Prof. [Jean-Marc Le Caillec](https://www.labsticc.fr/fr/directory/334-le-caillec-jean-marc.htm) (IMT Atlantique)
   * PhD thesis defense jury: Prof. Emer. [Jean-Paul Haton](https://members.loria.fr/JPHaton/cv/) (Université de Lorraine), Prof. [Jocelyn Chanussot](http://jocelyn-chanussot.net) (Grenoble Institute of Technology), Prof. [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/) (Université Laval), Dr. [Frédéric Maussang](https://www.imt-atlantique.fr/en/person/frederic-maussang) (IMT Atlantique).
