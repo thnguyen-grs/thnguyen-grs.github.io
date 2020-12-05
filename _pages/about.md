@@ -14,16 +14,14 @@ redirect_from:
 Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 
 ### **Alma mater:**
-<!--
 - Université Laval <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> (Ph.D.)
--->
-- IMT Atlantique Bretagne-Pays de la Loire <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (M.Eng., M.Sc.)
+- IMT Atlantique Bretagne-Pays de la Loire <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (Ph.D., M.Sc., M.Eng.)
 - Ho Chi Minh City University of Technology <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.)
 
 **Office:** Local 1306, Pavillon Louis-Jacques-Casault, 1055 Avenue du Séminaire, Québec, QC G1V 0A6, Canada
 
 **Email address:**<br>
-<span>thanh[dot]nguyen[at]imt-atlantique[dot]fr <br>
+<span>thanh[dot]nguyen[at]imt-atlantique[dot]fr (to be expired after December 31st) <br>
 <span>thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca 
 
 <!-- <p style="color:red"><b>Open to job opportunities from September 2020<br>
@@ -36,6 +34,7 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - December 2020: will be joining [Cerfacs](https://cerfacs.fr/en/) and [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
+- December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), Dr. Frédéric Maussang (IMT Atlantique).
 - October 19<sup>th</sup> - November 27<sup>th</sup>: working on the R2Sonic Challenges Project (theme: Suspended Sediments) under a short-term contract.
 - October 16<sup>th</sup> - December 10<sup>th</sup> 2020: attending the 2020 IEEE GRSS and ISPRS - Young Professionals & Student Consortium Summer School ([link](http://grss-isprs.dcc.ufmg.br)). 
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
