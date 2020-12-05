@@ -34,8 +34,9 @@ Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/)
 ## Work timeline/News:
 ### 2020
 - December 2020: will be joining [Cerfacs](https://cerfacs.fr/en/) and [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
-- December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), Dr. Frédéric Maussang (IMT Atlantique).
-- October 19<sup>th</sup> - November 27<sup>th</sup>: working on the R2Sonic Challenges Project (theme: Suspended Sediments) under a short-term contract.
+- December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), and Dr. Frédéric Maussang (IMT Atlantique).
+- November 25<sup>th</sup> - 28<sup>th</sup> 2020: attendee at the [International Conference on 3D Vision](http://3dv2020.dgcv.nii.ac.jp).
+- October 19<sup>th</sup> - November 27<sup>th</sup>: working on the R2Sonic Challenges Project, theme: Suspended Sediments, under a short-term contract.
 - October 16<sup>th</sup> - December 10<sup>th</sup> 2020: attending the 2020 IEEE GRSS and ISPRS - Young Professionals & Student Consortium Summer School ([link](http://grss-isprs.dcc.ufmg.br)). 
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
 - September 2020: Ph.D. thesis submission/deposit. Expected defense: December 4<sup>th</sup> 2020.
