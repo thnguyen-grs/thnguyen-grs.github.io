@@ -11,8 +11,8 @@ redirect_from:
 # Thanh Huy Nguyen, Ph.D.
 
 ## Current position: 
-Postdocral Researcher at CERFACS, Météopole, Toulouse
- <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)). UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI). Project: FloodDAM partnered with CNES, vorteX.io, Airbus, JPL.
+Researcher at CERFACS, Météopole, Toulouse
+ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 <!-- Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> -->
 
 ### **Alma mater:**
@@ -35,8 +35,12 @@ Postdocral Researcher at CERFACS, Météopole, Toulouse
 </p> -->
 
 ## Work timeline/News:
+### 2021
+- January 21<sup>st</sup> 2020: will be presenting my PhD works in a [CRDIG](https://crdig.ulaval.ca) webinar.
+
 ### 2020
-- December 14<sup>th</sup> 2020: start working at [Cerfacs](https://cerfacs.fr/en/) and [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects.
+- December 14<sup>th</sup> 2020: start working at [Cerfacs](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)). UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
+- Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - December 9<sup>th</sup> 2020: Ph.D. thesis final submission/deposit.
 - December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), and Dr. Frédéric Maussang (IMT Atlantique).
 - November 25<sup>th</sup> - 28<sup>th</sup> 2020: attendee at the [International Conference on 3D Vision](http://3dv2020.dgcv.nii.ac.jp).
