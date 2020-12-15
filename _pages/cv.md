@@ -17,7 +17,7 @@ redirect_from:
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020
 
 ## Work experience
-* Since Dec. 2020: Researcher at CERFACS
+* Since Dec. 2020: Researcher at CERFACS (European Center for Research and Advanced Training in Scientific Computation)
   * Project: Comparison study of high-resolution digital suface models (DSMs) with computational fluid dynamics (CFD) models simulated by [Telemac](https://www.opentelemac.org/index.php/presentation).
   * Umbrella project: [FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) (Flood Detection, Alert, and rapid Mapping) partnered with CNES, vorteX.io, Airbus, Jet Propulsion Laboratory (JPL), etc.
 
