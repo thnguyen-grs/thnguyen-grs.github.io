@@ -20,7 +20,7 @@ Researcher at CERFACS, Météopole, Toulouse
 - IMT Atlantique Bretagne-Pays de la Loire <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (Ph.D., M.Sc., M.Eng.)
 - Ho Chi Minh City University of Technology <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"> (B.Eng.)
 
-**Office:** Météopole, 42 Avenue Gaspard Coriolis, 31057 Toulouse Cedex 1, France
+**Office:** D-11, CERFACS, 42 Avenue Gaspard Coriolis, 31057 Toulouse Cedex 1, France
 
 **Email address:**<br>
 <span>thanh-huy[dot]nguyen[at]cerfacs[dot]fr <br>
