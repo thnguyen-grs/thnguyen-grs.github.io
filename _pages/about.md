@@ -24,8 +24,8 @@ Researcher at CERFACS, Météopole, Toulouse
 
 **Email address:**<br>
 <span>thanh-huy[dot]nguyen[at]cerfacs[dot]fr <br>
-<span>thanh[dot]nguyen[at]imt-atlantique[dot]fr (to be expired after December 31st) <br>
-<span>thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca (to be expired after January 31st)
+<!-- <span>thanh[dot]nguyen[at]imt-atlantique[dot]fr (to be expired after December 31st) <br> -->
+<!-- <span>thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca (to be expired after January 31st) -->
 
 <!-- <p style="color:red"><b>Open to job opportunities from September 2020<br>
 <i>Preferences:</i></b><br>
@@ -36,10 +36,14 @@ Researcher at CERFACS, Météopole, Toulouse
 
 ## Work timeline/News:
 ### 2021
-- January 21<sup>st</sup> 2020: will be presenting my PhD works in a [CRDIG](https://crdig.ulaval.ca) webinar.
+<!-- 
+- Co-authored paper to submit at IGARSS 2021
+- February 2021: presentation PhD work for CNES and CERFACS people
+- 
+ -->
 
 ### 2020
-- December 14<sup>th</sup> 2020: start working at [CERFACS](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)). UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
+- December 14<sup>th</sup> 2020: start working at [CERFACS](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - December 9<sup>th</sup> 2020: Ph.D. thesis final submission/deposit.
 - December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), and Dr. Frédéric Maussang (IMT Atlantique).
