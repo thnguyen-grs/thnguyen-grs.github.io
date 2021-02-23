@@ -23,7 +23,7 @@ Researcher at CERFACS, Météopole, Toulouse
 **Office:** D-11, CERFACS, 42 Avenue Gaspard Coriolis, 31057 Toulouse Cedex 1, France
 
 **Email address:**<br>
-<span>thanh-huy[dot]nguyen[at]cerfacs[dot]fr <br>
+<span>thanh-huy[dot]nguyen[at]cerfacs[dot]com <br>
 <!-- <span>thanh[dot]nguyen[at]imt-atlantique[dot]fr (to be expired after December 31st) <br> -->
 <!-- <span>thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca (to be expired after January 31st) -->
 
