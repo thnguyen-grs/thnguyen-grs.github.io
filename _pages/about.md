@@ -36,11 +36,12 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2021
-<!-- - March 16<sup>th</sup> - 18<sup>th</sup> 2021: participate in the [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling)
+- Paper "The SCO-FloodDAM Project: New Observing Strategies for Flood Detection, Alert and Rapid Mapping" (co-authored) is accepted for an oral presentation at IEEE IGARSS 2021 conference in Brussel <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
+- March 16<sup>th</sup> - 18<sup>th</sup> 2021: participate in the [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling)
 - March 14<sup>th</sup> 2021: submitted an abstract for the workshop [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/)
 - March 9<sup>th</sup> - 10<sup>th</sup> 2021: participated in the CERFACS GLOBC (Climate Modeling and Global Change) Seminar.
 - A co-authored paper submitted at [IGARSS 2021](https://igarss2021.com/).
-- February 12<sup>th</sup> 2021: presenting PhD and Postdoc works for FloodDAM partners (CNES, CERFACS, ONERA, CLS). -->
+- February 12<sup>th</sup> 2021: presenting PhD and Postdoc works for FloodDAM partners (CNES, CERFACS, ONERA, CLS). 
 
 ### 2020
 - December 14<sup>th</sup> 2020: start working at [CERFACS](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
@@ -79,7 +80,7 @@ Researcher at CERFACS, Toulouse
 - April/May 2019: started writing a journal manuscript focusing on the registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, for the full study including the IGARSS paper.
 - April 2019: obtained the IEEE GRSS Travel Grant supporting my attendance at the IGARSS 2019 in Yokohama.
 - April 2019: paper "Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference in Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
-- March 29<sup>th</sup>, 2019: oral presentation in the seminaire of PRASYS research team (LabSTICC/CID).
+- March 29<sup>th</sup>, 2019: oral presentation in the PRASYS (LabSTICC/CID) research team seminar.
 - March 14<sup>th</sup>, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer ([link](https://www.campus-mondial-de-la-mer.fr/Agenda-Rencontres-collaboratives-pour-le-traitement-et-l%E2%80%99analyse-des-images-marines-2608-3291-0-0.html)).
 - February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for Ph.D. students, Rennes.
 - February 6<sup>th</sup>, 2019: attendee at the workshop IA & Climat-Océan-Atmosphère, Rennes, organized within action MANU (Méthodes Mathématiques et Numériques) of programme [LEFE](http://www.insu.cnrs.fr/lefe) and [PNTS](http://www.insu.cnrs.fr/pnts) from CNRS/INSU.
