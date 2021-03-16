@@ -39,9 +39,8 @@ Researcher at CERFACS, Toulouse
 - March 16<sup>th</sup> - 18<sup>th</sup> 2021: participate in the [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling)
 - March 14<sup>th</sup> 2021: submitted an abstract for the workshop [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/)
 - March 9<sup>th</sup> - 10<sup>th</sup> 2021: participated in the CERFACS GLOBC (Climate Modeling and Global Change) Seminar.
-- Co-authored paper submitted at IGARSS 2021.
-- February 12<sup>th</sup> 2021: presenting PhD and Postdoc works for CNES and CERFACS teams.
-
+- A co-authored paper submitted at [IGARSS 2021](https://igarss2021.com/).
+- February 12<sup>th</sup> 2021: presenting PhD and Postdoc works for FloodDAM partners (CNES, CERFACS, ONERA, CLS).
 
 ### 2020
 - December 14<sup>th</sup> 2020: start working at [CERFACS](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
