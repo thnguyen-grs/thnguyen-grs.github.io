@@ -36,9 +36,10 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2021
+- May 24<sup>th</sup> - 28<sup>th</sup> 2021: attendee at the [AGU Natural Hazard Alert](https://www.agu.org/Natural-Hazards-Alerts) Workshop.
 - May 2021: poster presentation "Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting – Example of the Garonne Marmandaise Catchment" has been accepted for [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference in Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">.
 - March 2021: co-authored paper "The SCO-FloodDAM Project: New Observing Strategies for Flood Detection, Alert and Rapid Mapping" has been accepted for an oral presentation at [IEEE IGARSS 2021](https://igarss2021.com/) conference in Brussel <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
-- March 16<sup>th</sup> - 18<sup>th</sup> 2021: participate in the [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling)
+- March 16<sup>th</sup> - 18<sup>th</sup> 2021: attendee at the [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling)
 - March 9<sup>th</sup> - 10<sup>th</sup> 2021: participated in the CERFACS GLOBC (Climate Modeling and Global Change) Seminar.
 - February 12<sup>th</sup> 2021: presented PhD and Postdoc works for FloodDAM partners (CNES, CERFACS, ONERA, CLS).  
 
@@ -50,7 +51,7 @@ Researcher at CERFACS, Toulouse
 - December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), and Dr. Frédéric Maussang (IMT Atlantique).
 - November 25<sup>th</sup> - 28<sup>th</sup> 2020: attendee at the [International Conference on 3D Vision](http://3dv2020.dgcv.nii.ac.jp).
 - October 19<sup>th</sup> - November 27<sup>th</sup>: working on the R2Sonic Challenges Project, theme: Suspended Sediments, under a short-term contract.
-- October 16<sup>th</sup> - December 10<sup>th</sup> 2020: attending the 2020 IEEE GRSS and ISPRS - Young Professionals & Student Consortium Summer School ([link](http://grss-isprs.dcc.ufmg.br)). 
+- October 16<sup>th</sup> - December 10<sup>th</sup> 2020: attendee at the 2020 IEEE GRSS and ISPRS - Young Professionals & Student Consortium Summer School ([link](http://grss-isprs.dcc.ufmg.br)). 
 - September 26<sup>th</sup> - October 2<sup>nd</sup> 2020: attendee and session manager at [IEEE IGARSS 2020](https://igarss2020.org).
 - September 2020: Ph.D. thesis initial submission/deposit. <!-- Expected defense: December 4<sup>th</sup> 2020. -->
 - August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendee at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
