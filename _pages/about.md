@@ -36,13 +36,12 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2021
-<!-- - March 2021: Paper "The SCO-FloodDAM Project: New Observing Strategies for Flood Detection, Alert and Rapid Mapping" (co-authored) is accepted for an oral presentation at IEEE IGARSS 2021 conference in Brussel <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
+- May 2021: poster presentation "Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting – Example of the Garonne Marmandaise Catchment" has been accepted for [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference in Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">.
+- March 2021: co-authored paper "The SCO-FloodDAM Project: New Observing Strategies for Flood Detection, Alert and Rapid Mapping" has been accepted for an oral presentation at [IEEE IGARSS 2021](https://igarss2021.com/) conference in Brussel <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
 - March 16<sup>th</sup> - 18<sup>th</sup> 2021: participate in the [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling)
-- March 14<sup>th</sup> 2021: submitted an abstract for the workshop [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/)
 - March 9<sup>th</sup> - 10<sup>th</sup> 2021: participated in the CERFACS GLOBC (Climate Modeling and Global Change) Seminar.
 - February 12<sup>th</sup> 2021: presented PhD and Postdoc works for FloodDAM partners (CNES, CERFACS, ONERA, CLS).  
-- A co-authored paper submitted at [IGARSS 2021](https://igarss2021.com/).
--->
+
 
 ### 2020
 - December 14<sup>th</sup> 2020: start working at [CERFACS](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working and collaborating in FloodDAM and AI4GEO projects. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
@@ -77,10 +76,10 @@ Researcher at CERFACS, Toulouse
 - **Best Poster Award at PIA19+MRSS19 conference**
 - September 18<sup>th</sup> - September 20<sup>th</sup>, 2019: **poster presentation at ISPRS [PIA19+MRSS19 conference](http://www.pf.bgu.tum.de/isprs/pia19/index.html)** at Technische Universitaet Muenchen (TUM) <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - July 28<sup>th</sup> - August 2<sup>nd</sup>, 2019: **oral presentation at IEEE IGARSS 2019 conference** at Pacifico Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
-- June 2019: paper "Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" is accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019 in Munich <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
+- June 2019: paper "Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" has been accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019 in Munich <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - April/May 2019: started writing a journal manuscript focusing on the registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, for the full study including the IGARSS paper.
 - April 2019: obtained the IEEE GRSS Travel Grant supporting my attendance at the IGARSS 2019 in Yokohama.
-- April 2019: paper "Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" is accepted for an oral presentation at IEEE IGARSS 2019 conference in Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
+- April 2019: paper "Robust Building-based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes" has been accepted for an oral presentation at IEEE IGARSS 2019 conference in Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
 - March 29<sup>th</sup>, 2019: oral presentation in the PRASYS (LabSTICC/CID) research team seminar.
 - March 14<sup>th</sup>, 2019: participated in Open Forum animation on Marine Image Processing and Analysis, Brest-Iroise Technopole, organized by Campus Mondiale de la Mer ([link](https://www.campus-mondial-de-la-mer.fr/Agenda-Rencontres-collaboratives-pour-le-traitement-et-l%E2%80%99analyse-des-images-marines-2608-3291-0-0.html)).
 - February 11<sup>th</sup> - 13<sup>th</sup>, 2019: participated in a 3-day training programme on pedagogy and teaching activities for Ph.D. students, Rennes.
@@ -103,7 +102,7 @@ Researcher at CERFACS, Toulouse
 - Began an 8-month working period at IMT Atlantique.
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 2017: **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
-- June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" is accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
+- June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" has been accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - May 2017: completed the Ph.D. courseworks at Université Laval.
 - January 2017: began working at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
@@ -117,7 +116,7 @@ Researcher at CERFACS, Toulouse
 - October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation at MTS/IEEE OCEANS 2015 conference at Gaylord National Resort & Convention Center, Washington D.C. <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - October 2015: enrolled for M.Sc. program at Telecom Bretagne (in parallel with the final year of my M.Eng. program).
 - July 2015: **finalist in the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2015 Washington DC.
-- July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" is accepted for a presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
+- July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" has been accepted for a presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
 - March - September 2015: internship at ECA Robotics (Brest).
 - September 2014 - March 2015: internship at Thales Underwater Systems (Brest).
 - August 2013: began the M.Eng. programm et Telecom Bretagne, Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">. Grant: **Telecom Scholarship of Excellence** funded by Telecom Foundation (Institut Mines-Telecom).
