@@ -35,9 +35,12 @@ redirect_from:
 - [Cesium OSM Buildings - Global 3D buildings with rich metadata](https://cesium.com/content/cesium-osm-buildings/)
 - [Random3DCity - Synthetic CityGML data and procedural modelling engine (by Filip Biljecki)](https://filipbiljecki.com/code/Random3Dcity.html)
 - Reconstructing 3D buildings from aerial LiDAR with help of AI [ERSI](https://www.esri.com/arcgis-blog/products/product/3d-gis/restoring-3d-buildings-from-aerial-lidar-with-help-of-ai/) [Medium](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
+- [SEN12-FLOOD : A SAR and Multispectral Dataset for Flood Detection](http://registry.mlhub.earth/10.21227/w6xz-s898/)
+- [MERIT Hydro Visualization and Interactive Map](https://meritdataset.users.earthengine.app/view/merit-hydro-visualization-and-interactive-map)
 
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- [Barack Obama meets Marcus Rashford | In conversation](https://www.youtube.com/watch?v=BhQ2ODFmeT4)
 - [Claire Balding meets Sir Alex Ferguson](https://www.youtube.com/watch?v=FognyQZ_PPQ)
 - [Apple Silicon - Let's Talk (Dave Lee)](https://www.youtube.com/watch?v=q2KjrPT8u8c&t=315s)
 - [Facial Recognition: Last Week Tonight with John Oliver (HBO)](https://t.co/vbepBdZJG8?amp=1)
