@@ -40,7 +40,7 @@ redirect_from:
 
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
-- [Barack Obama meets Marcus Rashford | In conversation](https://www.youtube.com/watch?v=BhQ2ODFmeT4)
+- [Barack Obama meets Marcus Rashford - In conversation](https://www.youtube.com/watch?v=BhQ2ODFmeT4)
 - [Claire Balding meets Sir Alex Ferguson](https://www.youtube.com/watch?v=FognyQZ_PPQ)
 - [Apple Silicon - Let's Talk (Dave Lee)](https://www.youtube.com/watch?v=q2KjrPT8u8c&t=315s)
 - [Facial Recognition: Last Week Tonight with John Oliver (HBO)](https://t.co/vbepBdZJG8?amp=1)
