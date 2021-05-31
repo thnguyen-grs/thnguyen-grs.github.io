@@ -22,6 +22,10 @@ author_profile: true
 - Provencher, L. and Dubois, J.M.M., 2007. **Précis de télédétection. Volume 4, Méthodes de photointerprétation et d'interprétation d'image**. Presses de l'Université du Québec. (in French)
 <!-- - Formation en ligne en Géomatique, École Nationale des Sciences Géographiques. \[[link](http://cours-fad-public.ensg.eu/course)\] -->
 
+
+## Data assimilation:
+- Asch, M., Bocquet, M. and Nodet, M., 2016. **Data assimilation: methods, algorithms, and applications**. Society for Industrial and Applied Mathematics.
+
 ## Data fusion:
 - Mitchell, H.B., 2007. **Multi-sensor data fusion: an introduction**. Springer Science & Business Media.
 - Bloch, I., 2003. **Fusion d’informations en traitement du signal et des images**. Hermes Science Publication, 2. (in French)
