@@ -46,10 +46,16 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 4. T. H. Nguyen, M. Chabah and C. Sintès, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
-## Other communications
-1. *Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses* (talk), T. H. Nguyen, LabSTICC/CID/PRASYS séminaire, ENSTA (Brest), March 2019
+## Communications (oral, poster)
+1. *Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment* (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021
 
-2. *Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche* (poster),  T. H. Nguyen, Colloque CRG, Université Laval (Quebec City), June 2018
+2. *Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review* (talk), Toulouse, May 2021
+
+3. *Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique* (talk), GlobC seminary, CERFACS (Toulouse), March 2021
+
+4. *Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses* (talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
+
+5. *Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche* (poster), Colloque CRG, Université Laval (Quebec City), June 2018
 
 ## Peer-review activities
 Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), MDPI's [Remote Sensing](https://www.mdpi.com/journal/remotesensing) [Artificial Intelligence](https://www.mdpi.com/journal/ai) and [Applied Sciences](https://www.mdpi.com/journal/applsci), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current).
