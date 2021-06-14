@@ -36,9 +36,9 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2021
-- June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at theData Science for Copernicus workshop.
-- June 16<sup>th</sup> - 18<sup>th</sup>, 2021: attendee at the [SimHydro 2021](https://www.simhydro.org/).
-- June 7<sup>th</sup> - 11<sup>th</sup>, 2021: **poster presentation at [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference in Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
+- June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at the Data Science for Copernicus workshop.
+- June 16<sup>th</sup> - 18<sup>th</sup>, 2021: attendee at the [SimHydro 2021](https://www.simhydro.org/), Nice <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+- June 7<sup>th</sup> - 11<sup>th</sup>, 2021: **poster presentation at [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference, Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - May 24<sup>th</sup> - 28<sup>th</sup> 2021: attendee at the [AGU Natural Hazard Alert](https://www.agu.org/Natural-Hazards-Alerts) Workshop.
 - May 2021: poster presentation "Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment" has been accepted for [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference in Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - March 2021: co-authored paper "The SCO-FloodDAM Project: New Observing Strategies for Flood Detection, Alert and Rapid Mapping" has been accepted for an oral presentation at [IEEE IGARSS 2021](https://igarss2021.com/) conference in Brussel <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
@@ -78,8 +78,8 @@ Researcher at CERFACS, Toulouse
 - Began an 11-month working period at Université Laval. 
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
-- September 18<sup>th</sup> - 20<sup>th</sup>, 2019: **poster presentation at ISPRS [PIA19+MRSS19 conference](http://www.pf.bgu.tum.de/isprs/pia19/index.html)** at Technische Universitaet Muenchen (TUM) <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
-- July 28<sup>th</sup> - August 2<sup>nd</sup>, 2019: **oral presentation at IEEE IGARSS 2019 conference** at Pacifico Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
+- September 18<sup>th</sup> - 20<sup>th</sup>, 2019: **poster presentation at ISPRS [PIA19+MRSS19 conference](http://www.pf.bgu.tum.de/isprs/pia19/index.html)**, Munich <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
+- July 28<sup>th</sup> - August 2<sup>nd</sup>, 2019: **oral presentation at IEEE IGARSS 2019 conference**, Yokohama <img alt="Jp" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="20">
 - June 2019: paper "Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data" has been accepted for a presentation at ISPRS Conference on Photogrammetric Image Analysis (PIA) 2019 in Munich <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - April/May 2019: started writing a journal manuscript focusing on the registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, for the full study including the IGARSS paper.
 - April 2019: obtained the IEEE GRSS Travel Grant supporting my attendance at the IGARSS 2019 in Yokohama.
@@ -93,7 +93,7 @@ Researcher at CERFACS, Toulouse
 
 ### 2018
 - November 19th, 2018: attended Journée SIG Université Laval.
-- June 2018: an oral presentation got accepted for MTS/IEEE OCEANS 2018 in Charleston, but my supervisor advised me to put it aside to concentrate on higher priority tasks.
+- June 2018: an oral presentation has been accepted for MTS/IEEE OCEANS 2018, Charleston, North Carolina.
 - June 13<sup>th</sup>, 2018: poster presentation at the Symposium of the Centre for Research in Geomatics (CRG), Université Laval ([link](https://mailchi.mp/e248aa287fb4/invitation-colloque-du-crg-1395401?e=b83d61b42e)).
 - May 31<sup>st</sup>, 2018: participating in Soirée Champlain 2018, organized by the Canadian Institute of Geomatics.
 - Began an 8-month working period at Université Laval.
@@ -102,7 +102,7 @@ Researcher at CERFACS, Toulouse
 - April 17<sup>th</sup> - 18<sup>th</sup>, 2018: doctorate exams (both writing and oral) at IMT Atlantique.
 
 ### 2017
-- September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation at MTS/IEEE OCEANS 2017 conference at Dena’ina Civic and Convention Center, Anchorage, Alaska <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
+- September 18<sup>th</sup> - 21<sup>st</sup>, 2017: poster presentation at MTS/IEEE OCEANS 2017 conference, Anchorage, AK <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - Began an 8-month working period at IMT Atlantique.
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 2017: **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
@@ -117,7 +117,7 @@ Researcher at CERFACS, Toulouse
 - September 2016: successful M.Eng. and M.Sc. defense before the jury at Telecom Bretagne. Note: 17.5/20 (highest note).
 - July 2016: completed the Pepper training program at SoftBank Robotics, Paris <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">.
 - March - September 2016: graduate internship at Orange France DTSI/DSI, Arcueil, Île-de-France.
-- October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation at MTS/IEEE OCEANS 2015 conference at Gaylord National Resort & Convention Center, Washington D.C. <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
+- October 19<sup>th</sup> - 22<sup>nd</sup>, 2015: poster presentation at MTS/IEEE OCEANS 2015 conference, Washington D.C. <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - October 2015: enrolled for M.Sc. program at Telecom Bretagne (in parallel with the final year of my M.Eng. program).
 - July 2015: **finalist in the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2015 Washington DC.
 - July 2015: paper "Correlation bias analysis – A novel method of sinus cardinal model for least squares estimation in cross-correlation" has been accepted for a presentation at MTS/IEEE OCEANS 2015 conference in Washington DC.
