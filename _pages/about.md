@@ -36,7 +36,8 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2021
-- June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at the Data Science for Copernicus workshop.
+- July 2021: paper "Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data" has been accepted for an oral presentation at 2021 TELEMAC User Conference (TUC2021) in Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
+- June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at the Data Science for Copernicus training workshop.
 - June 16<sup>th</sup> - 18<sup>th</sup>, 2021: attendee at the [SimHydro 2021](https://www.simhydro.org/), Nice <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 7<sup>th</sup> - 11<sup>th</sup>, 2021: **poster presentation at [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference**, Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - May 24<sup>th</sup> - 28<sup>th</sup> 2021: attendee at the [AGU Natural Hazard Alert](https://www.agu.org/Natural-Hazards-Alerts) Workshop.
