@@ -47,7 +47,7 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-1. *Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment* (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021
+1. *Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment* (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021. \[[poster](https://www.researchgate.net/publication/352180661_Adding_Earth_Observation-based_Virtual_Observations_to_Improve_Data_Assimilation_for_Flood_Fluvial_Forecasting_-_Example_of_the_Garonne_Marmandaise_Catchment)\]
 
 2. *Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review* (talk), Toulouse, May 2021
 
