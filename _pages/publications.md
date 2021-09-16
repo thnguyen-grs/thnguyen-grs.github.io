@@ -33,29 +33,35 @@ DOI: 10.1109/JSTARS.2020.2987305
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
 
 ## Conference Papers
-1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data**, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W16, pp. 181–188.<br>
+6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[preprint](https://hal.archives-ouvertes.fr/hal-03345744v1)\]
+
+5. P. Kettig, S. Baillarin, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021.
+
+4. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data**, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W16, pp. 181–188.<br>
 DOI: 10.5194/isprs-archives-XLII-2-W16-181-2019 \[[proceeding](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W16/181/2019/isprs-archives-XLII-2-W16-181-2019.pdf)\] \[[arXiv](https://arxiv.org/abs/1907.06206)\] \[[poster](https://www.dropbox.com/s/l8xr08ksu2io0ho/poster.pdf?dl=0)\] \[[Github](https://github.com/nthuy190991/polygonization_PIA2019)\] <br><span style="color:blue;"><b>Best poster award at PIA19+MRSS19</b></span>
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63598711" data-doi="10.5194/isprs-archives-xlii-2-w16-181-2019"></div></p> -->
 
-2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.<br>
+3. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.<br>
 DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/document/8898612)\] \[[slide](https://www.dropbox.com/s/s8tv51iewezzfks/TH1.R10.4.pdf?dl=0)\] \[[arXiv](https://arxiv.org/abs/1904.03668)\] \[[Github (for full-scale color figures)](https://github.com/nthuy190991/igarss2019)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1109/IGARSS.2019.8898612"></div></p> -->
 
-3. T. H. Nguyen, D. Guériot, J.-M. Le Caillec, C. Sintès and S. Daniel, **Heterogeneous Data Registration for 3D Underwater Scene Reconstruction,** OCEANS 2017 - MTS/IEEE Anchorage, Anchorage, AK, USA, 2017, pp. 1-6. \[[proceeding](https://ieeexplore.ieee.org/document/8232327)\] \[[preprint](https://www.researchgate.net/publication/320016469_Heterogeneous_Data_Registration_for_3D_Underwater_Scene_Reconstruction)\] \[[poster](https://www.dropbox.com/s/srdo0j02q2o1gz5/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
+2. T. H. Nguyen, D. Guériot, J.-M. Le Caillec, C. Sintès and S. Daniel, **Heterogeneous Data Registration for 3D Underwater Scene Reconstruction,** OCEANS 2017 - MTS/IEEE Anchorage, Anchorage, AK, USA, 2017, pp. 1-6. \[[proceeding](https://ieeexplore.ieee.org/document/8232327)\] \[[preprint](https://www.researchgate.net/publication/320016469_Heterogeneous_Data_Registration_for_3D_Underwater_Scene_Reconstruction)\] \[[poster](https://www.dropbox.com/s/srdo0j02q2o1gz5/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
 
-4. T. H. Nguyen, M. Chabah and C. Sintès, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
+1. T. H. Nguyen, M. Chabah and C. Sintès, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-1. *Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment* (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021. \[[poster](https://www.researchgate.net/publication/352180661_Adding_Earth_Observation-based_Virtual_Observations_to_Improve_Data_Assimilation_for_Flood_Fluvial_Forecasting_-_Example_of_the_Garonne_Marmandaise_Catchment)\]
+6. *Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps*, AGU Fall Meeting, New Orleans, LA, December 2021.
 
-2. *Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review* (talk), Toulouse, May 2021
+5. *Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment* (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021. \[[poster](https://www.researchgate.net/publication/352180661_Adding_Earth_Observation-based_Virtual_Observations_to_Improve_Data_Assimilation_for_Flood_Fluvial_Forecasting_-_Example_of_the_Garonne_Marmandaise_Catchment)\]
+
+4. *Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review* (talk), Toulouse, May 2021
 
 3. *Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique* (talk), GlobC seminary, CERFACS (Toulouse), March 2021
 
-4. *Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses* (talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
+2. *Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses* (talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
 
-5. *Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche* (poster), Colloque CRG, Université Laval (Quebec City), June 2018
+1. *Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche* (poster), Colloque CRG, Université Laval (Quebec City), June 2018
 
 ## Peer-review activities
 Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), MDPI's [Remote Sensing](https://www.mdpi.com/journal/remotesensing) [Artificial Intelligence](https://www.mdpi.com/journal/ai) and [Applied Sciences](https://www.mdpi.com/journal/applsci), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current).
