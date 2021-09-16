@@ -36,7 +36,9 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2021
-- July 2021: paper "Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data" has been accepted for an oral presentation at 2021 TELEMAC User Conference (TUC2021) in Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
+- Sep 2021: journal paper "Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS).
+- August 2021: abstract "Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps" has been submitted for a presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">.
+- July 2021: paper "Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data" has been accepted for an oral presentation at [2021 TELEMAC User Conference (TUC2021)](https://tuc2020.org/) in Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">.
 - June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at the Data Science for Copernicus training workshop.
 - June 16<sup>th</sup> - 18<sup>th</sup>, 2021: attendee at the [SimHydro 2021](https://www.simhydro.org/), Nice <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 7<sup>th</sup> - 11<sup>th</sup>, 2021: **poster presentation at [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference**, Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
@@ -107,7 +109,7 @@ Researcher at CERFACS, Toulouse
 - Began an 8-month working period at IMT Atlantique.
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 2017: **finalist for the IEEE OES Student Poster Competition** at MTS/IEEE OCEANS 2017 Anchorage.
-- June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" has been accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
+- June 2017: paper "Heterogeneous Data Registration for 3D Underwater Scene Reconstruction" has been accepted for a presentation at MTS/IEEE OCEANS 2017 conference in Anchorage, AK  <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - May 2017: completed the Ph.D. courseworks at Université Laval.
 - January 2017: began working at Université Laval.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
