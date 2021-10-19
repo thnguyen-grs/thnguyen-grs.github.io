@@ -37,7 +37,9 @@ DOI: 10.1109/JSTARS.2020.2987305
 ## Conference Papers
 6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[arXiv](https://arxiv.org/abs/2109.07470)\]
 
-5. P. Kettig, S. Baillarin, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021.
+5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021, pp. 1464-1467. <br>
+DOI: 10.1109/IGARSS47720.2021.9553036 \[[proceeding](https://ieeexplore.ieee.org/document/9553036)\]
+
 
 4. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data**, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W16, pp. 181–188.<br>
 DOI: 10.5194/isprs-archives-XLII-2-W16-181-2019 \[[proceeding](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W16/181/2019/isprs-archives-XLII-2-W16-181-2019.pdf)\] \[[arXiv](https://arxiv.org/abs/1907.06206)\] \[[poster](https://www.dropbox.com/s/l8xr08ksu2io0ho/poster.pdf?dl=0)\] \[[Github](https://github.com/nthuy190991/polygonization_PIA2019)\] <br><span style="color:blue;"><b>Best poster award at PIA19+MRSS19</b></span>
@@ -53,17 +55,17 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-6. *Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps*, AGU Fall Meeting, New Orleans, LA, December 2021.
+6. **Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps** (talk), session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*, AGU Fall Meeting, New Orleans, LA, December 2021.
 
-5. *Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment* (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021. \[[poster](https://www.researchgate.net/publication/352180661_Adding_Earth_Observation-based_Virtual_Observations_to_Improve_Data_Assimilation_for_Flood_Fluvial_Forecasting_-_Example_of_the_Garonne_Marmandaise_Catchment)\]
+5. **Adding EO-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment** (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021. \[[poster](https://www.researchgate.net/publication/352180661_Adding_Earth_Observation-based_Virtual_Observations_to_Improve_Data_Assimilation_for_Flood_Fluvial_Forecasting_-_Example_of_the_Garonne_Marmandaise_Catchment)\]
 
-4. *Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review* (talk), Toulouse, May 2021
+4. **Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review** (talk), Toulouse, May 2021
 
-3. *Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique* (talk), GlobC seminary, CERFACS (Toulouse), March 2021
+3. **Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique** (talk), GlobC seminary, CERFACS (Toulouse), March 2021
 
-2. *Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses* (talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
+2. **Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses**(talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
 
-1. *Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche* (poster), Colloque CRG, Université Laval (Quebec City), June 2018
+1. **Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche** (poster), Colloque CRG, Université Laval (Quebec City), June 2018
 
 ## Peer-review activities
 Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), MDPI's [Remote Sensing](https://www.mdpi.com/journal/remotesensing) [Artificial Intelligence](https://www.mdpi.com/journal/ai) and [Applied Sciences](https://www.mdpi.com/journal/applsci), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current).
