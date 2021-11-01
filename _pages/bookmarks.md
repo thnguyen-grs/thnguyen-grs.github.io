@@ -40,10 +40,9 @@ redirect_from:
 
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
-- [Trevor Responds to Criticism from the French Ambassador - Between The Scenes | The Daily Show](https://www.youtube.com/watch?v=COD9hcTpGWQ)
+- [Trevor Responds to Criticism from the French Ambassador - Between The Scenes - The Daily Show](https://www.youtube.com/watch?v=COD9hcTpGWQ)
 - [Barack Obama meets Marcus Rashford - In conversation](https://www.youtube.com/watch?v=BhQ2ODFmeT4)
 - [Claire Balding meets Sir Alex Ferguson](https://www.youtube.com/watch?v=FognyQZ_PPQ)
-- [Apple Silicon - Let's Talk (Dave Lee)](https://www.youtube.com/watch?v=q2KjrPT8u8c&t=315s)
 - [Facial Recognition: Last Week Tonight with John Oliver (HBO)](https://t.co/vbepBdZJG8?amp=1)
 - [How to write a good review? - CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be)
 - [How Vietnam managed to keep its coronavirus death toll at zero (CNN)](https://www.cnn.com/2020/05/29/asia/coronavirus-vietnam-intl-hnk/index.html)
