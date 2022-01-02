@@ -40,6 +40,7 @@ redirect_from:
 
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- [Ed Sheeran's interview on Skavlan (Sweden talk show)](https://www.youtube.com/watch?v=5dXoloNsXOg)
 - [Trevor Responds to Criticism from the French Ambassador - Between The Scenes - The Daily Show](https://www.youtube.com/watch?v=COD9hcTpGWQ)
 - [Barack Obama meets Marcus Rashford - In conversation](https://www.youtube.com/watch?v=BhQ2ODFmeT4)
 - [Claire Balding meets Sir Alex Ferguson](https://www.youtube.com/watch?v=FognyQZ_PPQ)
