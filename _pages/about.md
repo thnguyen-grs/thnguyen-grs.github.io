@@ -36,6 +36,8 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2021
+- December 13<sup>th</sup> - 17<sup>th</sup>, 2021: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*.
+- ~~Internship M2 offer with possible PhD opportunity [link](https://cerfacs.fr/en/offer/assimilation-of-remote-sensing-flood-extend-for-flood-and-inundation-forecasting/).~~ *Position filled*
 - October 13<sup>th</sup> - 15<sup>th</sup>, 2021: **oral presentation at [2021 TELEMAC User Conference](https://tuc2020.org/)**, Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">. Preprint can be found at \[[arXiv](https://arxiv.org/abs/2109.07470)\].
 - October 2021: abstract "Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps" has been accepted for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">. 
 - Sep 2021: journal paper "Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv](https://arxiv.org/abs/2109.08487)\].
