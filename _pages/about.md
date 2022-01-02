@@ -35,6 +35,9 @@ Researcher at CERFACS, Toulouse
 </p> -->
 
 ## Work timeline/News:
+### 2022
+- Happy New Year!
+
 ### 2021
 - December 13<sup>th</sup> - 17<sup>th</sup>, 2021: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*.
 - November 2021: Two abstracts have been submitted to
