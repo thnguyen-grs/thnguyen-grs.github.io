@@ -37,16 +37,16 @@ Researcher at CERFACS, Toulouse
 ## Work timeline/News:
 ### 2021
 - December 13<sup>th</sup> - 17<sup>th</sup>, 2021: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*.
-- Two abstracts have been submitted to
+- November 2021: Two abstracts have been submitted to
   - [2022 Living Planet Symposium](https://lps22.esa.int/frontend/index.php) in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
   - [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/) in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20">
 - ~~Master (M2) internship offer on "Assimilation of remote sensing flood extend for flood and inundation forecasting"
 [[link](https://cerfacs.fr/en/offer/assimilation-of-remote-sensing-flood-extend-for-flood-and-inundation-forecasting/)] with possible PhD opportunity.~~ *Position filled*
 - October 13<sup>th</sup> - 15<sup>th</sup>, 2021: **oral presentation at [2021 TELEMAC User Conference](https://tuc2020.org/)**, Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">. Preprint can be found at \[[arXiv](https://arxiv.org/abs/2109.07470)\].
 - October 2021: abstract "Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps" has been accepted for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">. 
-- Sep 2021: journal paper "Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv](https://arxiv.org/abs/2109.08487)\].
+- September 2021: journal paper "Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv](https://arxiv.org/abs/2109.08487)\].
 - July 2021: paper "Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data" has been accepted for an oral presentation at 2021 TELEMAC User Conference (TUC2021) in Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">
-- June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at the Data Science for Copernicus training workshop.
+- June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at the Data Science for Copernicus training workshop, organized by [IDGEO](https://www.idgeo.fr/).
 - June 16<sup>th</sup> - 18<sup>th</sup>, 2021: attendee at the [SimHydro 2021](https://www.simhydro.org/), Nice <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 7<sup>th</sup> - 11<sup>th</sup>, 2021: **poster presentation at [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference**, Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - May 24<sup>th</sup> - 28<sup>th</sup> 2021: attendee at the [AGU Natural Hazard Alert](https://www.agu.org/Natural-Hazards-Alerts) Workshop.
@@ -69,7 +69,7 @@ Researcher at CERFACS, Toulouse
 - September 2020: Ph.D. thesis initial submission/deposit. <!-- Expected defense: December 4<sup>th</sup> 2020. -->
 - August 31<sup>st</sup> - September 2<sup>nd</sup> 2020: attendee at the [Virtual Event of XXIV ISPRS Congress](http://www.isprs2020-nice.com/index.php/virtualevent-2/).
 <!-- - August 2020: will soon finish my thesis manuscript.-->
-- June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.
+- ~~June 2020: started collaborating and writing a journal manuscript focusing on a Comprehensive Comparison of Building Extraction Methods.~~
 - May 2020: the two journal papers have been published and are now available online:
   - Super-Resolution-based Snake Model — An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image, in *Remote Sensing* ([Link](https://www.mdpi.com/2072-4292/12/11/1702))
   - Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes, in the *IEEE JSTARS* \([Link](https://ieeexplore.ieee.org/document/9103265)\)
@@ -85,7 +85,7 @@ Researcher at CERFACS, Toulouse
 ### 2019
 - November 2019: started writing a journal manuscript focusing on Building Extraction using LiDAR Data and Optical Image.
 - ~~Undergrad internship offer on "Estimation of suspended sediment concentration using R2Sonic sonar".~~ *Position filled*
-- Since October 2019: started working on a side project—participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (team leader: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Update 1 (April 2020): the contests have been extended until spring 2021 due to COVID-19. Update 2 (October 2020): this project is to be resumed next week (as a main project).
+- October 2019: side project participating in the [R2Sonic Multispectral Water Column Challenge](https://www.r2sonic.com/) with a team from SCG/Université Laval (PI: Prof. S. Daniel). Target theme: Estimation of suspended sediment concentration in Diamond Creek area, Colorado river, Arizona, USA. Update 1 (April 2020): the contests have been extended until spring 2021 due to COVID-19. Update 2 (October 2020): this project has been resumed as a main project. Update 3 (December 2020): a preliminary proposal has been produced in December 2020.
 - Began an 11-month working period at Université Laval. 
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20">
 - **Best Poster Award at PIA19+MRSS19 conference**
