@@ -36,7 +36,9 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2022
-- Happy New Year!
+- January 2022: the journal paper **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
+- January 2022: an abstract “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast” has been accepted for an oral presentation at [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/) in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20">
+
 
 ### 2021
 - December 13<sup>th</sup> - 17<sup>th</sup>, 2021: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*.
@@ -47,7 +49,7 @@ Researcher at CERFACS, Toulouse
 [[link](https://cerfacs.fr/en/offer/assimilation-of-remote-sensing-flood-extend-for-flood-and-inundation-forecasting/)] with possible PhD opportunity.~~ *Position filled*
 - October 13<sup>th</sup> - 15<sup>th</sup>, 2021: **oral presentation at [2021 TELEMAC User Conference](https://tuc2020.org/)**, Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">. Proceeding can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - October 2021: abstract "Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps" has been accepted for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">. 
-- September 2021: journal paper "Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv](https://arxiv.org/abs/2109.08487)\].
+- September 2021: journal paper "Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv](https://arxiv.org/abs/2109.08487)\].
 - July 2021: paper "Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data" has been accepted for an oral presentation at 2021 TELEMAC User Conference (TUC2021) in Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">
 - June 22<sup>nd</sup> - 24<sup>th</sup>, 2021: attendee at the Data Science for Copernicus training workshop, organized by [IDGEO](https://www.idgeo.fr/).
 - June 16<sup>th</sup> - 18<sup>th</sup>, 2021: attendee at the [SimHydro 2021](https://www.simhydro.org/), Nice <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
