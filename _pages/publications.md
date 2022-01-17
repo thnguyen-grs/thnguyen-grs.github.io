@@ -23,7 +23,8 @@ author_profile: true
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
-3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models**, submitted to *IEEE Trans. Geosci. Remote Sens.*, 2021.  \[[arXiv](https://arxiv.org/abs/2109.08487)\]
+3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models**, accepted for publication in *IEEE Trans. Geosci. Remote Sens.*, 2022. (IF=5.6)  <br>
+\[[arXiv](https://arxiv.org/abs/2109.08487)\]
 
 2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, 2020, vol. 12(11), pp. 1702. (IF=4.509) <br>
 DOI: 10.3390/rs12111702
