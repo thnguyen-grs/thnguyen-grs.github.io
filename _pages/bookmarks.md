@@ -40,6 +40,7 @@ redirect_from:
 
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- [The Bandwagon by Claude E. Shannon ("the father of information theory")](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774)
 - [George R. R. Martin and Stephen King at the Kiva Auditorium, Albuquerque NM June 2016](https://www.youtube.com/watch?v=v_PBqSPNTfg&t=1143s)
 - [Ed Sheeran's interview on Skavlan (Sweden talk show)](https://www.youtube.com/watch?v=5dXoloNsXOg)
 - [Trevor Responds to Criticism from the French Ambassador - Between The Scenes - The Daily Show](https://www.youtube.com/watch?v=COD9hcTpGWQ)
