@@ -23,7 +23,7 @@ author_profile: true
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
-3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation Applied to Hydrodynamic Numerical Models**, accepted for publication in *IEEE Trans. Geosci. Remote Sens.*, 2022. (IF=5.6)  <br>
+3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation**, accepted for publication in *IEEE Trans. Geosci. Remote Sens.*, 2022. (IF=5.6)  <br>
 DOI: 10.1109/TGRS.2022.3147429
 \[[Publication]()\] \[[arXiv](https://arxiv.org/abs/2109.08487)\]
 
