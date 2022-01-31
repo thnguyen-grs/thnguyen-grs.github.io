@@ -37,7 +37,7 @@ DOI: 10.1109/JSTARS.2020.2987305
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
 
 ## Conference Papers
-6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[arXiv](https://arxiv.org/abs/2109.07470)\]\[[proceeding](https://tuc2020.org/Proceedings_TUC_2020_year_2021_v1.0.pdf)\]
+6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[arXiv](https://arxiv.org/abs/2109.07470)\] \[[proceeding](https://tuc2020.org/Proceedings_TUC_2020_year_2021_v1.0.pdf)\]
 
 5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021, pp. 1464-1467. <br>
 DOI: 10.1109/IGARSS47720.2021.9553036 \[[proceeding](https://ieeexplore.ieee.org/document/9553036)\]
@@ -57,7 +57,7 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-6. **Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps** (talk), session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*, AGU Fall Meeting, New Orleans, LA, December 2021.
+6. **Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps** (talk), session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*, AGU Fall Meeting, New Orleans, LA, December 2021. \[[Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/881922)\]
 
 5. **Adding EO-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment** (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021. \[[poster](https://www.researchgate.net/publication/352180661_Adding_Earth_Observation-based_Virtual_Observations_to_Improve_Data_Assimilation_for_Flood_Fluvial_Forecasting_-_Example_of_the_Garonne_Marmandaise_Catchment)\]
 
