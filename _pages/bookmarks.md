@@ -40,6 +40,7 @@ redirect_from:
 
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- ["Democracy Is Work" - Julia Ioffe On Why The Ukraine Crisis Is A Wake Up Call For Americans (The Late Show with Stephen Colbert)](https://www.youtube.com/watch?v=m5l2nN0rBpk)
 - [The Bandwagon by Claude E. Shannon ("the father of information theory")](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774)
 - [George R. R. Martin and Stephen King at the Kiva Auditorium, Albuquerque NM June 2016](https://www.youtube.com/watch?v=v_PBqSPNTfg&t=1143s)
 - [Ed Sheeran's interview on Skavlan (Sweden talk show)](https://www.youtube.com/watch?v=5dXoloNsXOg)
