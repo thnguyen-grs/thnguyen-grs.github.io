@@ -70,6 +70,6 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 1. **Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche** (poster), Colloque CRG, Université Laval (Quebec City), June 2018
 
 ## Peer-review activities
-Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), MDPI's [Remote Sensing](https://www.mdpi.com/journal/remotesensing) [Artificial Intelligence](https://www.mdpi.com/journal/ai) and [Applied Sciences](https://www.mdpi.com/journal/applsci), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current).
+Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), MDPI's [Remote Sensing](https://www.mdpi.com/journal/remotesensing) [Artificial Intelligence](https://www.mdpi.com/journal/ai), [Applied Sciences](https://www.mdpi.com/journal/applsci), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current), and IGARSS conference.
 
-**Keywords:** Remote sensing, LiDAR, Optical imagery, Sonar, Data registration, Multimodal, Building extraction.
+**Keywords:** Remote sensing, LiDAR, Optical imagery, Sonar, Data fusion, Data assimilation, Building extraction.
