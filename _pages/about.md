@@ -36,6 +36,7 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2022
+
 - March 2022: an abstract “Assimilation of SAR-Derived Flood Maps for Improving Fluvial Flood Forecast” has been accepted for a poster presentation at [ESA’s Living Planet Symposium 2022](https://lps22.esa.int/) in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - January 2022: the journal paper **“Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation” has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - January 2022: an abstract “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast” has been accepted for an oral presentation at [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/) in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20">
