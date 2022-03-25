@@ -37,16 +37,13 @@ Researcher at CERFACS, Toulouse
 ## Work timeline/News:
 ### 2022
 
-- March 2022: an abstract “Assimilation of SAR-Derived Flood Maps for Improving Fluvial Flood Forecast” has been accepted for a poster presentation at [ESA’s Living Planet Symposium 2022](https://lps22.esa.int/) in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
+- March 2022: an abstract “Assimilation of SAR-Derived Flood Maps for Improving Fluvial Flood Forecast” has been accepted for a poster presentation at [ESA Living Planet Symposium 2022](https://lps22.esa.int/) in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
 - January 2022: the journal paper **“Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation” has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - January 2022: an abstract “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast” has been accepted for an oral presentation at [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/) in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20">
 - January 2022: PhD opportunity at CERFACS, financed by CNES and CLS, to start in September 2022 ([link](https://recrutement.cnes.fr/en/annonce/1498475-109-assimilation-of-remote-sensing-flood-extend-for-flood-forecasting-31100-toulouse)). Submission deadline: March 31, 2022.
 
 ### 2021
 - December 13<sup>th</sup> - 17<sup>th</sup>, 2021: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*.
-<!-- - November 2021: Two abstracts have been submitted to
-  - [2022 Living Planet Symposium](https://lps22.esa.int/frontend/index.php) in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
-  - [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/) in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20"> -->
 - ~~Master (M2) internship offer on "Assimilation of remote sensing flood extend for flood and inundation forecasting"
 [[link](https://cerfacs.fr/en/offer/assimilation-of-remote-sensing-flood-extend-for-flood-and-inundation-forecasting/)] with possible PhD opportunity.~~ *Position filled*
 - October 13<sup>th</sup> - 15<sup>th</sup>, 2021: **oral presentation at [2021 TELEMAC User Conference](https://tuc2020.org/)**, Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">. Proceeding can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
