@@ -24,7 +24,8 @@ main:
   - title: "Bookmarks"
     url: /bookmarks/
 
-  - title: "VotM"
+  - title: "2 Videos of the Month"
     url: /votm/
+    
   # - title: "Guide"
   #   url: /markdown/
