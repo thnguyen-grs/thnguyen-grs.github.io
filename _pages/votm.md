@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2 Videos of the Month"
+title: "Videos of the Month"
 permalink: /votm/
 author_profile: true
 ---
