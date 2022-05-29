@@ -35,11 +35,16 @@ redirect_from:
 - [Cesium OSM Buildings - Global 3D buildings with rich metadata](https://cesium.com/content/cesium-osm-buildings/)
 - [Random3DCity - Synthetic CityGML data and procedural modelling engine (by Filip Biljecki)](https://filipbiljecki.com/code/Random3Dcity.html)
 - Reconstructing 3D buildings from aerial LiDAR with help of AI [ERSI](https://www.esri.com/arcgis-blog/products/product/3d-gis/restoring-3d-buildings-from-aerial-lidar-with-help-of-ai/) [Medium](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
+- [GeoRezo (Portail francophone de la géomatique)](https://georezo.net/)
 - [SEN12-FLOOD : A SAR and Multispectral Dataset for Flood Detection](http://registry.mlhub.earth/10.21227/w6xz-s898/)
 - [MERIT Hydro Visualization and Interactive Map](https://meritdataset.users.earthengine.app/view/merit-hydro-visualization-and-interactive-map)
-
+- [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11)
+- [RGE ALTI (IGN)](https://geoservices.ign.fr/rgealti), [BD TOPO (IGN)](https://geoservices.ign.fr/bdtopo)
+- [Hydrologic Remote Sensing Analysis for Floods (or HYDRAFloods)](https://github.com/Servir-Mekong/hydra-floods)
+- [CaMa-Flood: Global River Hydrodynamics Model](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/)
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- [Gerard Pique talks Barcelona, the Super League & Guardiola with Gary Neville - The Overlap](https://www.youtube.com/watch?v=JWQyhj4i11Q)
 - ["Democracy Is Work" - Julia Ioffe On Why The Ukraine Crisis Is A Wake Up Call For Americans (The Late Show with Stephen Colbert)](https://www.youtube.com/watch?v=m5l2nN0rBpk)
 - [The Bandwagon by Claude E. Shannon ("the father of information theory")](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774)
 - [George R. R. Martin and Stephen King at the Kiva Auditorium, Albuquerque NM June 2016](https://www.youtube.com/watch?v=v_PBqSPNTfg&t=1143s)
