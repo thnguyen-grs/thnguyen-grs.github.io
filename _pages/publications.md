@@ -33,6 +33,8 @@ DOI: 10.1109/JSTARS.2020.2987305
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
 
 ## Conference Papers
+7. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Observations for Improving Fluvial Flood Forecast**, Proceeding of 14th International Conference on HydroInformatics (HIC2022) \[[arXiv](https://arxiv.org/abs/2205.08471)
+
 6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[arXiv](https://arxiv.org/abs/2109.07470)\] \[[proceeding](https://tuc2020.org/Proceedings_TUC_2020_year_2021_v1.0.pdf)\]
 
 5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021, pp. 1464-1467. <br>
@@ -53,9 +55,11 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-8. **Assimilation of SAR-Derived Flood Extent Maps for Improving Fluvial Flood Forecast** (poster), session *Inland Water Storage and Runoff: Modeling, In Situ Data and Remote Sensing*, ESA’s Living Planet Symposium, Bonn, May 2022. \[[poster](https://www.researchgate.net/publication/360928505_Assimilation_of_SAR-Derived_Flood_Maps_for_Improving_Fluvial_Flood_Forecast)\]
+9. **Assimilation of SAR-Derived Flood Extent Maps for Improving Fluvial Flood Forecast** (poster), session *Inland Water Storage and Runoff: Modeling, In Situ Data and Remote Sensing*, ESA’s Living Planet Symposium, Bonn, May 2022. \[[poster](https://www.researchgate.net/publication/360928505_Assimilation_of_SAR-Derived_Flood_Maps_for_Improving_Fluvial_Flood_Forecast)\]
 
-7. **Observing Floods from Space** (talk), TELEMAC Science Committee Meeting, Chatou, May 2022.
+8. **Observing Floods from Space** (talk), TELEMAC Science Committee Meeting, Chatou, May 2022.
+
+7. **Satellite Remote Sensing-derived Flood Observations** (talk), GLOBC CLUC seminary, CERFACS (Toulouse), April 2022
 
 6. **Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps** (talk), session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*, AGU Fall Meeting, New Orleans, LA, December 2021. \[[Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/881922)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/Fall_Meeting_2021_OverviewSlides.pdf)\]
 
@@ -63,7 +67,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 4. **Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review** (talk), Toulouse, May 2021
 
-3. **Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique** (talk), GlobC seminary, CERFACS (Toulouse), March 2021
+3. **Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique** (talk), GLOBC seminary, CERFACS (Toulouse), March 2021
 
 2. **Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses**(talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
 
