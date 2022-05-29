@@ -69,9 +69,9 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 3. **Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique** (talk), GLOBC seminary, CERFACS (Toulouse), March 2021
 
-2. **Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses**(talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
+2. **Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses** (talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
 
-1. **Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR - Proposé de recherche** (poster), Colloque CRG, Université Laval (Quebec City), June 2018
+1. **Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR** (poster), Colloque CRG, Université Laval (Quebec City), June 2018
 
 ## Peer-review Activities
 Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), MDPI's [Remote Sensing](https://www.mdpi.com/journal/remotesensing) [Artificial Intelligence](https://www.mdpi.com/journal/ai), [Applied Sciences](https://www.mdpi.com/journal/applsci), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current), and IGARSS conference.
