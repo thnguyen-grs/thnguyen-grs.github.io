@@ -18,8 +18,8 @@ redirect_from:
 
 ## Work experience
 * Since Dec. 2020: Researcher at **CERFACS** (European Center for Research and Advanced Training in Scientific Computation), funded by **CNES** (French Space Agency)
-  * Project: [SCO FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) (SCO: Space Climate Observatory, FloodDAM: Flood Detection, Alert, and rapid Mapping) partnered with CNES, vorteX.io, Airbus, NASA Jet Propulsion Laboratory (JPL), etc.
-
+  * Archived project: [SCO FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) 2020-2022 (SCO: Space Climate Observatory, FloodDAM: Flood Detection, Alert, and rapid Mapping) partnered with CNES, vorteX.io, Airbus, NASA Jet Propulsion Laboratory (JPL), etc.
+  * Project: [SCO FloodDAM-DigitalTwin] 2022-2024.
 * Oct. - Nov. 2020: Research Assistant at **Université Laval** (Canada)
   * Project: R2Sonic Multispectral Water Column Challenge focusing on the estimation of suspended sediment concentration and grain size in Diamond Creek area, Colorado river, Arizona, USA.
 
