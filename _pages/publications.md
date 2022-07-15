@@ -19,6 +19,8 @@ author_profile: true
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
+4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, submitted for publication in AGU Water Resources Research. \[[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10511831.1)\]
+
 3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation**, *IEEE Trans. Geosci. Remote Sens.* (Early Access), 2022. (IF=5.6) <br>
 DOI: 10.1109/TGRS.2022.3147429
 \[[Publication](https://ieeexplore.ieee.org/document/9695446)\] \[[arXiv](https://arxiv.org/abs/2109.08487)\]
@@ -32,7 +34,7 @@ DOI: 10.1109/JSTARS.2020.2987305
 \[[Publication](https://ieeexplore.ieee.org/document/9103265)\] \[[arXiv](https://arxiv.org/abs/1909.13817)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
 
-## Conference Papers
+## Conference Papers (with proceedings)
 7. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Observations for Improving Fluvial Flood Forecast**, Proceeding of 14th International Conference on HydroInformatics (HIC2022) \[[arXiv](https://arxiv.org/abs/2205.08471)\]
 
 6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[arXiv](https://arxiv.org/abs/2109.07470)\] \[[proceeding](https://tuc2020.org/Proceedings_TUC_2020_year_2021_v1.0.pdf)\]
