@@ -36,6 +36,8 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2022
+- July 2022: Job opportunity in Hydrodynamic modelling at CERFACS, to start in September 2022 ([link](
+https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application deadline: September 1, 2022.
 - July 4<sup>th</sup> - 8<sup>th</sup>, 2022: **oral presentation at [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/)** in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20">.
 - June 21<sup>st</sup>, 2022: project SCO-FloodDAM-DigitalTwin kick-off. 
 - May 23<sup>rd</sup> - 27<sup>th</sup>, 2022: **poster presentation at [ESA Living Planet Symposium 2022](https://lps22.esa.int/)** in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">. 
