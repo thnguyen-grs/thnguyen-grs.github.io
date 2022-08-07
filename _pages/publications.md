@@ -57,6 +57,10 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
+11. **A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis** (invited talk, given by T. Huang), session *Towards a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting, Chicago, IL, December 2022.
+
+10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps**, session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022.
+
 9. **Assimilation of SAR-Derived Flood Extent Maps for Improving Fluvial Flood Forecast** (poster), session *Inland Water Storage and Runoff: Modeling, In Situ Data and Remote Sensing*, ESA’s Living Planet Symposium, Bonn, May 2022. \[[poster](https://www.researchgate.net/publication/360928505_Assimilation_of_SAR-Derived_Flood_Maps_for_Improving_Fluvial_Flood_Forecast)\]
 
 8. **Observing Floods from Space** (talk), TELEMAC Science Committee Meeting, Chatou, May 2022.
