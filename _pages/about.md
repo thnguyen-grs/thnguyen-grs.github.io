@@ -36,10 +36,15 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2022
+- August 2022: two abstracts have been submitted for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in Chicago, IL <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">.
+  - A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis (co-authored)
+  - Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps (first-authored) 
 - July 2022: Job opportunity in Hydrodynamic modelling at CERFACS, to start in September 2022 ([link](
 https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application deadline: September 1, 2022.
 - July 4<sup>th</sup> - 8<sup>th</sup>, 2022: **oral presentation at [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/)** in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20">.
+- July 2022: journal paper **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis** has been submitted for publication in AGU Water Resources Research (WRR). Preprint can be found at \[[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10511831.1)\].
 - June 21<sup>st</sup>, 2022: project SCO-FloodDAM-DigitalTwin kick-off. 
+- June 2022: two abstracts have been submitted to 2022 TELEMAC User Conference (TUC2022) in Paris-Saclay <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - May 23<sup>rd</sup> - 27<sup>th</sup>, 2022: **poster presentation at [ESA Living Planet Symposium 2022](https://lps22.esa.int/)** in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">. 
 - May 11<sup>th</sup> - 12<sup>th</sup>, 2022: gave a **talk at Telemac Scientific Committee Meeting** about "Observing Floods from Space" in Chatou, Ile-de-France.
 - April 20<sup>th</sup>, 2022: CLUC talk at GLOBC seminar
@@ -51,7 +56,7 @@ https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application de
 
 ### 2021
 - December 13<sup>th</sup> - 17<sup>th</sup>, 2021: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*.
-- ~~Master (M2) internship offer on "Assimilation of remote sensing flood extend for flood and inundation forecasting"
+- ~~November 2021: Master (M2) internship offer on "Assimilation of remote sensing flood extend for flood and inundation forecasting"
 [[link](https://cerfacs.fr/en/offer/assimilation-of-remote-sensing-flood-extend-for-flood-and-inundation-forecasting/)] with possible PhD opportunity.~~ *Position filled*
 - October 13<sup>th</sup> - 15<sup>th</sup>, 2021: **oral presentation at [2021 TELEMAC User Conference](https://tuc2020.org/)**, Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">. Proceeding can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - October 2021: abstract "Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps" has been accepted for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">. 
