@@ -8,6 +8,8 @@ author_profile: true
 Sometimes a good video is worth bookmarked, am I right? Popular daily music videos excluded.
 
 ## 2022
+- October: [True Sight : The International 2021 Finals (Dota 2)](https://www.youtube.com/watch?v=NFEwN1N3vvA), [Support Support - The Giver Within (Dota 2)](https://www.youtube.com/watch?v=f_eGfseSmpM)
+- September: [Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)](https://www.youtube.com/watch?v=EXgNlueMu6k)
 - August: [The Rise of the Manchester United Dynasty - Greatest Premier League Stories](https://www.youtube.com/watch?v=wcgn6E07E2c)
 - July: [through goes Hamilton](https://www.youtube.com/watch?v=BrtRk7B8pNE)
 - June: [David Beckham’s World Cup Special with Gary Neville - The Overlap](https://www.youtube.com/watch?v=d0J6AbZe9Tk), [The Collector’s Edition with Ben Clymer featuring Ed Sheeran](https://www.youtube.com/watch?v=UC7jm3D70NE), 
