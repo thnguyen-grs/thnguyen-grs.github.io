@@ -12,8 +12,10 @@ redirect_from:
 
 <blockquote>
 <b>Definition 1.1.</b> Uncertainty quantification is the science of quantitative characterization and reduction of uncertainties in both computational and real-world applications. It tries to determine how likely certain outcomes are if some aspects of the system are not exactly known.
-</blockquote>
+
 *Asch, M., Bocquet, M., & Nodet, M. (2016). Data assimilation: methods, algorithms, and applications. Society for Industrial and Applied Mathematics.*
+</blockquote>
+
 
 ## Current position: 
 Researcher at CERFACS, Toulouse
