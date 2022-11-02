@@ -10,6 +10,10 @@ redirect_from:
 
 # Thanh Huy Nguyen, Ph.D.
 
+<blockquote>
+<b>Definition 1.1.</b> Uncertainty quantification (UQ) is the science ofquantitative characterization and reduction ofuncertainties in both computational and real-world applications. It tries to determine how likely certain outcomes are ifsome aspects ofthe system are not exactly known.
+</blockquote>
+
 ## Current position: 
 Researcher at CERFACS, Toulouse
  <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
