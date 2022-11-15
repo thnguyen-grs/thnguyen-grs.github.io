@@ -42,16 +42,16 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2022
-- November 2022: journal paper **"Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis" has been accepted for publication in AGU Water Resources Research**. Early access version can be found \[[here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022WR033155)\].
+- November 2022: journal paper **"Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis" has been accepted for publication in AGU Water Resources Research**. Early access version can be found [here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022WR033155).
 - October 18<sup>th</sup> - 19<sup>th</sup>, 2022: **oral presentation at [TELEMAC User Conference TUC 2022](http://www.opentelemac.org/index.php/user-conference)** in Saclay (Île-de-France) <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - October 2022: two abstracts have been accepted for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in Chicago, IL <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">.
   - A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis (co-authored).
   - Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps (first-authored).
 - September 2022: an abstract "Enhancing flood forecasting with dual state-parameter estimation and SAR-data ensemble based assimilation" has been accepted for an oral presentation at 2022 TELEMAC User Conference (TUC2022) in Paris-Saclay <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
-- July 2022: Job opportunity in Hydrodynamic modelling at CERFACS, to start in September 2022 ([link](
-https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application deadline: September 1, 2022.
+- ~~July 2022: Job opportunity in Hydrodynamic modelling at CERFACS, to start in September 2022 ([link](
+https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application deadline: September 1, 2022.~~
 - July 4<sup>th</sup> - 8<sup>th</sup>, 2022: **oral presentation at [Hydroinformatics Conference HIC 2022](https://hic2022.utcb.ro/)** in Bucharest <img alt="Ru" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/510px-Flag_of_Romania.svg.png" style="background-color:transparent" width="20">.
-- July 2022: journal paper "Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis" has been submitted to the AGU Water Resources Research. Preprint can be found at \[[ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10511831.1)\].
+- July 2022: journal paper "Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis" has been submitted to the AGU Water Resources Research. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - June 21<sup>st</sup>, 2022: project SCO-FloodDAM-DigitalTwin kick-off. 
 - May 23<sup>rd</sup> - 27<sup>th</sup>, 2022: **poster presentation at [ESA Living Planet Symposium 2022](https://lps22.esa.int/)** in Bonn <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">. 
 - May 11<sup>th</sup> - 12<sup>th</sup>, 2022: gave a **talk at Telemac Scientific Committee Meeting** about "Observing Floods from Space" in Chatou, Ile-de-France.
