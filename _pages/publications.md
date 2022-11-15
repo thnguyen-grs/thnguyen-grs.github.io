@@ -21,7 +21,7 @@ author_profile: true
 ## Refereed Journals
 4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, accepted for publication in *AGU Water Resources Research.* <br>
 DOI: 10.1029/2022WR033155
-\[[Publication]()\] \[[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10511831.1)\]
+\[[Publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033155)\] \[[ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10511831.1)\]
 
 3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation**, *IEEE Trans. Geosci. Remote Sens.* (Early Access), 2022. (IF=5.6) <br>
 DOI: 10.1109/TGRS.2022.3147429
