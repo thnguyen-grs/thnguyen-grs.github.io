@@ -37,7 +37,7 @@ DOI: 10.1109/JSTARS.2020.2987305
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
 
 ## Conference Papers (with proceedings)
-8. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. \[[arXiv]()\] \[[proceeding](http://www.opentelemac.org/images/clubu/2022/proceedings_tuc-2022_v02_highres.pdf)\]
+8. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. \[[arXiv](https://arxiv.org/abs/2211.07272)\] \[[proceeding](http://www.opentelemac.org/images/clubu/2022/proceedings_tuc-2022_v02_highres.pdf)\]
 
 7. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Observations for Improving Fluvial Flood Forecast**, Proceeding of 14th International Conference on HydroInformatics (HIC2022) \[[arXiv](https://arxiv.org/abs/2205.08471)\] \[[proceeding]()\]
 
