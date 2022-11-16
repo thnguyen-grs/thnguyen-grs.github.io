@@ -19,19 +19,19 @@ author_profile: true
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
-4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, accepted for publication in *AGU Water Resources Research.* <br>
+4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, *AGU Water Resources Research (Early Access)*, 2022 <br>
 DOI: 10.1029/2022WR033155
 \[[Publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033155)\] \[[ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10511831.1)\]
 
-3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation**, *IEEE Trans. Geosci. Remote Sens.* (Early Access), 2022. (IF=5.6) <br>
+3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation**, *IEEE Trans. Geosci. Remote Sens.*, vol. 60, pp. 1-22, 2022, Art no. 4206022 (IF=8.125) <br>
 DOI: 10.1109/TGRS.2022.3147429
 \[[Publication](https://ieeexplore.ieee.org/document/9695446)\] \[[arXiv](https://arxiv.org/abs/2109.08487)\]
 
-2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, 2020, vol. 12(11), pp. 1702. (IF=4.509) <br>
+2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, vol. 12(11), 1702, 2020 (IF=5.349) <br>
 DOI: 10.3390/rs12111702
 \[[Publication](https://www.mdpi.com/2072-4292/12/11/1702)\] \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\] 
 
-1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, 2020, vol. 13, pp. 3125-3144 (IF=3.827) <br>
+1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, vol. 13, pp. 3125-3144, 2020 (IF=4.715) <br>
 DOI: 10.1109/JSTARS.2020.2987305
 \[[Publication](https://ieeexplore.ieee.org/document/9103265)\] \[[arXiv](https://arxiv.org/abs/1909.13817)\]
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
@@ -61,9 +61,9 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-11. **A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis** (invited talk, given by T. Huang), session *Towards a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting, Chicago, IL, December 2022.
+11. **A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis** (invited talk, given by T. Huang), session *Towards a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1043407)\]
 
-10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps**, session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022.
+10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary]()\]
 
 9. **Assimilation of SAR-Derived Flood Extent Maps for Improving Fluvial Flood Forecast** (poster), session *Inland Water Storage and Runoff: Modeling, In Situ Data and Remote Sensing*, ESA’s Living Planet Symposium, Bonn, May 2022. \[[poster](https://www.researchgate.net/publication/360928505_Assimilation_of_SAR-Derived_Flood_Maps_for_Improving_Fluvial_Flood_Forecast)\]
 
