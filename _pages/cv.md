@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014
+<!-- * B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014 -->
 * M.Eng. in Information Processing Systems, Telecom Bretagne, 2016
 * M.Sc. in Image Processing, Telecom Bretagne, 2016
 * Ph.D. in Geomatics, Université Laval, 2020
