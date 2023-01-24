@@ -42,6 +42,7 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
+- January 2023: conference paper “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast - A Proof-of-concept” presented at [HIC 2022](https://hic2022.utcb.ro/) has been published in IOP Conference Series: Earth and Environmental Science.
 - January 2023: three [IGARSS](https://2023.ieeeigarss.org/) abstract submissions (two first-authored), one [EGU](https://www.egu23.eu/) abstract submissions (first-authored), and three [Colloque SHF](https://www.shf-hydro.org/colloques/prevision-des-crues-et-des-inondations-avancees-valorisation-et-perspectives/) (one first-authored) abstract submissions.
 
 ### 2022
