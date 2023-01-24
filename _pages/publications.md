@@ -28,7 +28,7 @@ DOI: 10.1109/TGRS.2022.3147429
 \[[Publication](https://ieeexplore.ieee.org/document/9695446)\] \[[arXiv](https://arxiv.org/abs/2109.08487)\]
 
 2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, vol. 12(11), 1702, 2020 (IF=5.349) <br>
-DOI: 10.3390/rs12111702
+DOI: 10.3390/RS12111702
 \[[Publication](https://www.mdpi.com/2072-4292/12/11/1702)\] \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\] 
 
 1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, vol. 13, pp. 3125-3144, 2020 (IF=4.715) <br>
@@ -37,11 +37,11 @@ DOI: 10.1109/JSTARS.2020.2987305
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
 
 ## Conference Papers (with proceedings)
-8. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. \[[arXiv](https://arxiv.org/abs/2211.07272)\] \[[proceeding](http://www.opentelemac.org/images/clubu/2022/proceedings_tuc-2022_v02_highres.pdf)\]
+8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
 
-7. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Observations for Improving Fluvial Flood Forecast**, Proceeding of 14th International Conference on HydroInformatics (HIC2022) \[[arXiv](https://arxiv.org/abs/2205.08471)\] \[[proceeding]()\]
+7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. \[[proceeding](http://www.opentelemac.org/images/clubu/2022/proceedings_tuc-2022_v02_highres.pdf)\] \[[arXiv](https://arxiv.org/abs/2211.07272)\] 
 
-6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[arXiv](https://arxiv.org/abs/2109.07470)\] \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/108298/14_Nguyen_TUC2020_year_2021.pdf)\]
+6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/108298/14_Nguyen_TUC2020_year_2021.pdf)\] \[[arXiv](https://arxiv.org/abs/2109.07470)\] 
 
 5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021, pp. 1464-1467. <br>
 DOI: 10.1109/IGARSS47720.2021.9553036 \[[proceeding](https://ieeexplore.ieee.org/document/9553036)\]
@@ -61,7 +61,8 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-11. **A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis** (invited talk, given by T. Huang), session *Towards a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1043407)\]
+<!-- 11. **A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis** (invited talk, given by T. Huang), session *Towards a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1043407)\]
+ -->
 
 10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AGU_FM2022.pdf)\]
 
