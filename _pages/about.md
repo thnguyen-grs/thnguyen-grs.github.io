@@ -42,7 +42,7 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
-- January 2023: three [IGARSS](https://2023.ieeeigarss.org/) abstract submissions (two first-authored), two [EGU](https://www.egu23.eu/) abstract submissions (one first-authored), and three [Colloque SHF](https://www.shf-hydro.org/colloques/prevision-des-crues-et-des-inondations-avancees-valorisation-et-perspectives/) (one first-authored) abstract submissions.
+- January 2023: three [IGARSS](https://2023.ieeeigarss.org/) abstract submissions (two first-authored), one [EGU](https://www.egu23.eu/) abstract submissions (first-authored), and three [Colloque SHF](https://www.shf-hydro.org/colloques/prevision-des-crues-et-des-inondations-avancees-valorisation-et-perspectives/) (one first-authored) abstract submissions.
 
 ### 2022
 - December 12<sup>th</sup> - 16<sup>th</sup>, 2022: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in Chicago, IL <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*.
