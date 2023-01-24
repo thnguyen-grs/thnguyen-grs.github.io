@@ -63,7 +63,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 ## Communications (oral, poster)
 11. **A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis** (invited talk, given by T. Huang), session *Towards a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1043407)\]
 
-10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary]()\]
+10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AGU_FM2022.pdf)\]
 
 9. **Assimilation of SAR-Derived Flood Extent Maps for Improving Fluvial Flood Forecast** (poster), session *Inland Water Storage and Runoff: Modeling, In Situ Data and Remote Sensing*, ESA’s Living Planet Symposium, Bonn, May 2022. \[[poster](https://www.researchgate.net/publication/360928505_Assimilation_of_SAR-Derived_Flood_Maps_for_Improving_Fluvial_Flood_Forecast)\]
 
