@@ -7,6 +7,9 @@ author_profile: true
 
 Sometimes a good video is worth bookmarked, am I right? Popular daily music videos excluded.
 
+## 2023
+- January: [Actors Roundtable: Austin Butler, Brendan Fraser, Ke Huy Quan, Adam Sandler & More](https://www.youtube.com/watch?v=hJH2EyvvEBA)
+
 ## 2022
 - December: [SWOT, VIGIE DES EAUX](https://cnes.fr/fr/swot-vigie-des-eaux)
 - October: [True Sight : The International 2021 Finals (Dota 2)](https://www.youtube.com/watch?v=NFEwN1N3vvA), [Support Support - The Giver Within (Dota 2)](https://www.youtube.com/watch?v=f_eGfseSmpM)
