@@ -17,9 +17,11 @@ redirect_from:
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020
 
 ## Work experience
-* Since Dec. 2020: Researcher at **CERFACS** (European Center for Research and Advanced Training in Scientific Computation), funded by **CNES** (French Space Agency)
-  * Archived project: [SCO FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) 2020-2022 (SCO: Space Climate Observatory, FloodDAM: Flood Detection, Alert, and rapid Mapping) 
-  * Current project: SCO FloodDAM-DigitalTwin 2022-2024 partnered with CNES, vorteX.io, Airbus, NASA Jet Propulsion Laboratory (JPL), etc.
+* Since Dec. 2020: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
+  * Archived project: [SCO FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) 2020-2022 (acronyms: SCO--Space Climate Observatory, FloodDAM--Flood Detection, Alert, and rapid Mapping). 
+  * Current projects: 
+    * SCO FloodDAM-DigitalTwin (2022-2024) partnered with CNES, NASA, vorteX.io, Airbus, etc.
+    * TOSCA-SWOT (TOSCA program: Terre solide, Océan, Surfaces Continentales et Atmosphère).
 * Oct. - Nov. 2020: Research Assistant at **Université Laval** (Canada)
   * Project: R2Sonic Multispectral Water Column Challenge focusing on the estimation of suspended sediment concentration and grain size in Diamond Creek area, Colorado river, Arizona, USA.
 
