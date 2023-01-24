@@ -41,7 +41,11 @@ Researcher at CERFACS, Toulouse
 </p> -->
 
 ## Work timeline/News:
+### 2023
+- January 2023: three [IGARSS](https://2023.ieeeigarss.org/) abstract submissions (two first-authored), two [EGU](https://www.egu23.eu/) abstract submissions (one first-authored), and three [Colloque SHF](https://www.shf-hydro.org/colloques/prevision-des-crues-et-des-inondations-avancees-valorisation-et-perspectives/) (one first-authored) abstract submissions.
+
 ### 2022
+- December 12<sup>th</sup> - 16<sup>th</sup>, 2022: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in Chicago, IL <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*.
 - November 2022: journal paper **"Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis" has been accepted for publication in AGU Water Resources Research**. Early access version can be found [here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022WR033155).
 - October 18<sup>th</sup> - 19<sup>th</sup>, 2022: **oral presentation at [TELEMAC User Conference TUC 2022](http://www.opentelemac.org/index.php/user-conference)** in Saclay (Île-de-France) <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - October 2022: two abstracts have been accepted for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in Chicago, IL <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">.
