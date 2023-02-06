@@ -42,6 +42,8 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
+- February 2023: PhD opportunity at CERFACS, financed by CNES, to start in September/October 2023 ([link](https://recrutement.cnes.fr/en/annonce/2035549-23-135-flood-risk-assessment-and-estimation-of-socio-economic-impact-31400-toulouse)). Submission deadline: March 16, 2023.
+- January 2021: journal paper "Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv]()\].
 - January 2023: conference paper “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast - A Proof-of-concept” presented at [HIC 2022](https://hic2022.utcb.ro/) has been published in IOP Conference Series: Earth and Environmental Science.
 - January 2023: three [IGARSS](https://2023.ieeeigarss.org/) abstract submissions (two first-authored), one [EGU](https://www.egu23.eu/) abstract submissions (first-authored), and three [Colloque SHF](https://www.shf-hydro.org/colloques/prevision-des-crues-et-des-inondations-avancees-valorisation-et-perspectives/) (one first-authored) abstract submissions.
 
