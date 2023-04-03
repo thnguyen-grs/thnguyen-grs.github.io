@@ -42,7 +42,12 @@ Researcher at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
-- February 2023: PhD opportunity at CERFACS, financed by CNES, to start in September/October 2023 ([link](https://recrutement.cnes.fr/en/annonce/2035549-23-135-flood-risk-assessment-and-estimation-of-socio-economic-impact-31400-toulouse)). Submission deadline: March 16, 2023.
+- April 2023: three abstracts have been accepted for an oral presentation at [IEEE IGARSS 2023](https://2023.ieeeigarss.org/) in Pasadena, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">.
+  - Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement (first-authored).
+  - Reducing Uncertainties of a Chained Hydrologic-hydraulic Models to Improve Flood Extent Representation Using Multi-source Earth Observation Data (first-authored).
+  - The SCO-FLOODDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments (co-authored).
+- March 2023: an abstract “Comparisons and water level analyses using Sentinel-6MF satellite altimetry data with 1D Mascaret and 2D Telemac models” has been accepted for an oral presentation at [2022 EGU General Assembly](https://www.egu23.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">.
+- ~~February 2023: PhD opportunity at CERFACS, financed by CNES, to start in September/October 2023 ([link](https://recrutement.cnes.fr/en/annonce/2035549-23-135-flood-risk-assessment-and-estimation-of-socio-economic-impact-31400-toulouse)). Submission deadline: March 16, 2023.~~
 - January 2021: journal paper "Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv]()\].
 - January 2023: conference paper “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast - A Proof-of-concept” presented at [HIC 2022](https://hic2022.utcb.ro/) has been published in IOP Conference Series: Earth and Environmental Science.
 - January 2023: three [IGARSS](https://2023.ieeeigarss.org/) abstract submissions (two first-authored), one [EGU](https://www.egu23.eu/) abstract submissions (first-authored), and three [Colloque SHF](https://www.shf-hydro.org/colloques/prevision-des-crues-et-des-inondations-avancees-valorisation-et-perspectives/) (one first-authored) abstract submissions.
