@@ -42,7 +42,9 @@ Research Scientist at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
-- April 22<sup>nd</sup> - 28<sup>th</sup>, 2023: **oral presentation at [2022 EGU General Assembly](https://www.egu23.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
+- July 17<sup>th</sup>-18<sup>th</sup>, 2023: seminar and meeting at JPL, Caltech, Pasadena, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">.
+- May 31<sup>st</sup> - June 1<sup>st</sup>, 2023: participate in [Forum TERATEC 2023](https://www.forumteratec.com/fr/session/d4f57a9c-1cd5-ed11-9f74-000d3a2dcd55) in Parc Floral, Paris <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">. 
+- April 22<sup>nd</sup> - 28<sup>th</sup>, 2023: **oral presentation at [2022 EGU General Assembly](https://www.egu23.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
 - April 2023: three abstracts have been accepted for an oral presentation at [IEEE IGARSS 2023](https://2023.ieeeigarss.org/) in Pasadena, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">.
   - Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement (first-authored).
   - Reducing Uncertainties of a Chained Hydrologic-hydraulic Models to Improve Flood Extent Representation Using Multi-source Earth Observation Data (first-authored).
