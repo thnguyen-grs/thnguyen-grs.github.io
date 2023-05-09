@@ -65,7 +65,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 ## Communications (oral, poster)
 12. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models* \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
 
-11. **Leveraging Sentinel-6MF Altimetry Data for Flood Forecasting** (talk), GLOBC CLUC seminary, CERFACS (Toulouse), April 2023
+11. **Leveraging Sentinel-6MF Altimetry Data for Flood Forecasting** (talk), GLOBC CLUC seminar, CERFACS (Toulouse), April 2023
 
 10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AGU_FM2022.pdf)\]
 
@@ -73,7 +73,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 8. **Observing Floods from Space** (talk), TELEMAC Science Committee Meeting, Chatou, May 2022.
 
-7. **Satellite Remote Sensing-derived Flood Observations** (talk), GLOBC CLUC seminary, CERFACS (Toulouse), April 2022
+7. **Satellite Remote Sensing-derived Flood Observations** (talk), GLOBC CLUC seminar, CERFACS (Toulouse), April 2022
 
 6. **Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps** (talk), session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*, AGU Fall Meeting, New Orleans, LA, December 2021. \[[Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/881922)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/Fall_Meeting_2021_OverviewSlides.pdf)\]
 
