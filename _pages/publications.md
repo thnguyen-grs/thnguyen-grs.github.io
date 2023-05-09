@@ -36,12 +36,12 @@ DOI: 10.3390/RS12111702
 1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, vol. 13, pp. 3125-3144, 2020 (IF=4.715) <br>
 DOI: 10.1109/JSTARS.2020.2987305
 \[[Publication](https://ieeexplore.ieee.org/document/9103265)\] \[[arXiv](https://arxiv.org/abs/1909.13817)\]
-<!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67503778"></div></p> -->
+
 
 ## Conference Papers (with proceedings)
 8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
 
-7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. \[[proceeding](http://www.opentelemac.org/images/clubu/2022/proceedings_tuc-2022_v02_highres.pdf)\] \[[arXiv](https://arxiv.org/abs/2211.07272)\] 
+7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/110870/297-305_TUC2022_Nguyen.pdf)\] \[[arXiv](https://arxiv.org/abs/2211.07272)\] 
 
 6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/108298/14_Nguyen_TUC2020_year_2021.pdf)\] \[[arXiv](https://arxiv.org/abs/2109.07470)\] 
 
