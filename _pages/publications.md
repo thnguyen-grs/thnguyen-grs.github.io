@@ -63,10 +63,9 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-11. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models* \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
+12. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models* \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
 
-<!-- 11. **A Multi-Agency Collaboration Digital Twin for Flood Prediction and Analysis** (invited talk, given by T. Huang), session *Towards a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1043407)\]
- -->
+11. **Leveraging Sentinel-6MF Altimetry Data for Flood Forecasting** (talk), GLOBC CLUC seminary, CERFACS (Toulouse), April 2023
 
 10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AGU_FM2022.pdf)\]
 
