@@ -63,19 +63,19 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
-12. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models* \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
+12. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2022 EGU General Assembly, Vienna, April 2023. \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
 
 11. **Leveraging Sentinel-6MF Altimetry Data for Flood Forecasting** (talk), GLOBC CLUC seminar, CERFACS (Toulouse), April 2023
 
-10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AGU_FM2022.pdf)\]
+10. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting 2022, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AGU_FM2022.pdf)\]
 
-9. **Assimilation of SAR-Derived Flood Extent Maps for Improving Fluvial Flood Forecast** (poster), session *Inland Water Storage and Runoff: Modeling, In Situ Data and Remote Sensing*, ESA’s Living Planet Symposium, Bonn, May 2022. \[[poster](https://www.researchgate.net/publication/360928505_Assimilation_of_SAR-Derived_Flood_Maps_for_Improving_Fluvial_Flood_Forecast)\]
+9. **Assimilation of SAR-Derived Flood Extent Maps for Improving Fluvial Flood Forecast** (poster), session *Inland Water Storage and Runoff: Modeling, In Situ Data and Remote Sensing*, ESA’s Living Planet Symposium 2022, Bonn, May 2022. \[[poster](https://www.researchgate.net/publication/360928505_Assimilation_of_SAR-Derived_Flood_Maps_for_Improving_Fluvial_Flood_Forecast)\]
 
 8. **Observing Floods from Space** (talk), TELEMAC Science Committee Meeting, Chatou, May 2022.
 
-7. **Satellite Remote Sensing-derived Flood Observations** (talk), GLOBC CLUC seminar, CERFACS (Toulouse), April 2022
+7. **Satellite Remote Sensing-derived Flood Observations** (talk), GLOBC CLUC seminar, CERFACS (Toulouse), April 2022.
 
-6. **Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps** (talk), session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*, AGU Fall Meeting, New Orleans, LA, December 2021. \[[Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/881922)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/Fall_Meeting_2021_OverviewSlides.pdf)\]
+6. **Assessing and Improving Fluvial Flood Forecast Performance Using Sentinel-1 Derived Flood Extent Maps** (talk), session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*, AGU Fall Meeting 2021, New Orleans, LA, December 2021. \[[Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/881922)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/Fall_Meeting_2021_OverviewSlides.pdf)\]
 
 5. **Adding EO-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment** (poster), HYDROSPACE-GEOGloWS 2021 conference, ESA-ESRIN (Rome), June 2021. \[[poster](https://www.researchgate.net/publication/352180661_Adding_Earth_Observation-based_Virtual_Observations_to_Improve_Data_Assimilation_for_Flood_Fluvial_Forecasting_-_Example_of_the_Garonne_Marmandaise_Catchment)\]
 
