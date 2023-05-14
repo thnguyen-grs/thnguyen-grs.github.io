@@ -39,11 +39,14 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 
 ## Conference Papers (with proceedings)
-8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
+8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. <br>
+DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
 
-7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/110870/297-305_TUC2022_Nguyen.pdf)\] \[[arXiv](https://arxiv.org/abs/2211.07272)\] 
+7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. <br>
+Handle: 20.500.11970/110870 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/110870/297-305_TUC2022_Nguyen.pdf)\] \[[arXiv](https://arxiv.org/abs/2211.07272)\] 
 
-6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/108298/14_Nguyen_TUC2020_year_2021.pdf)\] \[[arXiv](https://arxiv.org/abs/2109.07470)\] 
+6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. 
+Handle: 20.500.11970/108298 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/108298/14_Nguyen_TUC2020_year_2021.pdf)\] \[[arXiv](https://arxiv.org/abs/2109.07470)\] 
 
 5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021, pp. 1464-1467. <br>
 DOI: 10.1109/IGARSS47720.2021.9553036 \[[proceeding](https://ieeexplore.ieee.org/document/9553036)\]
@@ -81,11 +84,11 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 4. **Hydrodynamic Modelling for Flood Prediction - SCO-FloodDAM@CERFACS Phase 1 Review** (talk), Toulouse, May 2021
 
-3. **Fusion de données issues de capteurs LiDAR et imagerie optique pour l’extraction des emprises de bâtiments dans le contexte du changement climatique** (talk), GLOBC seminary, CERFACS (Toulouse), March 2021
+3. **Fusion de données issues de capteurs LiDAR et imagerie optique pour l'extraction des emprises de bâtiments dans le contexte du changement climatique** (talk), GLOBC seminary, CERFACS (Toulouse), March 2021
 
 2. **Methodology of 3D mosaic construction by the fusion of airborne LiDAR data and optical imagery - Recent Progresses** (talk), LabSTICC/CID/PRASYS seminary, ENSTA (Brest), March 2019
 
-1. **Méthodologie de construction d’une mosaïque 3D par fusion de données aéroportées issues de capteurs d’imagerie et LiDAR** (poster), Colloque CRG, Université Laval (Quebec City), June 2018. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/ae3d0a859fdb1e9e40d2af6a3fb89c307903ca25/files/poster_colloque_CRG.pdf)\]
+1. **Méthodologie de construction d'une mosaïque 3D par fusion de données aéroportées issues de capteurs d'imagerie et LiDAR** (poster), Colloque CRG, Université Laval (Quebec City), June 2018. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/poster_colloque_CRG.pdf)\]
 
 ## Peer-review Activities
 Reviewer for [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4609443), MDPI's [Remote Sensing](https://www.mdpi.com/journal/remotesensing) [Artificial Intelligence](https://www.mdpi.com/journal/ai), [Applied Sciences](https://www.mdpi.com/journal/applsci), [ISPRS International Journal of Geo-Information (IJGI)](https://www.mdpi.com/journal/ijgi), [Journal of Spatial Science](https://www.tandfonline.com/toc/tjss20/current), and IGARSS conference.
