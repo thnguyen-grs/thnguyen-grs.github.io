@@ -45,7 +45,7 @@ DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/a
 7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. <br>
 Handle: 20.500.11970/110870 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/110870/297-305_TUC2022_Nguyen.pdf)\] \[[arXiv](https://arxiv.org/abs/2211.07272)\] 
 
-6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. 
+6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. <br>
 Handle: 20.500.11970/108298 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/108298/14_Nguyen_TUC2020_year_2021.pdf)\] \[[arXiv](https://arxiv.org/abs/2109.07470)\] 
 
 5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021, pp. 1464-1467. <br>
