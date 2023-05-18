@@ -67,7 +67,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, poster)
 
-12. **On the Merits of Earth Observation Data for Flood Monitoring and Flood Forecasting With Hydrodynamic Models** (talk), Séminaire Inter-Organismes Hydrologie Spatiale, Montpellier, May 2023.
+12. **On the Merits of Earth Observation Data for Flood Monitoring and Flood Forecasting With Hydrodynamic Models** (talk), Séminaire Inter-Organismes Hydrologie Spatiale (organiser: CNES & Theia/Data Terra), Montpellier, May 2023.
 
 11. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2022 EGU General Assembly, Vienna, April 2023. \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
 
