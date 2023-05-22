@@ -66,8 +66,10 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
+13. **SCO-FloodDAM & Digital Twin - Towards a Digital Twin for flood detection, prediction and risk assessment** (talk), Forum TERATEC, Paris, May 2023.
 
-12. **On the Merits of Earth Observation Data for Flood Monitoring and Flood Forecasting With Hydrodynamic Models** (talk), Séminaire Inter-Organismes Hydrologie Spatiale (organiser: CNES & Theia/Data Terra), Montpellier, May 2023.
+
+12. **On the Merits of Earth Observation Data for Hydrology and Flood Forecasting With Hydrodynamic Models** (talk), Séminaire Inter-Organismes Hydrologie Spatiale (organiser: CNES & Theia/Data Terra), Montpellier, May 2023.
 
 11. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2022 EGU General Assembly, Vienna, April 2023. \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
 
