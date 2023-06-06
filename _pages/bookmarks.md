@@ -44,6 +44,7 @@ redirect_from:
 - [CaMa-Flood: Global River Hydrodynamics Model](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/)
 - [DAPPER: Data Assimilation with Python: a Package for Experimental Research](https://github.com/nansencenter/DAPPER)
 - [Awesome Edge Detection Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
+- [25 Satellite Maps To See Earth in New Ways](https://gisgeography.com/satellite-maps/)
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
 - [David Attenborough's Uncovers A Mysterious Natural Secret...](https://www.youtube.com/watch?v=NoWgiV5hpcU)
