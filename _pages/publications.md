@@ -39,6 +39,10 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 
 ## Conference Papers (with proceedings)
+10. T. H. Nguyen, S. Ricci, A. Piacentini, Q. Bonassies, R. Rodriguez Suquet, S. Pena Luque, K. Marlis and C. H. David, **Reducing Uncertainties of a Chained Hydrologic-hydraulic Model to Improve Flood Forecasting Using Multi-source Earth Observation Data**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023. \[[arXiv]()\]
+
+9. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, and S. Pena Luque, **Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023. \[[arXiv](https://arxiv.org/abs/2306.08466)\]
+
 8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. <br>
 DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
 
