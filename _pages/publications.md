@@ -38,8 +38,11 @@ DOI: 10.1109/JSTARS.2020.2987305
 \[[Publication](https://ieeexplore.ieee.org/document/9103265)\] \[[arXiv](https://arxiv.org/abs/1909.13817)\]
 
 
+
 ## Conference Papers (with proceedings)
-10. T. H. Nguyen, S. Ricci, A. Piacentini, Q. Bonassies, R. Rodriguez Suquet, S. Pena Luque, K. Marlis and C. H. David, **Reducing Uncertainties of a Chained Hydrologic-hydraulic Model to Improve Flood Forecasting Using Multi-source Earth Observation Data**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023. \[[arXiv]()\]
+11. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, T. Huang, **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023.
+
+10. T. H. Nguyen, S. Ricci, A. Piacentini, Q. Bonassies, R. Rodriguez Suquet, S. Pena Luque, K. Marlis and C. H. David, **Reducing Uncertainties of a Chained Hydrologic-hydraulic Model to Improve Flood Forecasting Using Multi-source Earth Observation Data**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023. \[[arXiv](https://arxiv.org/abs/2306.10059)\]
 
 9. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, and S. Pena Luque, **Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023. \[[arXiv](https://arxiv.org/abs/2306.08466)\]
 
@@ -58,11 +61,9 @@ DOI: 10.1109/IGARSS47720.2021.9553036 \[[proceeding](https://ieeexplore.ieee.org
 
 4. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Unsupervised Automatic Building Extraction Using Active Contour Model on Unregistered Optical Imagery and Airborne LiDAR Data**, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W16, pp. 181–188.<br>
 DOI: 10.5194/isprs-archives-XLII-2-W16-181-2019 \[[proceeding](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W16/181/2019/isprs-archives-XLII-2-W16-181-2019.pdf)\] \[[arXiv](https://arxiv.org/abs/1907.06206)\] \[[poster](https://www.dropbox.com/s/l8xr08ksu2io0ho/poster.pdf?dl=0)\] \[[Github](https://github.com/nthuy190991/polygonization_PIA2019)\] <br><span style="color:blue;"><b>Best poster award at PIA19+MRSS19</b></span>
-<!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63598711" data-doi="10.5194/isprs-archives-xlii-2-w16-181-2019"></div></p> -->
 
 3. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Robust Building-Based Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes,** IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019, pp. 8474-8477.<br>
 DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/document/8898612)\] \[[slide](https://www.dropbox.com/s/s8tv51iewezzfks/TH1.R10.4.pdf?dl=0)\] \[[arXiv](https://arxiv.org/abs/1904.03668)\] \[[Github (for full-scale color figures)](https://github.com/nthuy190991/igarss2019)\]
-<!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1109/IGARSS.2019.8898612"></div></p> -->
 
 2. T. H. Nguyen, D. Guériot, J.-M. Le Caillec, C. Sintès and S. Daniel, **Heterogeneous Data Registration for 3D Underwater Scene Reconstruction,** OCEANS 2017 - MTS/IEEE Anchorage, Anchorage, AK, USA, 2017, pp. 1-6. \[[proceeding](https://ieeexplore.ieee.org/document/8232327)\] \[[preprint](https://www.researchgate.net/publication/320016469_Heterogeneous_Data_Registration_for_3D_Underwater_Scene_Reconstruction)\] \[[poster](https://www.dropbox.com/s/srdo0j02q2o1gz5/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
 
@@ -71,7 +72,6 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, poster)
 13. **SCO-FloodDAM & Digital Twin - Towards a Digital Twin for flood detection, prediction and risk assessment** (talk), Forum TERATEC, Paris, May 2023.
-
 
 12. **On the Merits of Earth Observation Data for Hydrology and Flood Forecasting With Hydrodynamic Models** (talk), Séminaire Inter-Organismes Hydrologie Spatiale (organiser: CNES & Theia/Data Terra), Montpellier, May 2023.
 
