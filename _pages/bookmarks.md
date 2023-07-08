@@ -30,7 +30,7 @@ redirect_from:
 - [Morphological Snakes](https://github.com/pmneila/morphsnakes)
 - [Aligning and Updating Cadaster Maps with RS Images](https://github.com/Lydorn/mapalignment)
 - [Locally Linear Transforming](https://github.com/jiayi-ma/LLT)
-- [SpaceNet6 All weather building extraction baseline (by CosmiQ)](https://github.com/CosmiQ/CosmiQ_SN6_Baseline)
+- [SpaceNet-6 All weather building extraction baseline (by CosmiQ)](https://github.com/CosmiQ/CosmiQ_SN6_Baseline)
 - [COLMAP - Structure-from-Motion and Multi-View Stereo](https://github.com/colmap/colmap)
 - [Cesium OSM Buildings - Global 3D buildings with rich metadata](https://cesium.com/content/cesium-osm-buildings/)
 - [Random3DCity - Synthetic CityGML data and procedural modelling engine (by Filip Biljecki)](https://filipbiljecki.com/code/Random3Dcity.html)
@@ -50,6 +50,7 @@ redirect_from:
 - [CEMS' GFM Global Flood Mapping](https://extwiki.eodc.eu/GFM/PUM)
 - [FANGS - Fire Applications with Next-Generation Satellites](https://fire.trainhub.eumetsat.int/docs/index.html#who-is-the-course-for-and-what-are-the-prerequisites)
 - [Reos Project - open-source tools for hydrological and hydraulic analysis](https://github.com/vcloarec/ReosProject)
+- [SpaceNet-8 Flood Detection Challenge Using Multiclass Segmentation](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Hansch_SpaceNet_8_-_The_Detection_of_Flooded_Roads_and_Buildings_CVPRW_2022_paper.pdf)
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
 - [How to use free satellite data to monitor natural disasters and environmental changes (The Conversation)](https://theconversation.com/how-to-use-free-satellite-data-to-monitor-natural-disasters-and-environmental-changes-198140)
