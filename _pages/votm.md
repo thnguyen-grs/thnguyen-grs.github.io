@@ -8,6 +8,8 @@ author_profile: true
 Sometimes a good video is worth bookmarked, am I right? Popular daily music videos excluded.
 
 ## 2023
+- August: two best renditions of Merry Go Round of Life (Howl's Moving Castle OST) [by Grissini Project](https://www.youtube.com/watch?v=J6qIzKxmW8Y), [by LAYERS CLASSIC](https://www.youtube.com/watch?v=00i1SQ8Yzwo), [Most Feared Opponents, Dream Team Mates & Question Time - The Rest Is Football E2](https://www.youtube.com/watch?v=kYSB5Eb5-ls)
+- July: [Animals with Superpowers - BBC Earth](https://www.youtube.com/watch?v=aSwqQQka7kY)
 - June: ["100 points again?" Kompany on City Career & Burnley Premier League Return - The Overlap](https://www.youtube.com/watch?v=AFVQLjECiqA)
 - May: [Saving The Endangered Giant Panda - Panda Nursery - Real Wild](https://www.youtube.com/watch?v=dfHTFXfpswA)
 - April: [Grand Train Tour of Switzerland: The ride of a lifetime - Switzerland Tourism](https://www.youtube.com/watch?v=5JK7vjVaIvo), [Coldplay - A Sky Full Of Stars (Live at River Plate)](https://www.youtube.com/watch?v=Fpn1imb9qZg), [Vidic Exclusive: How I Signed For Man Utd - Partnership With Rio - Winning The Champions League](https://www.youtube.com/watch?v=WnxEMMVc680)
