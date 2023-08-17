@@ -42,7 +42,7 @@ Research Scientist at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
-- August 2023: abstract "Merits of Assimilating SWOT Altimetry and Sentinel-1-derived flood extent Observations for Flood Forecasting - A Proof-of-Concept" has been accepted for a poster presentation HYDROSPACE 2023 conference in Lisbon (Portugal) <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
+- August 2023: abstract "Merits of Assimilating SWOT Altimetry and Sentinel-1-derived flood extent Observations for Flood Forecasting - A Proof-of-Concept" has been accepted for a poster presentation HYDROSPACE 2023 conference in Lisbon <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
 - August 2023: three abstracts (one first-authored) have been accepted for oral/poster presentations at 2023 TELEMAC User Conference (TUC2023) in Karlsruhe <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
   - Flood Forecast with Chained Hydrologic-Hydraulic Modeling and Data Assimilation (first-authored, oral),
   - Front Type Implementation for Flood Extent and Flood Modelling Image Assimilation (co-authored, oral),
