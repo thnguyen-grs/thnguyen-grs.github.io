@@ -8,6 +8,7 @@ author_profile: true
 Sometimes a good video is worth bookmarked, am I right? Popular daily music videos excluded.
 
 ## 2023
+- October: [Animation vs. Math](https://www.youtube.com/watch?v=B1J6Ou4q8vE)
 - August: two best renditions of Merry Go Round of Life (Howl's Moving Castle OST) [by Grissini Project](https://www.youtube.com/watch?v=J6qIzKxmW8Y), [by LAYERS CLASSIC](https://www.youtube.com/watch?v=00i1SQ8Yzwo), [Most Feared Opponents, Dream Team Mates & Question Time - The Rest Is Football E2](https://www.youtube.com/watch?v=kYSB5Eb5-ls)
 - July: [Animals with Superpowers - BBC Earth](https://www.youtube.com/watch?v=aSwqQQka7kY)
 - June: ["100 points again?" Kompany on City Career & Burnley Premier League Return - The Overlap](https://www.youtube.com/watch?v=AFVQLjECiqA)
