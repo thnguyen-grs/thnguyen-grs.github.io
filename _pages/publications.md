@@ -40,8 +40,13 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 
 ## Conference Papers (with proceedings)
-12. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, R. Raynal, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Improving Flood Forecasting Capability With a Chained Hydrological-hydraulic Model and Remote Sensing Data Assimilation**, Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, 2023.
+14. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, R. Raynal, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Improving Flood Forecasting Capability With a Chained Hydrological-hydraulic Model and Remote Sensing Data Assimilation**, Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, 2023.
 
+13. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, R. Rodriguez Suquet, S. Le Gac, F. Boy, C. Fatras, Q. Bonassies, M. Sadki, and S. Pena Luque, **Flood Forecast with Chained Hydrologic-Hydraulic Modeling and Data Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, 2023. <br>
+Handle: ... \[[proceeding]()\] \[[arXiv]()\] 
+
+12. Q. Bonassies, S. Ricci, T. H. Nguyen, A. Piacentini, M. Sadki, C. Fatras, A. Andral, S. Pena Luque, and R. Rodriguez Suquet, **Front Type Implementation for Flood Extent and Flood Modelling Image Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, 2023. <br>
+Handle: ... \[[proceeding]()\] 
 
 11. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, T. Huang, **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023.
 
@@ -74,6 +79,9 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, poster)
+
+15. **Integrate new in-situ, air- and spaceborne data to improve river floods modeling** (poster by M. Sadki, CERFACS), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023.
+
 14. **SCO-FloodDAM & Digital Twin - Towards a Digital Twin for flood detection, prediction and risk assessment** (talk), Forum TERATEC, Paris, May 2023.
 
 13. **On the Merits of Earth Observation Data for Hydrology and Flood Forecasting With Hydrodynamic Models** (talk), Séminaire Inter-Organismes Hydrologie Spatiale (organiser: CNES & Theia/Data Terra), Montpellier, May 2023.
