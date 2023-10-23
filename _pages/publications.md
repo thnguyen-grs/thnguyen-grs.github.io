@@ -48,11 +48,15 @@ Handle: ... \[[proceeding]()\] \[[arXiv]()\]
 12. Q. Bonassies, S. Ricci, T. H. Nguyen, A. Piacentini, M. Sadki, C. Fatras, A. Andral, S. Pena Luque, and R. Rodriguez Suquet, **Front Type Implementation for Flood Extent and Flood Modelling Image Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, 2023. <br>
 Handle: ... \[[proceeding]()\] 
 
-11. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, T. Huang, **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023.
+11. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, T. Huang, **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. <br>
+DOI: 10.1109/IGARSS52108.2023.10282907 \[[proceeding](https://ieeexplore.ieee.org/document/10282907)\]
 
-10. T. H. Nguyen, S. Ricci, A. Piacentini, Q. Bonassies, R. Rodriguez Suquet, S. Pena Luque, K. Marlis and C. H. David, **Reducing Uncertainties of a Chained Hydrologic-hydraulic Model to Improve Flood Forecasting Using Multi-source Earth Observation Data**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. \[[arXiv](https://arxiv.org/abs/2306.10059)\]
+10. T. H. Nguyen, S. Ricci, A. Piacentini, Q. Bonassies, R. Rodriguez Suquet, S. Pena Luque, K. Marlis and C. H. David, **Reducing Uncertainties of a Chained Hydrologic-hydraulic Model to Improve Flood Forecasting Using Multi-source Earth Observation Data**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. <br>
+DOI: 10.1109/IGARSS52108.2023.10282456 \[[proceeding](https://ieeexplore.ieee.org/document/10282456)\] \[[arXiv](https://arxiv.org/abs/2306.10059)\]
 
-9. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, and S. Pena Luque, **Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. \[[arXiv](https://arxiv.org/abs/2306.08466)\]
+9. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, and S. Pena Luque, **Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. <br>
+DOI: 10.1109/IGARSS52108.2023.10282744 \[[proceeding](https://ieeexplore.ieee.org/document/10282744)\] \[[arXiv](https://arxiv.org/abs/2306.08466)\]
+
 
 8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. <br>
 DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
