@@ -7,6 +7,16 @@ author_profile: true
 
 <!-- # Recommended library-->
 
+## Remote Sensing:
+- Schumann, G., 2021. **Earth Observation for Flood Applications - Progress and Perspectives**. Elsevier.
+- Thenkabail Ph.D., Prasad S., 2015. **Remote Sensing of Water Resources, Disasters, and Urban Studies**. CRC Press.
+- Kraus, K., 2011. **Photogrammetry: geometry from images and laser scans**. Walter de Gruyter. Vancouver.
+- Tupin, F., Inglada, J. and Mercier, G., 2014. **Image Processing Techniques for Remote Sensing**. Remote Sensing Imagery, pp.123-154.
+- Tempfli, K., Huurneman, G., Bakker, W., Janssen, L.L., Feringa, W.F., Gieske, A.S.M., Grabmaier, K.A., Hecker, C.A., Horn, J.A., Kerle, N. and van der Meer, F.D., 2009. **Principles of remote sensing: an introductory textbook**. ITC.
+- Caloz, R. and Collet, C., 2001. **Précis de télédétection, Volume 3, Traitements numériques d'images de télédétection**. Presses de l'Université du Québec. (in French)
+- Provencher, L. and Dubois, J.M.M., 2007. **Précis de télédétection. Volume 4, Méthodes de photointerprétation et d'interprétation d'image**. Presses de l'Université du Québec. (in French)
+<!-- - Formation en ligne en Géomatique, École Nationale des Sciences Géographiques. \[[link](http://cours-fad-public.ensg.eu/course)\] -->
+
 ## Computer vision: 
 - Hartley, R. and Zisserman, A., 2003. **Multiple view geometry in computer vision**. Cambridge University press.
 - Szeliski, R., 2010. **Computer vision: algorithms and applications**. Springer Science & Business Media.
@@ -14,13 +24,9 @@ author_profile: true
 - Goshtasby, A.A., 2012. **Image registration: Principles, tools and methods**. Springer Science & Business Media.
 - Goshtasby, A.A., 2005. **2-D and 3-D image registration: for medical, remote sensing, and industrial applications**. John Wiley & Sons.
 
-## Photogrammetry and Remote Sensing:
-- Kraus, K., 2011. **Photogrammetry: geometry from images and laser scans**. Walter de Gruyter. Vancouver.
-- Tupin, F., Inglada, J. and Mercier, G., 2014. **Image Processing Techniques for Remote Sensing**. Remote Sensing Imagery, pp.123-154.
-- Tempfli, K., Huurneman, G., Bakker, W., Janssen, L.L., Feringa, W.F., Gieske, A.S.M., Grabmaier, K.A., Hecker, C.A., Horn, J.A., Kerle, N. and van der Meer, F.D., 2009. **Principles of remote sensing: an introductory textbook**. ITC.
-- Caloz, R. and Collet, C., 2001. **Précis de télédétection, Volume 3, Traitements numériques d'images de télédétection**. Presses de l'Université du Québec. (in French)
-- Provencher, L. and Dubois, J.M.M., 2007. **Précis de télédétection. Volume 4, Méthodes de photointerprétation et d'interprétation d'image**. Presses de l'Université du Québec. (in French)
-<!-- - Formation en ligne en Géomatique, École Nationale des Sciences Géographiques. \[[link](http://cours-fad-public.ensg.eu/course)\] -->
+
+## Data assimilation:
+- Asch, M., Bocquet, M. and Nodet, M., 2016. **Data assimilation: methods, algorithms, and applications**. Society for Industrial and Applied Mathematics.
 
 ## Data fusion:
 - Mitchell, H.B., 2007. **Multi-sensor data fusion: an introduction**. Springer Science & Business Media.

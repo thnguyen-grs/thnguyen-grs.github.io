@@ -10,17 +10,18 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014
+<!-- * B.Eng. in Telecommunications, HCMC University of Technology, Vietnam National University, 2014 -->
 * M.Eng. in Information Processing Systems, Telecom Bretagne, 2016
 * M.Sc. in Image Processing, Telecom Bretagne, 2016
 * Ph.D. in Geomatics, Université Laval, 2020
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020
 
 ## Work experience
-* Since Dec. 2020: Researcher at **CERFACS** (European Center for Research and Advanced Training in Scientific Computation), funded by **CNES** (French Space Agency)
-  * Mission: Comparison study of the coupling of high-resolution photogrammetric digital suface models (DSMs) with computational fluid dynamics (CFD) models simulated by [Telemac](https://www.opentelemac.org/index.php/presentation). 
-  * Project: [SCO FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) (SCO: Space Climate Observatory, FloodDAM: Flood Detection, Alert, and rapid Mapping) partnered with CNES, vorteX.io, Airbus, NASA Jet Propulsion Laboratory (JPL), etc.
-
+* Since Dec. 2020: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
+  * Archived project: [SCO FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) 2020-2022 (acronyms: SCO--Space Climate Observatory, FloodDAM--Flood Detection, Alert, and rapid Mapping). 
+  * Current projects: 
+    * SCO FloodDAM-DigitalTwin (2022-2024) partnered with CNES, NASA, vorteX.io, Airbus, etc.
+    * TOSCA-SWOT (TOSCA program: Terre solide, Océan, Surfaces Continentales et Atmosphère).
 * Oct. - Nov. 2020: Research Assistant at **Université Laval** (Canada)
   * Project: R2Sonic Multispectral Water Column Challenge focusing on the estimation of suspended sediment concentration and grain size in Diamond Creek area, Colorado river, Arizona, USA.
 
@@ -50,7 +51,7 @@ redirect_from:
 * Earth Observation, Information processing and Data fusion
 * Image processing and Computer vision
 
-## Selected Publications (see full list [here](thnguyen-grs.github.io/publications/))
+## Selected Publications (see full list [here](https://thnguyen-grs.github.io/publications/))
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
