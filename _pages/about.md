@@ -42,6 +42,7 @@ Research Scientist at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
+- September 2023: proposed a seesion entitled *"Improving flood forecasting and impact assessment using heterogeneous remote sensing data and data assimilation in hydrodynamics"* at **[2023 EGU General Assembly](https://www.egu23.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">.
 - August 2023: abstract "Merits of Assimilating SWOT Altimetry and Sentinel-1-derived flood extent Observations for Flood Forecasting - A Proof-of-Concept" has been accepted for a poster presentation [HYDROSPACE 2023](https://www.hydrospace2023.org/) conference in Lisbon <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
 - August 2023: three abstracts (one first-authored) have been accepted for oral/poster presentations at 2023 TELEMAC User Conference (TUC2023) in Karlsruhe <img alt="De" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/510px-Flag_of_Germany.svg.png" style="background-color:transparent" width="20">
   - Flood Forecast with Chained Hydrologic-Hydraulic Modeling and Data Assimilation (first-authored, oral),
