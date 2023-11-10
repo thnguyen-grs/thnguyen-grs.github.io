@@ -53,6 +53,7 @@ redirect_from:
 - [SpaceNet-8 Flood Detection Challenge Using Multiclass Segmentation](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Hansch_SpaceNet_8_-_The_Detection_of_Flooded_Roads_and_Buildings_CVPRW_2022_paper.pdf)
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- [Laughing Through the Arab Spring with Bassem Youssef](https://www.youtube.com/watch?v=zJ_vmMYDEp8)
 - [How to use free satellite data to monitor natural disasters and environmental changes (The Conversation)](https://theconversation.com/how-to-use-free-satellite-data-to-monitor-natural-disasters-and-environmental-changes-198140)
 - [David Attenborough's Uncovers A Mysterious Natural Secret...](https://www.youtube.com/watch?v=NoWgiV5hpcU)
 - [Gerard Pique talks Barcelona, the Super League & Guardiola with Gary Neville - The Overlap](https://www.youtube.com/watch?v=JWQyhj4i11Q)
