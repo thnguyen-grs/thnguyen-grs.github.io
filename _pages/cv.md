@@ -26,9 +26,9 @@ redirect_from:
     * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
     * R&T Hydrocompatible, funded by CNES
 * Dec. 2020 - Nov. 2023: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
-  * Team: [GLOBC (Global Change and Climate Modelling)]()
+  * Team: [ Climate Modeling and Global Change (GLOBC)](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)
   * Projects: 
-    * [FloodDAM (Flood Detection, Alert, and rapid Mapping)](https://www.spaceclimateobservatory.org/flooddam-garonne) SCO (Space Climate Observatory) program 2020-2022. 
+    * [FloodDAM (Flood Detection, Alert, and rapid Mapping)](https://www.spaceclimateobservatory.org/flooddam-garonne), SCO (Space Climate Observatory) program 2020-2022. 
     * [FloodDAM-Digital Twin](https://www.spaceclimateobservatory.org/flooddam-dt), SCO program 2022-2024
       * Parallel/twin project at NASA JPL: [Integrated Digital Earth Analysis Sytem (IDEAS)](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/), ESTO AIST program
     * SWOT-DAHM, TOSCA-SWOT (TOSCA--Terre solide, Océan, Surfaces Continentales et Atmosphère) program 2020-2023.
