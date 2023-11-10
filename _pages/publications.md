@@ -84,6 +84,8 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, poster)
 
+16. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
+
 15. **Integrate new in-situ, air- and spaceborne data to improve river floods modeling** (poster by M. Sadki, CERFACS), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023.
 
 14. **SCO-FloodDAM & Digital Twin - Towards a Digital Twin for flood detection, prediction and risk assessment** (talk), Forum TERATEC, Paris, May 2023.
@@ -94,7 +96,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 11. **Leveraging Sentinel-6MF Altimetry Data for Flood Forecasting** (talk), GLOBC CLUC seminar, CERFACS (Toulouse), April 2023
 
-10. **Federated Digital Twins for Flood Prediction and Analysis** (poster by T. Huang NASA/JPL), session *Toward a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting 2022, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1043407) \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2022_12_14%20AGU%20Thomas%20poster%20-%20Federated%20Digital%20Twins.pdf)
+10. **Federated Digital Twins for Flood Prediction and Analysis** (poster by T. Huang NASA/JPL), session *Toward a Digital Twin of Sustainable Earth and Infrastructure*, AGU Fall Meeting 2022, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1043407)\] \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2022_12_14%20AGU%20Thomas%20poster%20-%20Federated%20Digital%20Twins.pdf)\]
 
 9. **Uncertainty Reduction in Fluvial Flood Re-analysis by Assimilating SAR-derived Flood Extent Maps** (talk), session *Data Driven Approaches for Flood Observation, Model Validation, and Uncertainty Quantification*, AGU Fall Meeting 2022, Chicago, IL, December 2022. \[[Abstract](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1062771)\] \[[Summary](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AGU_FM2022.pdf)\]
 
