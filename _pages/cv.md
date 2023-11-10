@@ -17,11 +17,21 @@ redirect_from:
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020
 
 ## Work experience
-* Since Dec. 2020: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
-  * Archived project: [SCO FloodDAM](https://www.spaceclimateobservatory.org/flooddam-garonne) 2020-2022 (acronyms: SCO--Space Climate Observatory, FloodDAM--Flood Detection, Alert, and rapid Mapping). 
-  * Current projects: 
-    * SCO FloodDAM-DigitalTwin (2022-2024) partnered with CNES, NASA, vorteX.io, Airbus, etc.
-    * TOSCA-SWOT (TOSCA program: Terre solide, Océan, Surfaces Continentales et Atmosphère).
+* Since Nov. 2023: Researcher at Luxembourg Institute of Science and Technology.
+  * Team: [Environmental Sensing and Modelling (ENVISION)](https://www.list.lu/en/environment/environmental-sensing-and-modelling/)
+  * Project:
+    * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR 2024-2027
+  * Involved in:
+    * FloodDAM-DigitalTwin and IDEAS
+    * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
+    * R&T Hydrocompatible, funded by CNES
+* Dec. 2020 - Nov. 2023: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
+  * Team: [GLOBC (Global Change and Climate Modelling)]()
+  * Projects: 
+    * [FloodDAM (Flood Detection, Alert, and rapid Mapping)](https://www.spaceclimateobservatory.org/flooddam-garonne) SCO (Space Climate Observatory) program 2020-2022. 
+    * [FloodDAM-Digital Twin](https://www.spaceclimateobservatory.org/flooddam-dt), SCO program 2022-2024
+      * Parallel/twin project at NASA JPL: [Integrated Digital Earth Analysis Sytem (IDEAS)](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/), ESTO AIST program
+    * SWOT-DAHM, TOSCA-SWOT (TOSCA--Terre solide, Océan, Surfaces Continentales et Atmosphère) program 2020-2023.
 * Oct. - Nov. 2020: Research Assistant at **Université Laval** (Canada)
   * Project: R2Sonic Multispectral Water Column Challenge focusing on the estimation of suspended sediment concentration and grain size in Diamond Creek area, Colorado river, Arizona, USA.
 
