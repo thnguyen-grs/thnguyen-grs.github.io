@@ -84,9 +84,11 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, poster)
 
-16. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
+17. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
 
-15. **Integrate new in-situ, air- and spaceborne data to improve river floods modeling** (poster by M. Sadki, CERFACS), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023.
+16. **Integrate new in-situ, air- and spaceborne data to improve river floods modeling** (poster by M. Sadki, CERFACS), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023. \[[Poster]()\]
+
+15. **Global River Discharges Estimation from SWOT Observations using Data Assimilation and Hydraulic Models** (poster by S. Ricci, CERFACS), SWOT Science Team Meeting 2023, Toulouse, October 2023. \[[Poster]()\]
 
 14. **SCO-FloodDAM & Digital Twin - Towards a Digital Twin for flood detection, prediction and risk assessment** (talk), Forum TERATEC, Paris, May 2023.
 
