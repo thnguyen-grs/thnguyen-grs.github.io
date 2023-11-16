@@ -18,18 +18,18 @@ redirect_from:
 
 
 ## Current position: 
-Research Scientist at CERFACS, Toulouse
- <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-Alzette
+ <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">
 <!-- Ph.D. Candidate at [Department of Geomatic Sciences](https://www.scg.ulaval.ca/), [Faculty of Forestry, Geography and Geomatics](http://www2.ulaval.ca/en/academics/faculties-departments-and-schools/forestry-geography-and-geomatics.html), [Laval University](http://www2.ulaval.ca/en.html), Quebec City <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> and also at [Image and Information Processing Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/image-et-traitement-de-l-information), [IMT Atlantique](http://www.imt-atlantique.fr/), Brest <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> -->
 
 ### **Alma mater:**
 - Université Laval <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> (Ph.D.)
 - IMT Atlantique Bretagne-Pays de la Loire <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> (Ph.D., M.Sc., M.Eng.)
 
-**Office:** 42 Avenue Gaspard Coriolis, 31057 Toulouse Cedex 1, France
+**Office:** 41 Rue du Brill, 4422 Belvaux, Luxembourg
 
 **Email address:**<br>
-<span>thanh-huy[dot]nguyen[at]cerfacs[dot]fr <br>
+<span>thanh-huy[dot]nguyen[at]list[dot]lu <br>
 <!-- <span>thanh[dot]nguyen[at]imt-atlantique[dot]fr (to be expired after December 31st) <br> -->
 <!-- <span>thanh-huy[dot]nguyen[dot]1[at]ulaval[dot]ca (to be expired after January 31st) -->
 
@@ -42,6 +42,7 @@ Research Scientist at CERFACS, Toulouse
 
 ## Work timeline/News:
 ### 2023
+- November 15<sup>th</sup>, 2023: started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/). Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">
 - October 2023: a co-authored contribution has been invited for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in San Francisco, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - September 2023: proposed a session entitled *"Improving Flood Forecasting and Impact Assessment using Heterogeneous Remote Sensing Data and Data Assimilation in Hydrodynamics"* at **[2023 EGU General Assembly](https://www.egu23.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">.
