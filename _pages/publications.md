@@ -84,7 +84,11 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, poster)
 
-17. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
+19. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
+
+18. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023 conference, Lisbon, November 2023. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+
+17. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023 conference, Lisbon, November 2023. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
 16. **Integrate new in-situ, air- and spaceborne data to improve river floods modeling** (poster by M. Sadki, CERFACS), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/Poster_TUC_MS_2023_Vfinal.pdf)\]
 
