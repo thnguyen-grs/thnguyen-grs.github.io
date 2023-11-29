@@ -43,6 +43,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 ### 2023
 - November 27<sup>th</sup> - December 1<sup>st</sup>, 2023: two **poster presentations at [HYDROSPACE 2023](https://www.hydrospace2023.org/)** conference in Lisbon <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
+- November 2023: the journal paper **“Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations” has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - November 15<sup>th</sup>, 2023: started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/). Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">
 - October 2023: a co-authored contribution has been invited for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in San Francisco, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
@@ -97,6 +98,7 @@ https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application de
 
 ### 2021
 - December 13<sup>th</sup> - 17<sup>th</sup>, 2021: **oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)** in New Orleans, LA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">, session *Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands*.
+
 - ~~November 2021: Master (M2) internship offer on "Assimilation of remote sensing flood extend for flood and inundation forecasting"
 [[link](https://cerfacs.fr/en/offer/assimilation-of-remote-sensing-flood-extend-for-flood-and-inundation-forecasting/)] with possible PhD opportunity.~~ *Position filled*
 - October 13<sup>th</sup> - 15<sup>th</sup>, 2021: **oral presentation at [2021 TELEMAC User Conference](https://tuc2020.org/)**, Antwerp <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">. Proceeding can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
