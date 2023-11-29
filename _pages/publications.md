@@ -19,7 +19,9 @@ author_profile: true
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
-5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *Early Access* \[[arXiv](https://arxiv.org/abs/2304.01058)\]
+5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, **IEEE Trans. Geosci. Remote Sens. (Early Access)** (IF=8.125) <br>
+DOI: 10.1109/TGRS.2023.3338296
+\[[Publication]()\] \[[arXiv](https://arxiv.org/abs/2304.01058)\]
 
 4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, *Water Resources Research*, 58, e2022WR033155, 2022 (IF=6.159)<br>
 DOI: 10.1029/2022WR033155
