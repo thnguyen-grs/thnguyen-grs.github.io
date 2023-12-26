@@ -44,8 +44,8 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ### 2024
 
 ### 2023
-- December 20<sup>th</sup>, 2023: announcing 2024 IEEE GRSS Data Fusion Contest (DFC) - Flood Rapid Mapping [link](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping), in collaboration with CNES and NASA. Submission date: January 08, 2024 to May 25, 2024.
-- December 18<sup>th</sup>, 2023: journal paper "Remote Sensing Data Assimilation with a Chained Hydrological-hydraulic Model for Flooding" has been submitted to the La Houille Blanche: Hydroscience (LHB) - official journal of the Société Hydrotechnique de France (SHF).
+- December 20<sup>th</sup>, 2023: announcing 2024 IEEE GRSS Data Fusion Contest (DFC) - Flood Rapid Mapping, in collaboration with CNES and NASA. \[[link](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping)\]. Submission date: January 08, 2024 to May 25, 2024.
+- December 18<sup>th</sup>, 2023: journal paper "Remote Sensing Data Assimilation with a Chained Hydrological-hydraulic Model for Flooding" has been submitted to the La Houille Blanche (LHB): Hydroscience - official journal of the Société Hydrotechnique de France (SHF).
 - November 27<sup>th</sup> - December 1<sup>st</sup>, 2023: two **poster presentations at [HYDROSPACE 2023](https://www.hydrospace2023.org/)** conference in Lisbon <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
 - November 2023: the journal paper **“Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations” has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - November 15<sup>th</sup>, 2023: started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/). Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
