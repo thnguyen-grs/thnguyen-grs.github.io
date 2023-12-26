@@ -48,6 +48,7 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 14. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, R. Raynal, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Improving Flood Forecasting Capability With a Chained Hydrological-hydraulic Model and Remote Sensing Data Assimilation**, Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, 2023.
+\[[proceeding](https://www.shf-hydro.org/wp-content/uploads/2023/11/ColloqueSHFPrevi2023_Resumes-5.pdf)\]
 
 13. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, R. Rodriguez Suquet, S. Le Gac, F. Boy, C. Fatras, Q. Bonassies, M. Sadki, and S. Pena Luque, **Flood Forecast with Chained Hydrologic-Hydraulic Modeling and Data Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, Germany, 2023, pp. 39-47. <br>
 Handle: 20.500.11970/112849 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/112849/203_paper_TUC-2023_Nguyen_ThanhHuy.pdf)\]
