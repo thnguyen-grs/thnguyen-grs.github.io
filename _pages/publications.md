@@ -19,7 +19,12 @@ author_profile: true
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
-5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.* (Early Access) (IF=8.125) <br>
+
+7. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Magazine* (under review).
+
+6. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Remote Sensing Data Assimilation with a Chained Hydrological-hydraulic Model for Flooding**, *LHB: Hydroscience* (under review).
+
+5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.*, vol. 62, pp. 1-21, 2024, Art no. 4200521 (IF=8.125) <br>
 DOI: 10.1109/TGRS.2023.3338296
 \[[Publication](https://ieeexplore.ieee.org/document/10336771)\] \[[arXiv](https://arxiv.org/abs/2304.01058)\]
 
