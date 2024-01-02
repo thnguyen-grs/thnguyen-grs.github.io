@@ -92,7 +92,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
-21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023 \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
+21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
 
 20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
