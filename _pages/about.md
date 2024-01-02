@@ -41,6 +41,9 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 </p> -->
 
 ## Work timeline/News:
+
+<span style="color:red"><b>HAPPY NEW YEAR 2024</b></span>
+
 ### 2024
 - January 2024: four [IGARSS](https://www.2024.ieeeigarss.org/) abstract submissions (two first-authored), one [EGU](https://www.egu24.eu/) abstract submissions (first-authored)
 
@@ -49,7 +52,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 - December 18<sup>th</sup>, 2023: journal paper "Remote Sensing Data Assimilation with a Chained Hydrological-hydraulic Model for Flooding" has been submitted to the La Houille Blanche (LHB): Hydroscience - official journal of the Société Hydrotechnique de France (SHF).
 - November 27<sup>th</sup> - December 1<sup>st</sup>, 2023: two **poster presentations at [HYDROSPACE 2023](https://www.hydrospace2023.org/)** conference in Lisbon <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
 - November 2023: the journal paper **“Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations” has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
-- November 15<sup>th</sup>, 2023: started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/). Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
+- November 15<sup>th</sup>, 2023: **started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/).** Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">
 - October 2023: a co-authored contribution has been invited for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in San Francisco, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - September 2023: proposed a session entitled *"Improving Flood Forecasting and Impact Assessment using Heterogeneous Remote Sensing Data and Data Assimilation in Hydrodynamics"* at **[2023 EGU General Assembly](https://www.egu23.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">.
@@ -122,7 +125,7 @@ https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application de
 
 
 ### 2020
-- December 14<sup>th</sup> 2020: started working at [CERFACS](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working in the SCO-FloodDAM project. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
+- December 14<sup>th</sup> 2020: **started working at [CERFACS](https://cerfacs.fr/en/) funded by [CNES](https://cnes.fr/en/) (Toulouse, France), in the SCO-FloodDAM project.** Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - December 9<sup>th</sup> 2020: Ph.D. thesis final submission/deposit.
 - December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), and Dr. Frédéric Maussang (IMT Atlantique).
