@@ -90,13 +90,13 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 1. T. H. Nguyen, M. Chabah and C. Sintès, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
-## Communications (oral, poster)
+## Communications (oral, invited talk, poster)
 
 21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
 
-20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
-19. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+19. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
 18. **The Sco-flooddam Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments** (poster by R. Rodriguez Suquet), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2023_SHF_poster_FloodDAM-DT.pdf)\]
 
