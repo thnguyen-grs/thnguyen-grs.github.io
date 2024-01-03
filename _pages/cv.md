@@ -20,7 +20,7 @@ redirect_from:
 * Since Nov. 2023: Researcher at Luxembourg Institute of Science and Technology.
   * Team: [Environmental Sensing and Modelling (ENVISION)](https://www.list.lu/en/environment/environmental-sensing-and-modelling/)
   * Projects:
-	* GRASS (Gravimetry and radar Earth observation data assimilation into a hydrological model for improving drought prediction in Luxembourg and the Greater Region), FNR BRIDGE 2022-2024
+	* GRASS (Gravimetry and Radar Earth observation data ASSimilation into a hydrological model for improving drought prediction in Luxembourg and the Greater Region), FNR BRIDGE 2022-2024
 	* DestinEarth Luxembourg Proof-of-Concept for Management of Natural Disasters (a flooding use case), 12-month sub-project
     * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR 2024-2027
   * Involved in:
