@@ -125,7 +125,7 @@ https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application de
 
 
 ### 2020
-- December 14<sup>th</sup> 2020: **started working at [CERFACS](https://cerfacs.fr/en/) funded by [CNES](https://cnes.fr/en/) (Toulouse, France), in the SCO-FloodDAM project.** Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
+- December 14<sup>th</sup> 2020: **started working at [CERFACS](https://cerfacs.fr/en/)** funded by [CNES](https://cnes.fr/en/) (Toulouse, France), in the SCO-FloodDAM project. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - December 9<sup>th</sup> 2020: Ph.D. thesis final submission/deposit.
 - December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), and Dr. Frédéric Maussang (IMT Atlantique).
