@@ -98,7 +98,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 19. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
-18. **The Sco-flooddam Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments** (poster by R. Rodriguez Suquet), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2023_SHF_poster_FloodDAM-DT.pdf)\]
+18. **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments** (poster by R. Rodriguez Suquet), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2023_SHF_poster_FloodDAM-DT.pdf)\]
 
 17. **Implementation of the Chan-Vese Distance in an Ensemble Kalman Filter for the Assimilation of SAR Images as Front-type Data** (poster by Q. Bonassies, CERFACS), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/poster_SHF_v0.pdf)\]
 
