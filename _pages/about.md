@@ -42,10 +42,8 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ## Work timeline/News:
 
-<span style="color:red"><b>HAPPY NEW YEAR 2024</b></span>
-
 ### 2024
-- January 2024: four [IGARSS](https://www.2024.ieeeigarss.org/) abstract submissions (two first-authored), one [EGU](https://www.egu24.eu/) abstract submissions (first-authored)
+- January 2024: five [IGARSS](https://www.2024.ieeeigarss.org/) abstract submissions (two first-authored), two [EGU](https://www.egu24.eu/) abstract submissions (both first-authored)
 
 ### 2023
 - December 20<sup>th</sup>, 2023: announcing 2024 IEEE GRSS Data Fusion Contest (DFC) - Flood Rapid Mapping, in collaboration with CNES and NASA. \[[Link to the contest](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping)\]. Submission date: January 08, 2024 to May 25, 2024.
