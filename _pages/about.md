@@ -43,6 +43,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2024
+- January 2024: PhD opportunity at LIST, to start in Q1 2024 ([link](https://app.skeeled.com/offer/c/65a70a7006b1c84401abcd52?lang=en&show_description=true)).
 - January 2024: five [IGARSS](https://www.2024.ieeeigarss.org/) abstract submissions (two first-authored), two [EGU](https://www.egu24.eu/) abstract submissions (both first-authored)
 
 ### 2023
