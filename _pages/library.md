@@ -8,6 +8,7 @@ author_profile: true
 <!-- # Recommended library-->
 
 ## Remote Sensing:
+- Hajnsek, I., Desnos, Y. L., 2021. **Polarimetric synthetic aperture radar: principles and application**. Springer Nature.
 - Schumann, G., 2021. **Earth Observation for Flood Applications - Progress and Perspectives**. Elsevier.
 - Thenkabail Ph.D., Prasad S., 2015. **Remote Sensing of Water Resources, Disasters, and Urban Studies**. CRC Press.
 - Kraus, K., 2011. **Photogrammetry: geometry from images and laser scans**. Walter de Gruyter. Vancouver.

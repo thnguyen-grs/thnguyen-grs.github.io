@@ -41,10 +41,17 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 </p> -->
 
 ## Work timeline/News:
+
+### 2024
+- January 2024: PhD opportunity at LIST, to start in Q1 2024 ([link](https://app.skeeled.com/offer/c/65a70a7006b1c84401abcd52?lang=en&show_description=true)).
+- January 2024: five [IGARSS](https://www.2024.ieeeigarss.org/) abstract submissions (two first-authored), two [EGU](https://www.egu24.eu/) abstract submissions (both first-authored)
+
 ### 2023
+- December 20<sup>th</sup>, 2023: announcing 2024 IEEE GRSS Data Fusion Contest (DFC) - Flood Rapid Mapping, in collaboration with CNES and NASA. \[[Link to the contest](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping)\]. Submission date: January 08, 2024 to May 25, 2024.
+- December 18<sup>th</sup>, 2023: journal paper "Remote Sensing Data Assimilation with a Chained Hydrological-hydraulic Model for Flooding" has been submitted to the La Houille Blanche (LHB): Hydroscience - official journal of the Société Hydrotechnique de France (SHF).
 - November 27<sup>th</sup> - December 1<sup>st</sup>, 2023: two **poster presentations at [HYDROSPACE 2023](https://www.hydrospace2023.org/)** conference in Lisbon <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
 - November 2023: the journal paper **“Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations” has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
-- November 15<sup>th</sup>, 2023: started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/). Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
+- November 15<sup>th</sup>, 2023: **started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/).** Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
 - Travel: <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">
 - October 2023: a co-authored contribution has been invited for an oral presentation at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in San Francisco, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
 - September 2023: proposed a session entitled *"Improving Flood Forecasting and Impact Assessment using Heterogeneous Remote Sensing Data and Data Assimilation in Hydrodynamics"* at **[2023 EGU General Assembly](https://www.egu23.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">.
@@ -71,7 +78,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 - March 2023: an abstract “Comparisons and water level analyses using Sentinel-6MF satellite altimetry data with 1D Mascaret and 2D Telemac models” has been accepted for an oral presentation at [2022 EGU General Assembly](https://www.egu23.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
 - ~~February 2023: PhD opportunity at CERFACS, funded by CNES, to start in September/October 2023 ([link](https://recrutement.cnes.fr/en/annonce/2035549-23-135-flood-risk-assessment-and-estimation-of-socio-economic-impact-31400-toulouse)). Submission deadline: March 16, 2023.~~ *Position filled*
 - January 2021: journal paper "Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv](https://arxiv.org/abs/2304.01058)\].
-- January 2023: conference paper “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast - A Proof-of-concept” presented at [HIC 2022](https://hic2022.utcb.ro/) has been published in IOP Conference Series: Earth and Environmental Science. Proceeding can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
+- January 2023: paper “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast - A Proof-of-concept” presented at [HIC 2022](https://hic2022.utcb.ro/) has been published in IOP Conference Series: Earth and Environmental Science. Proceeding can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - January 2023: three [IGARSS](https://2023.ieeeigarss.org/) abstract submissions (two first-authored), one [EGU](https://www.egu23.eu/) abstract submissions (first-authored), and three [Colloque SHF](https://www.shf-hydro.org/colloques/prevision-des-crues-et-des-inondations-avancees-valorisation-et-perspectives/) (one first-authored) abstract submissions.
 
 ### 2022
@@ -117,7 +124,7 @@ https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application de
 
 
 ### 2020
-- December 14<sup>th</sup> 2020: started working at [CERFACS](https://cerfacs.fr/en/) partnered with [CNES](https://cnes.fr/en/) (Toulouse, France), working in the SCO-FloodDAM project. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
+- December 14<sup>th</sup> 2020: **started working at [CERFACS](https://cerfacs.fr/en/)** funded by [CNES](https://cnes.fr/en/) (Toulouse, France), in the SCO-FloodDAM project. Team Climate modeling and Global change ([GLOBC](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)), CNRS UMR 5318  Climate, Environment, Coupling, Uncertainties (CECI).
 - Travel: <img alt="Ca" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langfr-225px-Flag_of_Canada_%28Pantone%29.svg.png" style="background-color:transparent" width="20"> ⟶ <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - December 9<sup>th</sup> 2020: Ph.D. thesis final submission/deposit.
 - December 4<sup>th</sup> 2020: successful PhD thesis defense before the jury. The thesis jury is composed of Prof. Emer. Jean-Paul Haton (Univ. Lorraine), Prof. Jocelyn Chanussot (Grenoble INP), Prof. Denis Laurendeau (Univ. Laval), Prof. Sylvie Daniel (Univ. Laval), Prof. Jean-Marc Le Caillec (IMT Atlantique), and Dr. Frédéric Maussang (IMT Atlantique).

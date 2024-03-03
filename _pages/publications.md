@@ -19,7 +19,12 @@ author_profile: true
 <!-- <p><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80197156"></div></p> -->
 
 ## Refereed Journals
-5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.* (Early Access) (IF=8.125) <br>
+
+7. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.* (under review). 
+
+6. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Remote Sensing Data Assimilation with a Chained Hydrological-hydraulic Model for Flooding**, *LHB: Hydroscience* (under review).
+
+5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.*, vol. 62, pp. 1-21, 2024, Art no. 4200521 (IF=8.125) <br>
 DOI: 10.1109/TGRS.2023.3338296
 \[[Publication](https://ieeexplore.ieee.org/document/10336771)\] \[[arXiv](https://arxiv.org/abs/2304.01058)\]
 
@@ -43,33 +48,34 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 14. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, R. Raynal, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Improving Flood Forecasting Capability With a Chained Hydrological-hydraulic Model and Remote Sensing Data Assimilation**, Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, 2023.
+\[[proceeding](https://www.shf-hydro.org/wp-content/uploads/2023/11/ColloqueSHFPrevi2023_Resumes-5.pdf)\]
 
-13. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, R. Rodriguez Suquet, S. Le Gac, F. Boy, C. Fatras, Q. Bonassies, M. Sadki, and S. Pena Luque, **Flood Forecast with Chained Hydrologic-Hydraulic Modeling and Data Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, 2023. <br>
+13. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, R. Rodriguez Suquet, S. Le Gac, F. Boy, C. Fatras, Q. Bonassies, M. Sadki, and S. Pena Luque, **Flood Forecast with Chained Hydrologic-Hydraulic Modeling and Data Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, Germany, 2023, pp. 39-47. <br>
 Handle: 20.500.11970/112849 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/112849/203_paper_TUC-2023_Nguyen_ThanhHuy.pdf)\]
 
-12. Q. Bonassies, S. Ricci, T. H. Nguyen, A. Piacentini, M. Sadki, C. Fatras, A. Andral, S. Pena Luque, and R. Rodriguez Suquet, **Front Type Implementation for Flood Extent and Flood Modelling Image Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, 2023. <br>
+12. Q. Bonassies, S. Ricci, T. H. Nguyen, A. Piacentini, M. Sadki, C. Fatras, A. Andral, S. Pena Luque, and R. Rodriguez Suquet, **Front Type Implementation for Flood Extent and Flood Modelling Image Assimilation**, TELEMAC-MASCARET User Conference 2023, Karlshure, Germany, 2023, pp. 31-38. <br>
 Handle: 20.500.11970/112848 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/112848/202_paper_TUC-2023_Quentin_Bonassies.pdf)\] 
 
-11. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, T. Huang, **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. <br>
+11. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, T. Huang, **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1000-1003. <br>
 DOI: 10.1109/IGARSS52108.2023.10282907 \[[proceeding](https://ieeexplore.ieee.org/document/10282907)\]
 
-10. T. H. Nguyen, S. Ricci, A. Piacentini, Q. Bonassies, R. Rodriguez Suquet, S. Pena Luque, K. Marlis and C. H. David, **Reducing Uncertainties of a Chained Hydrologic-hydraulic Model to Improve Flood Forecasting Using Multi-source Earth Observation Data**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. <br>
+10. T. H. Nguyen, S. Ricci, A. Piacentini, Q. Bonassies, R. Rodriguez Suquet, S. Pena Luque, K. Marlis and C. H. David, **Reducing Uncertainties of a Chained Hydrologic-hydraulic Model to Improve Flood Forecasting Using Multi-source Earth Observation Data**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1525-1528. <br>
 DOI: 10.1109/IGARSS52108.2023.10282456 \[[proceeding](https://ieeexplore.ieee.org/document/10282456)\] \[[arXiv](https://arxiv.org/abs/2306.10059)\]
 
-9. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, and S. Pena Luque, **Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, 2023. <br>
+9. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, and S. Pena Luque, **Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1595-1598. <br>
 DOI: 10.1109/IGARSS52108.2023.10282744 \[[proceeding](https://ieeexplore.ieee.org/document/10282744)\] \[[arXiv](https://arxiv.org/abs/2306.08466)\]
 
 
 8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. <br>
 DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
 
-7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, 2022. <br>
+7. T. H. Nguyen, S. Ricci, A. Piacentini, R. Rodriguez Suquet, G. Blanchet, S. Pena Luque, and P. Kettig, **Enhancing Flood Forecasting with Dual State-Parameter Estimation and Ensemble-based SAR Data Assimilation**, TELEMAC-MASCARET User Conference 2022, Paris-Saclay, France, 2022, pp. 297-305. <br>
 Handle: 20.500.11970/110870 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/110870/297-305_TUC2022_Nguyen.pdf)\] \[[arXiv](https://arxiv.org/abs/2211.07272)\] 
 
-6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, 2021. <br>
+6. T. H. Nguyen, A. Delmotte, C. Fatras, P. Kettig, A. Piacentini and S. Ricci, **Validation and Improvement of Data Assimilation for Flood Hydrodynamic Modelling Using SAR Imagery Data**, TELEMAC-MASCARET User Conference 2021, Antwerp, Belgium, 2021, pp. 100-108. <br>
 Handle: 20.500.11970/108298 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/108298/14_Nguyen_TUC2020_year_2021.pdf)\] \[[arXiv](https://arxiv.org/abs/2109.07470)\] 
 
-5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, 2021, pp. 1464-1467. <br>
+5. P. Kettig, S. Baillarin, G. Blanchet, C. Taillan, S. Ricci, T. H. Nguyen, T. Huang, A. Altinok, N. T. Chung, G. Valladeau, R. Goeury and A. Roumagnac, **The SCO-FloodDAM Project : New Observing Strategies for Flood Detection, Alert and Rapid Mapping**, IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021, pp. 1464-1467. <br>
 DOI: 10.1109/IGARSS47720.2021.9553036 \[[proceeding](https://ieeexplore.ieee.org/document/9553036)\]
 
 
@@ -84,13 +90,17 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 1. T. H. Nguyen, M. Chabah and C. Sintès, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
-## Communications (oral, poster)
+## Communications (oral, invited talk, poster)
 
-19. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
+21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
 
-18. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
-17. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+19. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+
+18. **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments** (poster by R. Rodriguez Suquet), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2023_SHF_poster_FloodDAM-DT.pdf)\]
+
+17. **Implementation of the Chan-Vese Distance in an Ensemble Kalman Filter for the Assimilation of SAR Images as Front-type Data** (poster by Q. Bonassies, CERFACS), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/poster_SHF_v0.pdf)\]
 
 16. **Integrate new in-situ, air- and spaceborne data to improve river floods modeling** (poster by M. Sadki, CERFACS), TELEMAC-MASCARET User Conference 2023, Karlshure, October 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/Poster_TUC_MS_2023_Vfinal.pdf)\]
 
