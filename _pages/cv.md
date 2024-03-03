@@ -22,7 +22,7 @@ redirect_from:
   * Project:
     * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR 2024-2027
   * Involved in:
-    * FloodDAM-DigitalTwin and IDEAS
+    * [FloodDAM-DigitalTwin](https://www.spaceclimateobservatory.org/flooddam-dt) and [IDEAS](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/)
     * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
     * R&T Hydrocompatible, funded by CNES
 * Dec. 2020 - Nov. 2023: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
