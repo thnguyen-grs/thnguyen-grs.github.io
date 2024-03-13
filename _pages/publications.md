@@ -92,6 +92,10 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
+23. **Merits of Data Assimilation on Improving Flood Forecasting - A case study of Ohio Cannelton-Newburgh** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2024 EGU General Assembly, Vienna, April 2024. \[[Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-17653.html)\]
+
+22. **Towards Digital Twin in Global Flood Forecasting - A Proof-of-Concept in Severn catchment and Alzette catchment** (poster), session *Real-time Flood Forecasting and Early Warning Systems: Data Analytics, Modelling, and Applications*, 2024 EGU General Assembly, Vienna, April 2024. \[[Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-16534.html)\]
+
 21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
 
 20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
@@ -110,7 +114,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 13. **On the Merits of Earth Observation Data for Hydrology and Flood Forecasting With Hydrodynamic Models** (talk), Séminaire Inter-Organismes Hydrologie Spatiale (organiser: CNES & Theia/Data Terra), Montpellier, May 2023.
 
-12. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2022 EGU General Assembly, Vienna, April 2023. \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
+12. **Comparisons and Water Level Analyses Using Sentinel-6MF Satellite Altimetry Data With Hydraulic Models** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2023 EGU General Assembly, Vienna, April 2023. \[[Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6513.html)\]
 
 11. **Leveraging Sentinel-6MF Altimetry Data for Flood Forecasting** (talk), GLOBC CLUC seminar, CERFACS (Toulouse), April 2023
 
