@@ -22,7 +22,8 @@ redirect_from:
   * Projects:
 	* GRASS (Gravimetry and Radar Earth observation data ASSimilation into a hydrological model for improving drought prediction in Luxembourg and the Greater Region), FNR BRIDGE 2022-2024
 	* DestinEarth Luxembourg Proof-of-Concept for Management of Natural Disasters (a flooding use case), 12-month sub-project
-    * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR 2024-2027
+  * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR 2024-2027
+  * HERON
   * Involved in:
     * [FloodDAM-DigitalTwin](https://www.spaceclimateobservatory.org/flooddam-dt) and [IDEAS](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/)
     * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
