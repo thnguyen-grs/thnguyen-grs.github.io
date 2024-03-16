@@ -43,8 +43,15 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2024
+- March 2024: five abstracts have been accepted for presentations (4 orals, 1 poster) at [IEEE IGARSS 2023](https://2023.ieeeigarss.org/) in Athens, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">
+  - Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept (first-authored), 
+  - Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam (co-first authored),
+  - Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data (co-first authored),
+  - On the Integration of the Chan-Vese Distance Within an Ensemble Transform Kalman Filter for SAR Image Data Assimilation and Flood Modelling (co-authored),
+  - The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment (co-authored).
 - January 2024: PhD opportunity at LIST, to start in Q1 2024 ([link](https://app.skeeled.com/offer/c/65a70a7006b1c84401abcd52?lang=en&show_description=true)).
 - January 2024: five [IGARSS](https://www.2024.ieeeigarss.org/) abstract submissions (two first-authored), two [EGU](https://www.egu24.eu/) abstract submissions (both first-authored)
+
 
 ### 2023
 - December 20<sup>th</sup>, 2023: announcing 2024 IEEE GRSS Data Fusion Contest (DFC) - Flood Rapid Mapping, in collaboration with CNES and NASA. \[[Link to the contest](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping)\]. Submission date: January 08, 2024 to May 25, 2024.
