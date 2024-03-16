@@ -43,12 +43,15 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2024
-- March 2024: five abstracts have been accepted for presentations (4 orals, 1 poster) at [IEEE IGARSS 2023](https://2023.ieeeigarss.org/) in Athens, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">
+- March 2024: five abstracts have been accepted for presentations (4 orals, 1 poster) at [IEEE IGARSS 2024](https://www.2024.ieeeigarss.org/) in Athens, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">
   - Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept (first-authored), 
   - Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam (co-first authored),
   - Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data (co-first authored),
   - On the Integration of the Chan-Vese Distance Within an Ensemble Transform Kalman Filter for SAR Image Data Assimilation and Flood Modelling (co-authored),
   - The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment (co-authored).
+- February 2024: two abstracts have been accepted for presentations (1 oral, 1 poster) at [2024 EGU General Assembly](https://www.egu24.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
+  - Towards Digital Twin in Global Flood Forecasting - A Proof-of-Concept in Severn Catchment and Alzette Catchment 
+  - Merits of Data Assimilation on Improving Flood Forecasting - A case study of Ohio Cannelton-Newburgh 
 - January 2024: PhD opportunity at LIST, to start in Q1 2024 ([link](https://app.skeeled.com/offer/c/65a70a7006b1c84401abcd52?lang=en&show_description=true)).
 - January 2024: five [IGARSS](https://www.2024.ieeeigarss.org/) abstract submissions (two first-authored), two [EGU](https://www.egu24.eu/) abstract submissions (both first-authored)
 
@@ -76,13 +79,13 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
   - Improving Flood Forecasting Capability With a Chained Hydrological-hydraulic Model and Remote Sensing Data Assimilation (first-authored, oral),
   - SAR Data Assimilation as Front-like Data for Flood Prediction (co-authored, poster),
   - The SCO-FLOODDAM Project: Towards a Digital Twin for Flood Detection,Prediction and Flood Risk Assessments (co-authored, poster).
-- April 22<sup>nd</sup> - 28<sup>th</sup>, 2023: **oral presentation at [2022 EGU General Assembly](https://www.egu23.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
+- April 22<sup>nd</sup> - 28<sup>th</sup>, 2023: **oral presentation at [2023 EGU General Assembly](https://www.egu23.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
 - April 19<sup>th</sup>, 2023: CLUC talk at GLOBC seminar
 - April 2023: three abstracts have been accepted for oral presentations at [IEEE IGARSS 2023](https://2023.ieeeigarss.org/) in Pasadena, CA <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
   - Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement (first-authored),
   - Reducing Uncertainties of a Chained Hydrologic-hydraulic Models to Improve Flood Extent Representation Using Multi-source Earth Observation Data (first-authored),
   - The SCO-FLOODDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments (co-authored).
-- March 2023: an abstract “Comparisons and water level analyses using Sentinel-6MF satellite altimetry data with 1D Mascaret and 2D Telemac models” has been accepted for an oral presentation at [2022 EGU General Assembly](https://www.egu23.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
+- March 2023: an abstract “Comparisons and water level analyses using Sentinel-6MF satellite altimetry data with 1D Mascaret and 2D Telemac models” has been accepted for an oral presentation at [2023 EGU General Assembly](https://www.egu23.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
 - ~~February 2023: PhD opportunity at CERFACS, funded by CNES, to start in September/October 2023 ([link](https://recrutement.cnes.fr/en/annonce/2035549-23-135-flood-risk-assessment-and-estimation-of-socio-economic-impact-31400-toulouse)). Submission deadline: March 16, 2023.~~ *Position filled*
 - January 2021: journal paper "Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations" has been submitted to the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). Preprint can be found at \[[arXiv](https://arxiv.org/abs/2304.01058)\].
 - January 2023: paper “Assimilation of SAR-Derived Flood Observations for Improving Fluvial Flood Forecast - A Proof-of-concept” presented at [HIC 2022](https://hic2022.utcb.ro/) has been published in IOP Conference Series: Earth and Environmental Science. Proceeding can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
