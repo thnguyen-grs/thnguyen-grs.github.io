@@ -49,7 +49,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
   - Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data (co-first authored),
   - On the Integration of the Chan-Vese Distance Within an Ensemble Transform Kalman Filter for SAR Image Data Assimilation and Flood Modelling (co-authored),
   - The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment (co-authored).
-- February 2024: two abstracts have been accepted for presentations (1 oral, 1 poster) at [2024 EGU General Assembly](https://www.egu24.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
+- March 2024: two abstracts have been accepted for presentations (1 oral, 1 poster) at [2024 EGU General Assembly](https://www.egu24.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
   - Towards Digital Twin in Global Flood Forecasting - A Proof-of-Concept in Severn Catchment and Alzette Catchment 
   - Merits of Data Assimilation on Improving Flood Forecasting - A case study of Ohio Cannelton-Newburgh 
 - January 2024: PhD opportunity at LIST, to start in Q1 2024 ([link](https://app.skeeled.com/offer/c/65a70a7006b1c84401abcd52?lang=en&show_description=true)).
