@@ -48,9 +48,9 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 
-19. T. H. Nguyen, S. Ricci, A. Piacentini, C. Emery, R. Rodriguez Suquet, and S. Pena Luque, **Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
+19. T. H. Nguyen, S. Ricci, A. Piacentini, C. Emery, R. Rodriguez Suquet, and S. Pena Luque, **Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024. \[[arXiv](https://arxiv.org/abs/2403.14394)\]
 
-18. T. H. Nguyen, T.-V. La, P. Matgen, and M. Chini, **Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
+18. T. H. Nguyen, T.-V. La, P. Matgen, and M. Chini, **Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024. \[[arXiv](https://arxiv.org/abs/2403.14395)\]
 
 17. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
 
