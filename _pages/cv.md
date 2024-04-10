@@ -17,17 +17,18 @@ redirect_from:
 * Ph.D. in Signal-Image-Vision, IMT Atlantique, 2020
 
 ## Work experience
-* Since Nov. 2023: Researcher at Luxembourg Institute of Science and Technology.
-  * Team: [Environmental Sensing and Modelling (ENVISION)](https://www.list.lu/en/environment/environmental-sensing-and-modelling/)
+* Since Nov. 2023: Researcher at **Luxembourg Institute of Science and Technology**.
+  * Team: [ERIN](https://www.list.lu/en/environment/)/[Environmental Sensing and Modelling (ENVISION)](https://www.list.lu/en/environment/environmental-sensing-and-modelling/)
   * Projects:
 	* GRASS (Gravimetry and Radar Earth observation data ASSimilation into a hydrological model for improving drought prediction in Luxembourg and the Greater Region), FNR BRIDGE 2022-2024
-	* DestinEarth Luxembourg Proof-of-Concept for Management of Natural Disasters (a flooding use case), 12-month sub-project
-  * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR 2024-2027
-  * HERON
+    * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR INTER 2024-2027
+    * HERON
   * Involved in:
     * [FloodDAM-DigitalTwin](https://www.spaceclimateobservatory.org/flooddam-dt) and [IDEAS](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/)
     * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
-    * R&T Hydrocompatible, funded by CNES
+    * R&T Hydrocompatible, funded by CNES, 2024-2025
+  * Finished projects:
+  	* DestinE_LU, DestinEarth Luxembourg Proof-of-Concept for Management of Natural Disasters (a flooding use case), 2023-2024
 * Dec. 2020 - Nov. 2023: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
   * Team: [ Climate Modeling and Global Change (GLOBC)](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)
   * Projects: 
