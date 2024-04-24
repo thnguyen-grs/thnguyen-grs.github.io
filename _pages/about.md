@@ -43,11 +43,10 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2024
-- March 2024: five abstracts have been accepted for presentations (4 orals, 1 poster) at [IEEE IGARSS 2024](https://www.2024.ieeeigarss.org/) in Athens, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">
+- March 2024: four abstracts have been accepted for presentations (3 orals, 1 poster) at [IEEE IGARSS 2024](https://www.2024.ieeeigarss.org/) in Athens, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">
   - Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept (first-authored), 
   - Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam (co-first authored),
   - Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data (co-first authored),
-  - On the Integration of the Chan-Vese Distance Within an Ensemble Transform Kalman Filter for SAR Image Data Assimilation and Flood Modelling (co-authored),
   - The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment (co-authored).
 - March 2024: two abstracts have been accepted for presentations (1 oral, 1 poster) at [2024 EGU General Assembly](https://www.egu24.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
   - Towards Digital Twin in Global Flood Forecasting - A Proof-of-Concept in Severn Catchment and Alzette Catchment 
