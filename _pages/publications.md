@@ -20,11 +20,11 @@ author_profile: true
 
 ## Refereed Journals
 
-8. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *Remote Sens. Environ.* (under review). 
+8. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *Remote Sens. Environ.* (under review). 
 
-7. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
+7. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
-6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.* (accepted). 
+6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.* (accepted). 
 
 5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.*, vol. 62, pp. 1-21, 2024, Art no. 4200521 (IF=8.125) <br>
 DOI: 10.1109/TGRS.2023.3338296
@@ -56,7 +56,7 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 16. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
  
-15. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, T. Huang, **The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
+15. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, and T. Huang, **The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
 
 14. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, R. Raynal, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Improving Flood Forecasting Capability With a Chained Hydrological-hydraulic Model and Remote Sensing Data Assimilation**, Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, 2023.
 \[[proceeding](https://www.shf-hydro.org/wp-content/uploads/2023/11/ColloqueSHFPrevi2023_Resumes-5.pdf)\]
