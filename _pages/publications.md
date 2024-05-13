@@ -20,7 +20,7 @@ author_profile: true
 
 ## Refereed Journals
 
-8. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *Remote Sens. Environ.* (under review). 
+8. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *Hydrol. Earth Syst. Sci.* (under review). 
 
 7. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
