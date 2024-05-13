@@ -43,6 +43,8 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2024
+- May 4<sup>th</sup>, 2024: journal paper "Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data" has been submitted to the Hydrology and Earth System Sciences.
+- April 30<sup>th</sup>, 2024: journal paper "Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting" has been submitted to the IEEE JSTARS. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/). 
 - March 2024: four abstracts have been accepted for presentations (3 orals, 1 poster) at [IEEE IGARSS 2024](https://www.2024.ieeeigarss.org/) in Athens, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">
   - Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept (first-authored), 
   - Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam (co-first authored),
@@ -57,7 +59,6 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ### 2023
 - December 20<sup>th</sup>, 2023: announcing 2024 IEEE GRSS Data Fusion Contest (DFC) - Flood Rapid Mapping, in collaboration with CNES and NASA. \[[Link to the contest](https://ieee-dataport.org/competitions/2024-ieee-grss-data-fusion-contest-flood-rapid-mapping)\]. Submission date: January 08, 2024 to May 25, 2024.
-- December 18<sup>th</sup>, 2023: journal paper "Remote Sensing Data Assimilation with a Chained Hydrological-hydraulic Model for Flooding" has been submitted to the La Houille Blanche (LHB): Hydroscience - official journal of the Société Hydrotechnique de France (SHF).
 - November 27<sup>th</sup> - December 1<sup>st</sup>, 2023: two **poster presentations at [HYDROSPACE 2023](https://www.hydrospace2023.org/)** conference in Lisbon <img alt="It" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="20">
 - November 2023: the journal paper **“Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations” has been accepted for publication in the IEEE TGRS**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - November 15<sup>th</sup>, 2023: **started working at [LIST](https://www.list.lu/en/environment/environmental-sensing-and-modelling/group/remote-sensing-and-natural-resources-modelling-group/).** Environmental Research and Innovation (ERIN) department, Environmental Sensing and Modelling (ENVISION) research unit.
