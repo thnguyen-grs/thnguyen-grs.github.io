@@ -7,6 +7,9 @@ author_profile: true
 
 Sometimes a good video is worth bookmarked, am I right? Popular daily music videos excluded.
 
+## 2024
+- June: [My "I can't believe it's been 10 years" playlist](https://www.youtube.com/watch?v=pB-5XG-DbAA&list=PLKVgIeXrZOAOw2IgxB-G1LQSAqdMnqxUH)
+
 ## 2023
 - December: [My Xmas playlist](https://www.youtube.com/watch?v=AaQGLvOQUrs&list=PLKVgIeXrZOAOAVgMy6lCZuMSp9uFfzz5K)
 - November: [Best Chandler Moments (Mashup)](https://www.youtube.com/watch?v=E72wnbus4aE)
