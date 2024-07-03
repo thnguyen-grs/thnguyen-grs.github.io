@@ -24,7 +24,9 @@ author_profile: true
 
 7. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
-6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.* (accepted). 
+6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.*, vol. 12, no. 2, pp. 109-112, 2024 (IF=16.2) <br>
+DOI: 10.1109/MGRS.2024.3367006
+\[[Publication](https://ieeexplore.ieee.org/document/10582794)\]
 
 5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.*, vol. 62, pp. 1-21, 2024, Art no. 4200521 (IF=8.125) <br>
 DOI: 10.1109/TGRS.2023.3338296
