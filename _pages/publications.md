@@ -106,11 +106,13 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
+24. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (invited talk, given by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/prelim.cgi/Paper/1634621)\] 
+
 23. **Merits of Data Assimilation on Improving Flood Forecasting - A case study of Ohio Cannelton-Newburgh** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2024 EGU General Assembly, Vienna, April 2024. \[[Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-17653.html)\]
 
 22. **Towards Digital Twin in Global Flood Forecasting - A Proof-of-Concept in Severn catchment and Alzette catchment** (poster), session *Real-time Flood Forecasting and Early Warning Systems: Data Analytics, Modelling, and Applications*, 2024 EGU General Assembly, Vienna, April 2024. \[[Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-16534.html)\]
 
-21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk by T. Huang NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
+21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk, given by T. Huang, NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
 
 20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
