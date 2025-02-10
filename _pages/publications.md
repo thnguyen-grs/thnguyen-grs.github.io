@@ -53,13 +53,17 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 
-18. T. H. Nguyen, S. Ricci, A. Piacentini, C. Emery, R. Rodriguez Suquet, and S. Pena Luque, **Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024. \[[arXiv](https://arxiv.org/abs/2403.14394)\]
+18. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 1892-1895. <br>
+DOI: 10.1109/IGARSS53475.2024.10640487 \[[proceeding](https://ieeexplore.ieee.org/document/10640487)\] 
 
-17. T. H. Nguyen, T.-V. La, P. Matgen, and M. Chini, **Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024. \[[arXiv](https://arxiv.org/abs/2403.14395)\]
+17. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, and T. Huang, **The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 2009-2012. <br>
+DOI: 10.1109/IGARSS53475.2024.10640907 \[[proceeding](https://ieeexplore.ieee.org/document/10640907)\]
 
-16. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
- 
-15. R. Rodriguez Suquet, F. Bretar, P. Kettig, G. Blanchet, S. Ricci, T. H. Nguyen, Q. Bonassies, A. Piacentini, C. Fatras, E. Lavergne, S. Brunato, V. Gaudissart, E. Guzzonato, A. Froidevaux, A. Guiot, G. Valladeau, J.-C. Poisson, and T. Huang, **The SCO-FLOODDAM Project: A Pre-operational Demonstrator for Flood Detection, Mapping, Prediction and Risk Impact Assessment**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024.
+16. T. H. Nguyen, S. Ricci, A. Piacentini, C. Emery, R. Rodriguez Suquet, and S. Pena Luque, **Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis - A Proof-of-Concept**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 3163-3167. <br>
+DOI: 10.1109/IGARSS53475.2024.10641805 \[[proceeding](https://ieeexplore.ieee.org/document/10641805)\] \[[arXiv](https://arxiv.org/abs/2403.14394)\]
+
+15. T. H. Nguyen, T.-V. La, P. Matgen, and M. Chini, **Early Flood Warning Using Satellite-derived Convective System and Precipitation Data - A Retrospective Case Study of Central Vietnam**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 3752-3756. <br>
+DOI: 10.1109/IGARSS53475.2024.10642492 \[[proceeding](https://ieeexplore.ieee.org/document/10642492)\] \[[arXiv](https://arxiv.org/abs/2403.14395)\]
 
 14. T. H. Nguyen, A. Piacentini, S. Munier, S. Ricci, S. Pena Luque, R. Rodriguez Suquet, Q. Bonassies, C. Fatras, E. Lavergne, A. Andral, S. Brunato, V. Gaudissart, E. Guzzonatto, G. Valladeau, J.-C. Poisson, A. Froidevaux, A. Guiot, R. Raynal, T.-L. Huynh, T. Huang, P. Kettig, G. Blanchet, F. Bretar, **Improving Flood Forecasting Capability With a Chained Hydrological-hydraulic Model and Remote Sensing Data Assimilation**, Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, 2023.
 \[[proceeding](https://www.shf-hydro.org/wp-content/uploads/2023/11/ColloqueSHFPrevi2023_Resumes-5.pdf)\]
