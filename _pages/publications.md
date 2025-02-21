@@ -110,7 +110,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
-24. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (invited talk, given by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/prelim.cgi/Paper/1634621)\] 
+24. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (invited talk, given by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
 
 23. **Merits of Data Assimilation on Improving Flood Forecasting - A case study of Ohio Cannelton-Newburgh** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2024 EGU General Assembly, Vienna, April 2024. \[[Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-17653.html)\]
 
