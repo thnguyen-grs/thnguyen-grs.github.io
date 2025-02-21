@@ -43,6 +43,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2024
+- October 2024: PhD opportunity at INRIA (in collaboration with LIST, CERFACS and other), to start in Q1 2025 ([link](https://jobs.inria.fr/public/classic/en/offres/2024-07667)).
 - September 9<sup>th</sup> - 13<sup>th</sup>, 2024: I am invited to give a talk at [4th Vietnam School of Earth Observation (VSEO-4)](https://www.icisequynhon.com/conferences/2024/VSEO4/overview.html) in Quy Nhon, Vietnam <img alt="Vn" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20">.
 - July 15<sup>th</sup>, 2024: journal paper "Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data" has been submitted to the Journal of Hydrology. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - July 8<sup>th</sup> - 12<sup>th</sup>, 2024: **oral presentations at [IEEE IGARSS 2024](https://www.2024.ieeeigarss.org/)** in Athens, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">
