@@ -23,7 +23,7 @@ author_profile: true
 8. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.* (under review).
 \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.4902901)\] 
 
-7. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
+7. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
 6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.*, vol. 12, no. 2, pp. 109-112, 2024 (IF=16.2) <br>
 DOI: 10.1109/MGRS.2024.3367006
@@ -33,7 +33,7 @@ DOI: 10.1109/MGRS.2024.3367006
 DOI: 10.1109/TGRS.2023.3338296
 \[[Publication](https://ieeexplore.ieee.org/document/10336771)\] \[[arXiv](https://arxiv.org/abs/2304.01058)\]
 
-4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, *Water Resources Research*, 58, e2022WR033155, 2022 (IF=6.159)<br>
+4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, *Water Resour. Res.*, 58, e2022WR033155, 2022 (IF=6.159)<br>
 DOI: 10.1029/2022WR033155
 \[[Publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033155)\] \[[ESS Open Archive](https://essopenarchive.org/doi/full/10.1002/essoar.10511831.1)\]
 
