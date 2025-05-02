@@ -21,7 +21,6 @@ author_profile: true
 ## Refereed Journals
 10. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment** (in preparation)  \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
-
 9. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
 8. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.* (under review).
@@ -114,7 +113,9 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
-24. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (invited talk, given by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
+25. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. 
+
+24. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (talk, given by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
 
 23. **Merits of Data Assimilation on Improving Flood Forecasting - A case study of Ohio Cannelton-Newburgh** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2024 EGU General Assembly, Vienna, April 2024. \[[Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-17653.html)\]
 
@@ -126,7 +127,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 19. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
-18. **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments** (poster by R. Rodriguez Suquet), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2023_SHF_poster_FloodDAM-DT.pdf)\]
+18. **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments** (poster by R. Rodriguez Suquet, CNES), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2023_SHF_poster_FloodDAM-DT.pdf)\]
 
 17. **Implementation of the Chan-Vese Distance in an Ensemble Kalman Filter for the Assimilation of SAR Images as Front-type Data** (poster by Q. Bonassies, CERFACS), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/poster_SHF_v0.pdf)\]
 
