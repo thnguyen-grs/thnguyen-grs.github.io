@@ -44,7 +44,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ### 2025
 - April 30<sup>th</sup>, 2024: journal paper "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS). The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
-- April 2025: co-authored contribution “Assimilation of SAR-Derived Flood Maps for Improving Fluvial Flood Forecast” has been accepted for a poster presentation at [ESA Living Planet Symposium 2025](https://lps25.esa.int/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
+- April 2025: co-authored contribution “Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept” has been accepted for a poster presentation at [ESA Living Planet Symposium 2025](https://lps25.esa.int/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
 
 ### 2024
 - December 2024: a co-authored contribution has been presented at [AGU Fall Meeting](https://www.agu.org/Fall-Meeting) in Washington, D.C. <img alt="US" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="20">
