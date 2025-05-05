@@ -113,9 +113,11 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
-25. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. 
+26. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. 
 
-24. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (talk, given by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
+25. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (poster by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
+
+24. **Hydraulic retrievals from Data assimilation: River Observation with SWOT** (talk, given by H. Oubanas, INRAE/G-EAU), 2024 SWOT Science Team Meeting, Chapel Hill, NC, June 2024.
 
 23. **Merits of Data Assimilation on Improving Flood Forecasting - A case study of Ohio Cannelton-Newburgh** (talk), session *Water Level, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2024 EGU General Assembly, Vienna, April 2024. \[[Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-17653.html)\]
 
