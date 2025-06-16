@@ -24,16 +24,16 @@ redirect_from:
 	* SURE (Smart Urban Resilience Enhancement), Urban DTC, ESA-DTE-B-02 EARLY DTCS DEVELOPMENT ACTIONS 2024-2025
     * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR INTER 2024-2027
     * HERON (Satellite Earth Observation-based technologies supporting community-initiated disaster risk reduction in Bangladesh), FNR LuxAid BRIDGES 2024-2027
-	* EWERS
+	* EWERS (Global Early Warning and Effective Response System), UNHCR-LIST Collaboration 2024-2025
   * Involved in:
     * [FloodDAM-DigitalTwin](https://www.spaceclimateobservatory.org/flooddam-dt) and [IDEAS](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/)
     * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
     * R&T MNT Hydrocompatible, funded by CNES, 2024-2025
-	* CHamelEOn
+	* CHamelEOn, funded by ESA, 2023-2025
 	* CopLAC (Copernicus Latin America and the Caribbean), funded by ESA, 2024-2028
   * Finished projects:
   	* GRASS (Gravimetry and Radar Earth observation data ASSimilation into a hydrological model for improving drought prediction in Luxembourg and the Greater Region), FNR BRIDGES 2022-2024
-  	* DestinE_LU, DestinEarth Luxembourg Proof-of-Concept for Management of Natural Disasters (a flooding use case), 2023-2024
+  	* DestinE_LU, DestinEarth Luxembourg Proof-of-Concept for Management of Natural Disasters (a flooding use case), LSA/ESA LuxIMPULSE 2023-2024
 * Dec. 2020 - Nov. 2023: Researcher at **CNRS UMR 5318 CECI/CERFACS**, funded by **CNES** (French Space Agency)
   * Team: [Climate Modeling and Global Change (GLOBC)](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/)
   * Projects: 
