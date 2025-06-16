@@ -113,7 +113,7 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
-26. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. 
+26. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. \[[Abstract](https://lps25.esa.int/programme/programme-session/?id=0D8BF424-9842-41BD-B3C9-5885318CEF8A&presentationId=3ABFCE4A-F6B2-44B0-B760-63BA2E2C1C38)\] 
 
 25. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (poster by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
 
@@ -125,9 +125,9 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
 
 21. **An Open-Source Framework for Federation of Earth System Digital Twins** (invited talk, given by T. Huang, NASA/JPL), session *Earth System Digital Twins: Prototypes and Federations I Oral*, AGU Fall Meeting 2023, San Francisco, CA, December 2023. \[[Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1284819)\] 
 
-20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+20. **Assimilating SWOT Altimetry & Sentinel-1 Flood Extent for Flood Forecasting - A Proof-of-Concept** (poster), HYDROSPACE 2023, Lisbon, November 2023.  \[[Abstract](https://airdrive.eventsair.com/eventsairwesteuprod/production-nikal-public/92b518bd00e54cb1a19d5cbaf05cf4a2)\]  \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/116-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
-19. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
+19. **Combining Sentinel-1 Flood Extent & Sentinel-6 Altimetry for Flood Forecasting** (poster), HYDROSPACE 2023, Lisbon, November 2023. \[[Abstract](https://airdrive.eventsair.com/eventsairwesteuprod/production-nikal-public/92b518bd00e54cb1a19d5cbaf05cf4a2)\]  \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/81-Poster-THNguyen-HYDROSPACE2023.pdf)\]
 
 18. **The SCO-FloodDAM Project: Towards a Digital Twin for Flood Detection, Prediction and Flood Risk Assessments** (poster by R. Rodriguez Suquet, CNES), Colloque SHF “Prévision des crues et des inondations – Avancées, valorisation et perspectives”, Toulouse, November 2023. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/2023_SHF_poster_FloodDAM-DT.pdf)\]
 
