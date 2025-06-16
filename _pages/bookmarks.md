@@ -53,6 +53,7 @@ redirect_from:
 - [SpaceNet-8 Flood Detection Challenge Using Multiclass Segmentation](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Hansch_SpaceNet_8_-_The_Detection_of_Flooded_Roads_and_Buildings_CVPRW_2022_paper.pdf)
 
 ## Things that I found interesting and bookmarked in every aspects of life, sometimes just for fun:
+- [Nadal talks BIG THREE RIVALRY](https://www.youtube.com/watch?v=fMBaJtc7H6g)
 - [Cosmic Ray Neutron Sensor (CRNS): From Cosmic Rays to Soil Moisture (IAEA)](https://www.iaea.org/newscenter/multimedia/videos/cosmic-ray-neutron-sensor-crns-from-cosmic-rays-to-soil-moisture)
 - [Solskjaer Reveals All On Haaland, Ronaldo & United Exit - Stick to Football EP 22](https://www.youtube.com/watch?v=4jpwbYwOfg4)
 - [Playing Lt. Dan in 'Forrest Gump' Changed Gary Sinise's Destiny](https://www.youtube.com/watch?v=3bbTOjBi7nA)
