@@ -20,9 +20,9 @@ redirect_from:
 * Since Nov. 2023: Researcher at **Luxembourg Institute of Science and Technology**.
   * Team: [ERIN](https://www.list.lu/en/environment/)/[Environmental Sensing and Modelling (ENVISION)](https://www.list.lu/en/environment/environmental-sensing-and-modelling/)
   * Projects:
-    * Coastal processes and extremes, Coastal DTC, ESA-DTE-B-01 LEAD DTCS DEVELOPMENT ACTIONS 2024-2026
+    * [Coastal processes and extremes](https://argans.github.io/WEB-coastaldte.argans.co.uk), Coastal DTC, ESA-DTE-B-01 LEAD DTCS DEVELOPMENT ACTIONS 2024-2026
 	* SURE (Smart Urban Resilience Enhancement), Urban DTC, ESA-DTE-B-02 EARLY DTCS DEVELOPMENT ACTIONS 2024-2025
-    * SWIFT (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR INTER 2024-2027
+    * [SWIFT](https://anr.fr/Projet-ANR-23-CE56-0009) (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR INTER 2024-2027
     * HERON (Satellite Earth Observation-based technologies supporting community-initiated disaster risk reduction in Bangladesh), FNR LuxAid BRIDGES 2024-2027
 	* EWERS (Global Early Warning and Effective Response System), UNHCR-LIST Collaboration 2024-2025
   * Involved in:
