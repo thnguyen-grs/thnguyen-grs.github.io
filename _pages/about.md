@@ -40,11 +40,19 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 - Job types: Full-time<br>
 </p> -->
 
+
 ## Work timeline/News:
 
 ### 2025
+- August 2025: a co-authored contribution “Merits of hydrology remote sensing data from Pléiades and Sentinel-1 for fluvial flood forecasting using 2D hydrodynamic modeling with data assimilation” has been submitted to the [13th International Conference on Fluvial Hydraulics (River Flow 2026)](https://riverflow2026.web.auth.gr/) in Thessaloniki, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">.
+- July 2025: a co-authored contribution “Floodplain simulation with topographic data from satellite remote sensing” has been accepted for an oral presentation 2025 TELEMAC User Conference (TUC2025) in Menai Bridge, Wales <img alt="Wales" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/250px-Flag_of_Wales.svg.png" style="background-color:transparent" width="20">.
+- June 2025: two co-authored contributions have been accepted for oral/poster presentations at the [2025 SWOT Science Team Meeting (SWOT2025)](https://swot2025.org/) in Arcachon <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
+  - Assimilation of SWOT nodes products into basin-scale hydraulic models, 
+  - A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction
+- July 2025: the journal paper **“Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data” has been accepted for publication in the Journal of Hydrology**. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
+- July 16<sup>th</sup>, 2025: journal paper "A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction" has been submitted to the Remote Sensing of Environment. The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - June 23<sup>rd</sup>-27<sup>th</sup>, 2025: attendee at [ESA Living Planet Symposium 2025](https://lps25.esa.int/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
-- April 30<sup>th</sup>, 2024: journal paper "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS). The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
+- April 30<sup>th</sup>, 2025: journal paper "Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data" has been submitted to the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS). The preprint version can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - April 2025: co-authored contribution “Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept” has been accepted for a poster presentation at [ESA Living Planet Symposium 2025](https://lps25.esa.int/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2880px-Flag_of_Austria.svg.png" width="20">
 
 ### 2024
