@@ -26,10 +26,10 @@ author_profile: true
 
 9. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
-8. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.* ([accepted](https://authors.elsevier.com/tracking/article/details.do?aid=134013&jid=HYDROL&surname=Nguyen)).
-\[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.4902901)\] 
+8. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
-7. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
+7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.* ([accepted](https://authors.elsevier.com/tracking/article/details.do?aid=134013&jid=HYDROL&surname=Nguyen)).
+\[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.4902901)\] 
 
 6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.*, vol. 12, no. 2, pp. 109-112, 2024 (IF=16.2) <br>
 DOI: 10.1109/MGRS.2024.3367006
@@ -58,6 +58,11 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 
 ## Conference Papers (with proceedings)
+
+20.
+
+19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from
+satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025, pp. NN-NN. <br>
 
 18. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 1892-1895. <br>
 DOI: 10.1109/IGARSS53475.2024.10640487 \[[proceeding](https://ieeexplore.ieee.org/document/10640487)\] 
@@ -115,6 +120,10 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, invited talk, poster)
+
+28. **Assimilation of SWOT Nodes Products into Basin-scale Hydraulic Models**, 2025 SWOT Science Team Meeting, Arcachon, France, October 2025.
+
+27. **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, 2025 SWOT Science Team Meeting, Arcachon, France, October 2025.
 
 26. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. \[[Abstract](https://lps25.esa.int/programme/programme-session/?id=0D8BF424-9842-41BD-B3C9-5885318CEF8A&presentationId=3ABFCE4A-F6B2-44B0-B760-63BA2E2C1C38)\] 
 
