@@ -59,8 +59,6 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 
-20.
-
 19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from
 satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025, pp. NN-NN. <br>
 
