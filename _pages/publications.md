@@ -28,7 +28,9 @@ author_profile: true
 
 8. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
-7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.* ([accepted](https://authors.elsevier.com/tracking/article/details.do?aid=134013&jid=HYDROL&surname=Nguyen)).
+7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.* <br>
+DOI: 10.1016/j.jhydrol.2025.134013
+\[[Publication](https://www.sciencedirect.com/science/article/pii/S0022169425013514)\]
 \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.4902901)\] 
 
 6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.*, vol. 12, no. 2, pp. 109-112, 2024 (IF=16.2) <br>
