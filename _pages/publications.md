@@ -20,6 +20,8 @@ author_profile: true
 
 ## Refereed Journals
 
+12. 
+
 11. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment** (in preparation)  \[[arXiv](https://arxiv.org/abs/2505.08553)\]
 
 10. Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, *Remote Sens. Env.* (under review). \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.5355221)\]
