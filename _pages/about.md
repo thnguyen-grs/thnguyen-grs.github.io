@@ -44,6 +44,8 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2025
+
+- September 2025: PhD opportunity at LIST, to start in Q4 2025 or Q1 2026 ([link](https://app.skeeled.com/offer/c/68a856b71b9eecfce9eecfe9?lang=en&show_description=true)).
 - August 2025: a co-authored contribution “Merits of hydrology remote sensing data from Pléiades and Sentinel-1 for fluvial flood forecasting using 2D hydrodynamic modeling with data assimilation” has been submitted to the [13th International Conference on Fluvial Hydraulics (River Flow 2026)](https://riverflow2026.web.auth.gr/) in Thessaloniki, Greece <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png" width="20">.
 - July 2025: a co-authored contribution “Floodplain simulation with topographic data from satellite remote sensing” has been accepted for an oral presentation 2025 TELEMAC User Conference (TUC2025) in Menai Bridge, Wales <img alt="Wales" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/250px-Flag_of_Wales.svg.png" style="background-color:transparent" width="20">.
 - July 2025: two co-authored contributions have been accepted for oral/poster presentations at the [2025 SWOT Science Team Meeting (SWOT2025)](https://swot2025.org/) in Arcachon <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
