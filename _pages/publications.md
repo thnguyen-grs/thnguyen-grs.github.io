@@ -24,11 +24,11 @@ author_profile: true
 
 11. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment** (in preparation)  \[[arXiv](https://arxiv.org/abs/2505.08553)\]
 
-10. Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, *Remote Sens. Env.* (under review). \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.5355221)\]
+10. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
-9. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2504.21670)\]
+9. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
-8. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
+8. Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, *Remote Sens. Env.* (accepted). \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.5355221)\]
 
 7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.*, vol. 663, Part A, pp. 134013, 2025 <br>
 DOI: 10.1016/j.jhydrol.2025.134013
