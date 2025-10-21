@@ -123,9 +123,9 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
-28. **Assimilation of SWOT Nodes Products into Basin-scale Hydraulic Models**, 2025 SWOT Science Team Meeting, Arcachon, France, October 2025.
+28. **Assimilation of SWOT Nodes Products into Basin-scale Hydraulic Models**, SWOT Science Team Meeting 2025, Arcachon, France, October 2025.
 
-27. **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, 2025 SWOT Science Team Meeting, Arcachon, France, October 2025.
+27. **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction** (talk, given by Q. Bonassies, CERFACS), SWOT Science Team Meeting 2025, Arcachon, France, October 2025.
 
 26. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. \[[Abstract](https://lps25.esa.int/programme/programme-session/?id=0D8BF424-9842-41BD-B3C9-5885318CEF8A&presentationId=3ABFCE4A-F6B2-44B0-B760-63BA2E2C1C38)\] 
 
