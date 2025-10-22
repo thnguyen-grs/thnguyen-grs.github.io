@@ -20,7 +20,7 @@ author_profile: true
 
 ## Refereed Journals
 
-12. 
+12. J. Li et al., **Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). 
 
 11. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment** (in preparation)  \[[arXiv](https://arxiv.org/abs/2505.08553)\]
 
