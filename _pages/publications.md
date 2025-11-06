@@ -22,15 +22,18 @@ author_profile: true
 
 12. J. Li et al., **Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). 
 
-11. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment** (in preparation)  \[[arXiv](https://arxiv.org/abs/2505.08553)\]
+11. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment** (under review). \[[arXiv](https://arxiv.org/abs/2505.08553)\]
 
-10. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2504.21670)\]
+10. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[Pulication]()] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
 9. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
-8. Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, *Remote Sens. Env.* (accepted). \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.5355221)\]
+8. Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, *Remote Sens. Env.*, 333, 115101, 2026. (IF=11.4) <br>
+DOI: 10.1016/j.rse.2025.115101
+\[[Publication](https://www.sciencedirect.com/science/article/pii/S003442572500505X)\]
+\[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.5355221)\]
 
-7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.*, vol. 663, Part A, pp. 134013, 2025 <br>
+7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.*, vol. 663, Part A, pp. 134013, 2025. (IF=6.3) <br>
 DOI: 10.1016/j.jhydrol.2025.134013
 \[[Publication](https://www.sciencedirect.com/science/article/pii/S0022169425013514)\]
 \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.4902901)\] 
