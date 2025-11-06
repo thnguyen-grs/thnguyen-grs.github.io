@@ -25,6 +25,7 @@ redirect_from:
     * [SWIFT](https://anr.fr/Projet-ANR-23-CE56-0009) (Shallow Water modelling and satellite Imagery combination for improving Flood predicTion), ANR PRCI/FNR INTER 2024-2027
     * HERON (Satellite Earth Observation-based technologies supporting community-initiated disaster risk reduction in Bangladesh), FNR LuxAid BRIDGES 2024-2027
 	* EWERS (Global Early Warning and Effective Response System), UNHCR-LIST Collaboration 2024-2025
+	* AQUABIO (Advancing Quantitative Understanding and hydrological insights of the water cycle and flood dynamics using BIOMASS data), BIOMASS Cal/Val and TOSCA program 2026
   * Involved in:
     * [FloodDAM-DigitalTwin](https://www.spaceclimateobservatory.org/flooddam-dt) and [IDEAS](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/)
     * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
