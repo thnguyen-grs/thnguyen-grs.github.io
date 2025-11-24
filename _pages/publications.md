@@ -126,13 +126,13 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
-28. **Assimilation of SWOT Nodes Products into Basin-scale Hydraulic Models**, SWOT Science Team Meeting 2025, Arcachon, France, October 2025.
+28. **Assimilation of SWOT Nodes Products into Basin-scale Hydraulic Models**, SWOT Science Team Meeting 2025, Arcachon, France, October 2025. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/poster_SWOTST_2025_VF.pdf)\]
 
 27. **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction** (talk, given by Q. Bonassies, CERFACS), SWOT Science Team Meeting 2025, Arcachon, France, October 2025.
 
-26. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. \[[Abstract](https://lps25.esa.int/programme/programme-session/?id=0D8BF424-9842-41BD-B3C9-5885318CEF8A&presentationId=3ABFCE4A-F6B2-44B0-B760-63BA2E2C1C38)\] 
+26. **Digital Twin Component in Urban Flood Modelling - A Proof-of-Concept** (poster by J. S. Wong, LIST), session *Using Earth Observation to development Digital Twin Components for the Earth System*, ESA’s Living Planet Symposium 2025, Vienna, June 2025. \[[Abstract](https://lps25.esa.int/programme/programme-session/?id=0D8BF424-9842-41BD-B3C9-5885318CEF8A&presentationId=3ABFCE4A-F6B2-44B0-B760-63BA2E2C1C38)\] \[[Poster](https://www.researchgate.net/publication/394086222_Digital_Twin_Component_in_Urban_Flood_Modelling_-A_Proof-of-Concept)\]
 
-25. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (poster by Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
+25. **Remote Observation and Modeling Exploration (ROME) of Flood Inundation: Comparative Analysis of Results from Hydrodynamic Model, Optical Sensors, SAR, and Depth Estimation Algorithms** (poster by Henry Q. Yang, University of Wisconsin-Milwaukee), session *Recent Advances in Remote Sensing and Modeling of Flood Inundation*, AGU Fall Meeting 2024, Washington, D.C., December 2024. \[[Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1634621)\] 
 
 24. **Hydraulic retrievals from Data assimilation: River Observation with SWOT** (talk, given by H. Oubanas, INRAE/G-EAU), SWOT Science Team Meeting 2024, Chapel Hill, NC, June 2024.
 
