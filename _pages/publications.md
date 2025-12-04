@@ -126,6 +126,8 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 ## Communications (oral, invited talk, poster)
 
+29. **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, Luxembourg Soil Day 2025, Luxembourg, December 2025. \[[Poster](https://github.com/nthuy190991/G4GRASS/blob/main/SoilDay_2025_GRASS.pdf)\]
+
 28. **Assimilation of SWOT Nodes Products into Basin-scale Hydraulic Models**, SWOT Science Team Meeting 2025, Arcachon, France, October 2025. \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/poster_SWOTST_2025_VF.pdf)\]
 
 27. **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction** (talk, given by Q. Bonassies, CERFACS), SWOT Science Team Meeting 2025, Arcachon, France, October 2025.
