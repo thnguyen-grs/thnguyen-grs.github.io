@@ -47,9 +47,10 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ### 2025
 
+- December 3<sup>rd</sup>, 2025: presented a poster "Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data" at [2025 Luxembourg Soil Day](https://www.list.lu/en/conference/journee-des-sols-2025/) in Luxembourg <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">.
 - December 2025: two abstracts have been accepted at [PolInSAR & Biomass 2026](https://polinsar-biomass2026.esa.int/) in Ljubljana, Slovenia <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png" width="20">
-  - Novel insights of the water cycle and flood dynamics using BIOMASS Cal/Val data
-  - A critical gap filled in temporal decorrelation: P-band radar stability enables tomographic mapping of the Amazon
+  - Novel insights of the water cycle and flood dynamics using BIOMASS Cal/Val data (first-authored),
+  - A critical gap filled in temporal decorrelation: P-band radar stability enables tomographic mapping of the Amazon (co-authored).
 - November 2025: Master/M2 Internship opportunity at LIST, to start in Q1 or Q2 2026. Subject: "Surface and near-surface water mapping using new remote sensing technology (SWOT, GEDI, GNSS-R, and BIOMASS)". Contact me at thanh-huy.nguyen@list.lu for more information. 
 - November 2025: the journal paper **“A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction” has been accepted for publication in the Remote Sensing of Environment**. Full paper can be found [here](https://www.sciencedirect.com/science/article/pii/S003442572500505X).
 - October 14<sup>th</sup> - 17<sup>th</sup>, 2025: poster presentation at the [2025 SWOT Science Team Meeting (SWOTST2025)](https://swot2025.org/) in Arcachon <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
