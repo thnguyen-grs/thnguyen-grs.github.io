@@ -45,10 +45,13 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ### 2026
 
+- February 2<sup>nd</sup> - 4<sup>th</sup>, 2026: attendee at the [ESA Digital Twin Earth Components:  Open Science Meeting 2026](https://nikal.eventsair.com/esa-digital-twin-earth-components-open-science-meeting-2026), Frascati <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - January 26<sup>th</sup> - 30<sup>th</sup>, 2026: poster presentation at the [PolInSAR & Biomass 2026](https://polinsar-biomass2026.esa.int/) in Ljubljana, Slovenia <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png" width="20">
 - January 2026: three [IGARSS](https://2026.ieeeigarss.org/) abstract submissions (all co-authored), two [EGU](https://www.egu26.eu/) abstract submissions (one first-authored and one co-authored).
 
 ### 2025
+
+- ~~December 2025: Data Scientist/Postdoctoral Researcher working under UNHCR (United Nation Refugee Agency), hosted by LIST, to start in Q1 2026 ([link](https://unhcr.wd3.myworkdayjobs.com/en-US/External/details/Data-Scientist_JR2562414-1)).~~ *Closed*
 
 - December 3<sup>rd</sup>, 2025: presented a poster "Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data" at [2025 Luxembourg Soil Day](https://www.list.lu/en/conference/journee-des-sols-2025/) in Luxembourg <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">.
 - December 2025: two abstracts have been accepted at [PolInSAR & Biomass 2026](https://polinsar-biomass2026.esa.int/) in Ljubljana, Slovenia <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png" width="20">
@@ -159,7 +162,7 @@ https://cerfacs.fr/en/offer/hydrodynamic-modelling-at-cerfacs/)). Application de
 - June 16<sup>th</sup> - 18<sup>th</sup>, 2021: attendee at the [SimHydro 2021](https://www.simhydro.org/), Nice <img alt="Fr" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/500px-Flag_of_France.svg.png" style="background-color:transparent" width="20">
 - June 7<sup>th</sup> - 11<sup>th</sup>, 2021: **poster presentation at [HYDROSPACE-GEOGloWS 2021](https://hydrospace2021.org/) conference**, Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - May 24<sup>th</sup> - 28<sup>th</sup> 2021: attendee at the [AGU Natural Hazard Alert](https://www.agu.org/Natural-Hazards-Alerts) Workshop.
-- May 2021: abstract "Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment" has been accepted for a poster presentation HYDROSPACE-GEOGloWS 2021 conference in Frascati (Rome) <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
+- May 2021: abstract "Adding Earth Observation-based Virtual Observations to Improve Data Assimilation for Fluvial Flood Forecasting - Example of the Garonne Marmandaise Catchment" has been accepted for a poster presentation HYDROSPACE-GEOGloWS 2021 conference in Frascati <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - March 2021: co-authored paper "The SCO-FloodDAM Project: New Observing Strategies for Flood Detection, Alert and Rapid Mapping" has been accepted for an oral presentation at [IEEE IGARSS 2021](https://igarss2021.com/) conference in Brussel <img alt="Be" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" width="20">
 - March 16<sup>th</sup> - 18<sup>th</sup> 2021: attendee at the [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling)
 - March 9<sup>th</sup> - 10<sup>th</sup> 2021: participated in the CERFACS GLOBC (Climate Modeling and Global Change) Seminar.
