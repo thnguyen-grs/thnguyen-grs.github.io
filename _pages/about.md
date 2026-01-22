@@ -45,6 +45,9 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ### 2026
 
+- January 26<sup>th</sup> - 30<sup>th</sup>, 2026: poster presentation at the [PolInSAR & Biomass 2026](https://polinsar-biomass2026.esa.int/) in Ljubljana, Slovenia <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png" width="20">
+- January 2026: three [IGARSS](https://2026.ieeeigarss.org/) abstract submissions (all co-authored), two [EGU](https://www.egu26.eu/) abstract submissions (one first-authored and one co-authored).
+
 ### 2025
 
 - December 3<sup>rd</sup>, 2025: presented a poster "Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data" at [2025 Luxembourg Soil Day](https://www.list.lu/en/conference/journee-des-sols-2025/) in Luxembourg <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">.
