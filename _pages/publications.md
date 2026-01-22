@@ -68,6 +68,8 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 
+20. D. Ho Tong Minh, Y-N Ngo, T. H. Nguyen, T. Le Toan, **BIOMASS P-band Radar Stability Enables Tomographic Mapping: First Results in Kalimantan**, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium. <br>
+
 19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025, pp. NN-NN. <br>
 
 18. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 1892-1895. <br>
@@ -125,9 +127,11 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 1. T. H. Nguyen, M. Chabah and C. Sintès, **Correlation bias analysis - A novel method of sinus cardinal model for least squares estimation in cross-correlation,** OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-6. <br>
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
+	 
 ## Communications (oral, invited talk, poster)
 
 31. **Novel insights of the water cycle and flood dynamics using BIOMASS Cal/Val data** (poster), PolInSAR & Biomass 2026, Ljubljana, Slovenia, January 2026.
+\[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AQUABIO_PolInSAR-BIOMASS_poster.pdf)\]
 
 30. **A critical gap filled in temporal decorrelation: P-band radar stability enables tomographic mapping of the Amazon** (talk, given by D. Ho Tong Minh), PolInSAR & Biomass 2026, Ljubljana, Slovenia, January 2026.
 
