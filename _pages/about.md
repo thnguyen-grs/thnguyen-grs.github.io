@@ -52,7 +52,6 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ### 2025
 
 - ~~December 2025: Data Scientist/Postdoctoral Researcher working under UNHCR (United Nation Refugee Agency), hosted by LIST, to start in Q1 2026 ([link](https://unhcr.wd3.myworkdayjobs.com/en-US/External/details/Data-Scientist_JR2562414-1)).~~ *Closed*
-
 - December 3<sup>rd</sup>, 2025: presented a poster "Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data" at [2025 Luxembourg Soil Day](https://www.list.lu/en/conference/journee-des-sols-2025/) in Luxembourg <img alt="Lu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png" style="background-color:transparent" width="20">.
 - December 2025: two abstracts have been accepted at [PolInSAR & Biomass 2026](https://polinsar-biomass2026.esa.int/) in Ljubljana, Slovenia <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png" width="20">
   - Novel insights of the water cycle and flood dynamics using BIOMASS Cal/Val data (first-authored),
