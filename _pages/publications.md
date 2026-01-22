@@ -20,45 +20,47 @@ author_profile: true
 
 ## Refereed Journals
 
-12. J. Li et al., **Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). 
+12. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2505.08553)\]
 
-11. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2505.08553)\]
+11. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[Pulication]()] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
-10. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[Pulication]()] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
+10. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
-9. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
+9. J. Li, H. Huang, W. He, H. Zhang, L. Zhang, T. Liu, M. Yuan, C. Lu, K. Lu, B. Peng, H. Duan, M. Li, P. Zhang, T. Wang, T. Liao, Y. Li, B. Dang, F. Wei, J. Tan, Y. Lin, C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez-Suquet, P. Guntzburger, V. Poulain, J. Le Moigne, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, A. Piacentini, **Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, 333, 115101, 2026. <br>
+DOI: 10.1109/JSTARS.2026.3652462
+\[[Publication](https://ieeexplore.ieee.org/document/11344735)\]
 
-8. Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, *Remote Sens. Env.*, 333, 115101, 2026. (IF=11.4) <br>
+8. Q. Bonassies, C. Fatras, S. Pena Luque, P. Dubois, A. Piacentini, L. Cassan, S. Ricci, and T. H. Nguyen, **A Comprehensive Study of Surface Water and Ocean Topography Pixel Cloud Data for Flood Extent Extraction**, *Remote Sens. Env.*, 333, 115101, 2026. <br>
 DOI: 10.1016/j.rse.2025.115101
 \[[Publication](https://www.sciencedirect.com/science/article/pii/S003442572500505X)\]
 \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.5355221)\]
 
-7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.*, vol. 663, Part A, pp. 134013, 2025. (IF=6.3) <br>
+7. T. H. Nguyen, S. Ricci, F. Boy, A. Piacentini, S. Munier, S. Pena Luque, C. Fatras, L. Cassan, and R. Rodriguez Suquet, **Chained Hydrologic-hydraulic for Flood Modeling by Assimilating SAR-derived Flood Extent and FFSAR-Processed Altimetry Data**, *J. Hydrol.*, vol. 663, Part A, pp. 134013, 2025. <br>
 DOI: 10.1016/j.jhydrol.2025.134013
 \[[Publication](https://www.sciencedirect.com/science/article/pii/S0022169425013514)\]
 \[[SSRN Preprint](https://dx.doi.org/10.2139/ssrn.4902901)\] 
 
-6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.*, vol. 12, no. 2, pp. 109-112, 2024 (IF=16.2) <br>
+6. C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez Suquet, P. Guntzburger, V. Poulain, J. Lemoigne-Stewart, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, and A. Piacentini, **2024 IEEE GRSS Data Fusion Contest: Rapid Flood Mapping**, *IEEE Geosci. Remote Sens. Mag.*, vol. 12, no. 2, pp. 109-112, 2024 <br>
 DOI: 10.1109/MGRS.2024.3367006
 \[[Publication](https://ieeexplore.ieee.org/document/10582794)\]
 
-5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.*, vol. 62, pp. 1-21, 2024, Art no. 4200521 (IF=8.125) <br>
+5. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, S. Pena Luque, **Gaussian Anamorphosis for Ensemble Kalman Filter Analysis of SAR-Derived Wet Surface Ratio Observations**, *IEEE Trans. Geosci. Remote Sens.*, vol. 62, pp. 1-21, 2024, Art no. 4200521 <br>
 DOI: 10.1109/TGRS.2023.3338296
 \[[Publication](https://ieeexplore.ieee.org/document/10336771)\] \[[arXiv](https://arxiv.org/abs/2304.01058)\]
 
-4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, *Water Resour. Res.*, 58, e2022WR033155, 2022 (IF=6.159)<br>
+4. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Dual State-Parameter Assimilation of SAR-derived Wet Surface Ratio for Improving Fluvial Flood Reanalysis**, *Water Resour. Res.*, 58, e2022WR033155, 2022 <br>
 DOI: 10.1029/2022WR033155
 \[[Publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033155)\] \[[ESS Open Archive](https://essopenarchive.org/doi/full/10.1002/essoar.10511831.1)\]
 
-3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation**, *IEEE Trans. Geosci. Remote Sens.*, vol. 60, pp. 1-22, 2022, Art no. 4206022 (IF=8.125) <br>
+3. T. H. Nguyen, S. Ricci, C. Fatras, A. Piacentini, A. Delmotte, E. Lavergne and P. Kettig, **Improvement of Flood Extent Representation with Remote Sensing Data and Data Assimilation**, *IEEE Trans. Geosci. Remote Sens.*, vol. 60, pp. 1-22, 2022, Art no. 4206022 <br>
 DOI: 10.1109/TGRS.2022.3147429
 \[[Publication](https://ieeexplore.ieee.org/document/9695446)\] \[[arXiv](https://arxiv.org/abs/2109.08487)\]
 
-2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, vol. 12(11), 1702, 2020 (IF=5.349) <br>
+2. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Super-Resolution-based Snake Model - An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image**, *Remote Sens.*, vol. 12(11), 1702, 2020 <br>
 DOI: 10.3390/RS12111702
 \[[Publication](https://www.mdpi.com/2072-4292/12/11/1702)\] \[[arXiv](https://arxiv.org/abs/2004.08522)\] \[[Github](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction)\] 
 
-1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, vol. 13, pp. 3125-3144, 2020 (IF=4.715) <br>
+1. T. H. Nguyen, S. Daniel, D. Guériot, C. Sintès and J.-M. Le Caillec, **Coarse-to-Fine Registration of Airborne LiDAR Data and Optical Imagery on Urban Scenes**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, vol. 13, pp. 3125-3144, 2020 <br>
 DOI: 10.1109/JSTARS.2020.2987305
 \[[Publication](https://ieeexplore.ieee.org/document/9103265)\] \[[arXiv](https://arxiv.org/abs/1909.13817)\]
 
@@ -66,8 +68,7 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 
-19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from
-satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025, pp. NN-NN. <br>
+19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025, pp. NN-NN. <br>
 
 18. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 1892-1895. <br>
 DOI: 10.1109/IGARSS53475.2024.10640487 \[[proceeding](https://ieeexplore.ieee.org/document/10640487)\] 
@@ -125,6 +126,10 @@ DOI: 10.1109/IGARSS.2019.8898612 \[[proceeding](https://ieeexplore.ieee.org/docu
 DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abstract/document/7404526/)\] \[[preprint](https://www.researchgate.net/publication/298786880_Correlation_bias_analysis_-_A_novel_method_of_sinus_cardinal_model_for_least_squares_estimation_in_cross-correlation)\] \[[poster](https://www.dropbox.com/s/zjwgzj0rv02ftwj/poster.pdf?dl=0)\]<br><span style="color:blue"><b>Finalist of Student Poster Competition</b></span>
  	 
 ## Communications (oral, invited talk, poster)
+
+31. **Novel insights of the water cycle and flood dynamics using BIOMASS Cal/Val data** (poster), PolInSAR & Biomass 2026, Ljubljana, Slovenia, January 2026.
+
+30. **A critical gap filled in temporal decorrelation: P-band radar stability enables tomographic mapping of the Amazon** (talk, given by D. Ho Tong Minh), PolInSAR & Biomass 2026, Ljubljana, Slovenia, January 2026.
 
 29. **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, Luxembourg Soil Day 2025, Luxembourg, December 2025. \[[Poster](https://github.com/nthuy190991/G4GRASS/blob/main/SoilDay_2025_GRASS.pdf)\]
 
