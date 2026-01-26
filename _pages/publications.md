@@ -22,9 +22,13 @@ author_profile: true
 
 12. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.* (under review). \[[arXiv](https://arxiv.org/abs/2505.08553)\]
 
-11. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (under review). \[[Pulication]()] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
+11. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (accepted). <br>
+DOI: 10.1109/JSTARS.XXX.XXX
+\[[Pulication]()] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
-10. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (under review). \[[arXiv](https://arxiv.org/abs/2405.00567)\]
+10. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (accepted). <br>
+DOI: 10.1029/2026WRXXX
+\[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
 9. J. Li, H. Huang, W. He, H. Zhang, L. Zhang, T. Liu, M. Yuan, C. Lu, K. Lu, B. Peng, H. Duan, M. Li, P. Zhang, T. Wang, T. Liao, Y. Li, B. Dang, F. Wei, J. Tan, Y. Lin, C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez-Suquet, P. Guntzburger, V. Poulain, J. Le Moigne, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, A. Piacentini, **Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, 333, 115101, 2026. <br>
 DOI: 10.1109/JSTARS.2026.3652462
