@@ -26,9 +26,9 @@ author_profile: true
 DOI: 10.1109/JSTARS.XXX.XXX
 \[[Pulication]()] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
-10. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.* (accepted). <br>
-DOI: 10.1029/2026WRXXX
-\[[arXiv](https://arxiv.org/abs/2405.00567)\]
+10. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.*, 62, e2024WR039468, 2026. <br>
+DOI: 10.1029/2024WR039468
+\[[Pulication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR039468)] \[[arXiv](https://arxiv.org/abs/2405.00567)\]
 
 9. J. Li, H. Huang, W. He, H. Zhang, L. Zhang, T. Liu, M. Yuan, C. Lu, K. Lu, B. Peng, H. Duan, M. Li, P. Zhang, T. Wang, T. Liao, Y. Li, B. Dang, F. Wei, J. Tan, Y. Lin, C. Persello, S. Prasad, G. Vivone, V. Lonjou, F. Bretar, R. Rodriguez-Suquet, P. Guntzburger, V. Poulain, J. Le Moigne, B. Smith, S. Kumar, T. Huang, S. Ricci, T. H. Nguyen, A. Piacentini, **Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, 333, 115101, 2026. <br>
 DOI: 10.1109/JSTARS.2026.3652462
