@@ -24,7 +24,7 @@ author_profile: true
 
 11. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (accepted). <br>
 DOI: 10.1109/JSTARS.2026.3659808
-\[[Publication]()\] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
+\[[Publication](https://ieeexplore.ieee.org/document/11368722)\] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
 10. T. H. Nguyen, A. Piacentini, S. Ricci, L. Cassan, S. Munier, Q. Bonassies, and R. Rodriguez Suquet, **Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**, *Water Resour. Res.*, 62, e2024WR039468, 2026. <br>
 DOI: 10.1029/2024WR039468
