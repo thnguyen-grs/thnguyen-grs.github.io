@@ -45,10 +45,11 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ### 2026
 
+- February 2026: journal paper **“Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment” has been accepted for publication in Remote Sensing MDPI**. Full paper can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - February 2<sup>nd</sup> - 4<sup>th</sup>, 2026: attendee at the [ESA Digital Twin Earth Components:  Open Science Meeting 2026](https://nikal.eventsair.com/esa-digital-twin-earth-components-open-science-meeting-2026), Frascati <img alt="It" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" width="20">
 - January 26<sup>th</sup> - 30<sup>th</sup>, 2026: poster presentation at the [PolInSAR & Biomass 2026](https://polinsar-biomass2026.esa.int/) in Ljubljana, Slovenia <img alt="US" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png" width="20">
 - January 2026: journal paper **“Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting” has been accepted for publication in AGU Water Resources Research**. Full paper can be found [here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022WR033155).
-- January 2026: two journal papers **“Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data”, and “Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest” have been accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**. Full papers can be found [Publication page](https://thnguyen-grs.github.io/publications/).
+- January 2026: two journal papers **“Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data”, and “Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest” have been accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)**. Full papers can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
 - January 2026: three [IGARSS](https://2026.ieeeigarss.org/) abstract submissions (all co-authored), two [EGU](https://www.egu26.eu/) abstract submissions (one first-authored and one co-authored).
 
 ### 2025
