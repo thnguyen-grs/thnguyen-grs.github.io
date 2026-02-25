@@ -20,11 +20,11 @@ author_profile: true
 
 ## Refereed Journals
 
-12. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.* (accepted). <br>
-DOI: 10.3390/RS12111702
-\[[arXiv](https://arxiv.org/abs/2505.08553)\]
+12. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.*, vol. 18(5), 685, 2026. <br>
+DOI: 10.3390/rs18050685
+\[[Publication](https://www.mdpi.com/2072-4292/18/5/685)\] \[[arXiv](https://arxiv.org/abs/2505.08553)\]
 
-11. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.* (accepted). <br>
+11. Q. Bonassies, T. H. Nguyen, L. Cassan, A. Piacentini, S. Ricci, C. Emery, C. Fatras, S. Pena Luque, and R. Rodriguez Suquet, **Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**, *IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens.*, vol. 19, pp. 7024-7041, 2026. <br>
 DOI: 10.1109/JSTARS.2026.3659808
 \[[Publication](https://ieeexplore.ieee.org/document/11368722)\] \[[arXiv](https://arxiv.org/abs/2504.21670)\]
 
