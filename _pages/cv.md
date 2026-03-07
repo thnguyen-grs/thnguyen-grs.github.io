@@ -21,6 +21,7 @@ redirect_from:
   * Team: [ERIN](https://www.list.lu/en/environment/)/[Environmental Sensing and Modelling (ENVISION)](https://www.list.lu/en/environment/environmental-sensing-and-modelling/)
   * Projects:
   	* AIGLE (Advancing AI-based flash flood triGgers for earLy warning systEm and anticipatory actions), UNOCHA-LIST Collaboration 2026-2027, funded by Luxembourg Ministry of Foreign Affaire
+	* EO4HCMC (Earth Observation-based solutions to support and improve Ho Chi Minh City's natural disaster risks adaptation and management), FNR LuxAid BRIDGES SEEDLING 2026
 	* EWERS (Global Early Warning and Effective Response System), UNHCR-LIST Collaboration 2025-2026, funded by Luxembourg Ministry of Foreign Affaire
     * [Coastal processes and extremes](https://argans.github.io/WEB-coastaldte.argans.co.uk), Coastal DTC, ESA-DTE-B-01 LEAD DTCS DEVELOPMENT ACTIONS 2024-2026
 	* SURE (Smart Urban Resilience Enhancement), Urban DTC, ESA-DTE-B-02 EARLY DTCS DEVELOPMENT ACTIONS 2024-2025
