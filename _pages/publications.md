@@ -20,6 +20,9 @@ author_profile: true
 
 ## Refereed Journals
 
+13. Montella et al, **Multi-source Data Assimilation of Sentinel-2 Reflectance and Smap Soil Moisture Into APSIM for Maize Biomass Estimation**, Precision Agriculture (submitted)
+\[[ResearchSquare]()\]
+
 12. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.*, vol. 18(5), 685, 2026. <br>
 DOI: 10.3390/rs18050685
 \[[Publication](https://www.mdpi.com/2072-4292/18/5/685)\] \[[arXiv](https://arxiv.org/abs/2505.08553)\]
