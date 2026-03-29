@@ -20,8 +20,8 @@ author_profile: true
 
 ## Refereed Journals
 
-13. Montella et al, **Multi-source Data Assimilation of Sentinel-2 Reflectance and Smap Soil Moisture Into APSIM for Maize Biomass Estimation**, Precision Agriculture (submitted)
-\[[ResearchSquare]()\]
+13. M. Montella, C. Bossung, T. H. Nguyen, M. Chini, J. F. Iffly, T. Udelhoven, J. Kubanek, Z. Szantoi, M. Machwitz, **Multi-source Data Assimilation of Sentinel-2 Reflectance and Smap Soil Moisture Into APSIM for Maize Biomass Estimation**, Precision Agriculture (submitted)
+\[[ResearchSquare](https://www.researchsquare.com/article/rs-9073727/v1)\]
 
 12. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.*, vol. 18(5), 685, 2026. <br>
 DOI: 10.3390/rs18050685
@@ -138,6 +138,11 @@ DOI: 10.23919/OCEANS.2015.7404526 \[[proceeding](https://ieeexplore.ieee.org/abs
  	 
 	 
 ## Communications (oral, invited talk, poster)
+
+33. **Integrating AI-derived SAR Flood Extent Map Uncertainties in Remote Sensing Data Assimilation for Flood Forecasting** (talk), session *Water Level, Extent, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2026 EGU General Assembly, Vienna, May 2026. \[[Abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-14113.html)\]
+
+32. **SWOT data assimilation in 2D hydrodnamic model for flood studies
+** (talk, given by L. Cassan, CERFACS), session *Water Level, Extent, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*, 2026 EGU General Assembly, Vienna, May 2026. \[[Abstract](https://meetingorganizer.copernicus.org/EGU26/EGU26-6576.html)\]
 
 31. **Novel insights of the water cycle and flood dynamics using BIOMASS Cal/Val data** (poster), PolInSAR & Biomass 2026, Ljubljana, Slovenia, January 2026.
 \[[Poster](https://github.com/thnguyen-grs/thnguyen-grs.github.io/blob/master/files/AQUABIO_PolInSAR-BIOMASS_poster.pdf)\]
