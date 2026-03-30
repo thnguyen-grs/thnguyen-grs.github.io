@@ -45,6 +45,7 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 
 ### 2026
 
+- March 2026: Job opportunity in AI for Flash flood prediction at LIST, to start in May/June 2026 ([link](https://app.skeeled.com/offer/c/69b91b0f2710987b7a1bcadf?lang=en&show_description=true)). Application deadline: April 30, 2026.
 - March 2026: two abstracts “Integrating AI-derived SAR Flood Extent Map Uncertainties in Remote Sensing Data Assimilation for Flood Forecasting” and “SWOT data assimilation in 2D hydrodnamic model for flood studies” have been accepted for oral presentations at [2026 EGU General Assembly](https://www.egu23.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png" width="20">.
 - March 2026: a co-authored journal paper "Multi-source data assimilation of Sentinel-2 reflectance and SMAP soil moisture into APSIM for maize biomass estimation" has been submitted to the Precision Agriculture. The preprint version can be found here [ResearchSquare](https://www.researchsquare.com/article/rs-9073727/v1).
 - February 2026: journal paper **“Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment” has been accepted for publication in Remote Sensing MDPI**. Full paper can be found in [Publication page](https://thnguyen-grs.github.io/publications/).
