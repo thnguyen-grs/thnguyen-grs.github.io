@@ -77,7 +77,11 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 ## Conference Papers (with proceedings)
 
-20. D. Ho Tong Minh, Y-N Ngo, T. H. Nguyen, T. Le Toan, **BIOMASS P-band Radar Stability Enables Tomographic Mapping: First Results in Kalimantan**, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium. <br>
+22. S. Ricci, T. H. Nguyen, L. Cassan, Q. Bonassies, A. Piacentini, R. Rodriguez Suquet, S. Peña Luque, C. Fatras, B. Astifan, R. Davis, M. Durand, S. P. Coss, **Merits of Multi-Mission Remote Sensing Data Assimilation on Improving Flood Forecasting – A Case Study of Ohio River between Cannelton–Newburgh**, RiverFlow 2026 - 13th International Conference on Fluvial Hydraulics. <br>
+
+21. D. Ho Tong Minh, Y-N Ngo, T. H. Nguyen, T. Le Toan, **BIOMASS P-band Radar Stability Enables Tomographic Mapping: First Results in Kalimantan**, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium. <br>
+
+20. Tran-Vu La, Yu Li, T. H. Nguyen, Patrick Matgen, Marco Chini, **Adaptive Federated Learning for Ship Detection on Multi-Source Satellite Imagery**, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium. <br>
 
 19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025, pp. NN-NN. <br>
 
