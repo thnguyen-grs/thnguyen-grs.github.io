@@ -44,6 +44,9 @@ Research Scientist at Luxembourg Institute of Science and Technology, Esch-sur-A
 ## Work timeline/News:
 
 ### 2026
+
+- June 17<sup>th</sup>: will be giving a talk at the [Data for Peace Conference](https://www.uu.se/en/department/peace-and-conflict-research/collaboration/data-for-peace-conference/agenda/agenda-wednesday-17-june-online) on Forecasting Hazard-Driven Displacement to Inform Emergency Preparedness and LIST-UNHCR collaboration (EWERS project).
+- June 1<sup>st</sup>: will be attending the Launch Event for the [UNHCR Innovation Accelerator](https://www.unhcr.org/innovation/accelerator/), a global initiative in partnership with the Government of Luxembourg, and with support from the Luxembourg Institute of Science and Technology.
 - May 4<sup>th</sup> - 8<sup>th</sup>, 2026: **oral presentation at [2026 EGU General Assembly](https://www.egu26.eu/)** in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png" width="20">, session *Water Level, Extent, Storage and Discharge from Remote Sensing and Assimilation in Hydrodynamic Models*.
 - March 2026: Job opportunity in AI for Flash flood prediction at LIST, to start in Q2-Q3 2026 ([link](https://app.skeeled.com/offer/c/69b91b0f2710987b7a1bcadf?lang=en&show_description=true)).
 - March 2026: two abstracts “Integrating AI-derived SAR Flood Extent Map Uncertainties in Remote Sensing Data Assimilation for Flood Forecasting” and “SWOT data assimilation in 2D hydrodnamic model for flood studies” have been accepted for oral presentations at [2026 EGU General Assembly](https://www.egu23.eu/) in Vienna <img alt="Austria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png" width="20">.
