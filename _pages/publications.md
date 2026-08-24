@@ -83,7 +83,8 @@ DOI: 10.1109/JSTARS.2020.2987305
 
 20. Tran-Vu La, Yu Li, T. H. Nguyen, Patrick Matgen, Marco Chini, **Adaptive Federated Learning for Ship Detection on Multi-Source Satellite Imagery**, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium. <br>
 
-19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025, pp. NN-NN. <br>
+19. L. Cassan, A. Piacentini, T. H. Nguyen, S. Ricci, T. Garin, R. Rodriguez Suquet, **Floodplain simulation with topographic data from satellite remote sensing**, TELEMAC-MASCARET User Conference 2025, Wales, 2025. <br>
+Handle: 20.500.11970/115316 \[[proceeding](https://henry.baw.de/bitstream/handle/20.500.11970/115316/05_TUC-2025_Cassan_Satellite-Derived-Digital-Elevation-Models.pdf)\] 
 
 18. D. Zoccatelli, T. H. Nguyen, J. S. Wong, M. Chini, T. C. van Hateren, and P. Matgen, **Drought Monitoring in Luxembourg and the Greater Region using Hydrological modelling and Satellite Data**, IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athen, Greece, 2024, pp. 1892-1895. <br>
 DOI: 10.1109/IGARSS53475.2024.10640487 \[[proceeding](https://ieeexplore.ieee.org/document/10640487)\] 
@@ -114,7 +115,6 @@ DOI: 10.1109/IGARSS52108.2023.10282456 \[[proceeding](https://ieeexplore.ieee.or
 
 9. T. H. Nguyen, S. Ricci, A. Piacentini, E. Simon, R. Rodriguez Suquet, and S. Pena Luque, **Dealing With Non-Gaussianity of SAR-derived Wet Surface Ratio for Flood Extent Representation Improvement**, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1595-1598. <br>
 DOI: 10.1109/IGARSS52108.2023.10282744 \[[proceeding](https://ieeexplore.ieee.org/document/10282744)\] \[[arXiv](https://arxiv.org/abs/2306.08466)\]
-
 
 8. T. H. Nguyen, S. Ricci, A. Piacentini, C. Fatras, P. Kettig, G. Blanchet, S. Pena Luque, and S. Baillarin, **Assimilation of SAR-derived Flood Extent Observations for Improving Fluvial Flood Forecast – A Proof-of-concept**, IOP Conf. Ser.: Earth Environ. Sci., 1136, 2023. <br>
 DOI: 10.1088/1755-1315/1136/1/012018 \[[proceeding](https://iopscience.iop.org/article/10.1088/1755-1315/1136/1/012018)\] \[[arXiv](https://arxiv.org/abs/2205.08471)\] 
