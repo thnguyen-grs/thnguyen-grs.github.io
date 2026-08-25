@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Thanh Huy Nguyen, Ph.D.
+# Thanh Huy Nguyen, Ph.D
 
 <blockquote>
 <b>Definition 1.1.</b> Uncertainty quantification is the science of quantitative characterization and reduction of uncertainties in both computational and real-world applications. It tries to determine how likely certain outcomes are if some aspects of the system are not exactly known.
