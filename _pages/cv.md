@@ -30,7 +30,7 @@ redirect_from:
     * HERON (Satellite Earth Observation-based technologies supporting community-initiated disaster risk reduction in Bangladesh), FNR LuxAid BRIDGES 2024-2027
 	* [CopLAC](https://docs.copernicuslac.terradue.com/) (Copernicus Latin America and the Caribbean), funded by ESA, 2024-2028
 	* [HOSWA](https://www.spaceclimateobservatory.org/fr/hoswa) (Ho Chi Minh City Observatory for Subsidence and Water Adaptation), Space for Climate Observatory (SCO-France) 2026, 2026-2027
-	* AQUABIO (Advancing Quantitative Understanding and hydrological insights of the water cycle and flood dynamics using BIOMASS data), BIOMASS Cal/Val and TOSCA program 2026
+	* AQUABIO (Advancing Quantitative Understanding and hydrological insights of the water cycle and flood dynamics using BIOMASS data), BIOMASS Cal/Val 2026
   * Involved in:
     * [FloodDAM-DigitalTwin](https://www.spaceclimateobservatory.org/flooddam-dt) and [IDEAS](https://ideas-digitaltwin.jpl.nasa.gov/hydrology/)
     * HYDROS (HYdraulic retrievals from Data assimilation: River Observation with SWOT), TOSCA-SWOT program 2024-2027
