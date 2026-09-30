@@ -20,8 +20,10 @@ author_profile: true
 
 ## Refereed Journals
 
-13. M. Montella, C. Bossung, T. H. Nguyen, M. Chini, J. F. Iffly, T. Udelhoven, J. Kubanek, Z. Szantoi, M. Machwitz, **Multi-source Data Assimilation of Sentinel-2 Reflectance and Smap Soil Moisture Into APSIM for Maize Biomass Estimation**, Precision Agriculture (accepted)
-\[[ResearchSquare](https://www.researchsquare.com/article/rs-9073727/v1)\]
+13. M. Montella, C. Bossung, T. H. Nguyen, M. Chini, J. F. Iffly, T. Udelhoven, J. Kubanek, Z. Szantoi, M. Machwitz, **Multi-source Data 
+Assimilation of Sentinel-2 Reflectance and Smap Soil Moisture Into APSIM for Maize Biomass Estimation**, *Precision Agriculture*, vol. 27, 147, 2026.<br>
+DOI: 10.1007/s11119-026-10442-6
+\[[Publication](https://link.springer.com/article/10.1007/s11119-026-10442-6)\] \[[ResearchSquare](https://www.researchsquare.com/article/rs-9073727/v1)\]
 
 12. T. H. Nguyen, S. Bhattacharya, J. S. Wong, Y. Didry, D.L. Phan, B. Maguire, J.-B. Paolucci, T. Tamisier and P. Matgen, **Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations - A Proof-of-Concept in the Alzette Catchment**, *Remote Sens.*, vol. 18(5), 685, 2026. <br>
 DOI: 10.3390/rs18050685
