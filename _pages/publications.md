@@ -20,6 +20,8 @@ author_profile: true
 
 ## Refereed Journals
 
+14. L. Cassan, Q. Bonassies, S. Ricci, A. Piacentini, T. H. Nguyen, and R. Rodriguez Suquet, **Flood mapping with remote sensing data and simple hydraulic model, Flood Extent Estimation Technic (FEET)**, submitted to J. Hydrol. [Under review].
+
 13. M. Montella, C. Bossung, T. H. Nguyen, M. Chini, J. F. Iffly, T. Udelhoven, J. Kubanek, Z. Szantoi, M. Machwitz, **Multi-source Data 
 Assimilation of Sentinel-2 Reflectance and Smap Soil Moisture Into APSIM for Maize Biomass Estimation**, *Precision Agriculture*, vol. 27, 147, 2026.<br>
 DOI: 10.1007/s11119-026-10442-6
